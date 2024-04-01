@@ -4,9 +4,15 @@ on:
   push:
     branches: 
       - main
+  paths:
+      - 'kibot/**.*'
+      - 'pcb_*/**.*' 
   pull_request:
     branches: 
       - main
+  paths:
+      - 'kibot/**.*'
+      - 'pcb_*/**.*' 
 
 jobs:
   Fabrication-Controller:
