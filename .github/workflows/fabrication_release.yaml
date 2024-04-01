@@ -158,7 +158,7 @@ jobs:
           draft: true
           prerelease: false
       - name: Upload Release Asset - Controller
-        id: upload-release-asset 
+        id: upload-release-asset-controller
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -168,7 +168,7 @@ jobs:
           asset_name: Fabrication Controller
           asset_content_type: application/zip
       - name: Upload Release Asset - HBridge
-        id: upload-release-asset 
+        id: upload-release-asset-hbridge
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -178,7 +178,7 @@ jobs:
           asset_name: Fabrication HBridge
           asset_content_type: application/zip
       - name: Upload Release Asset - Main
-        id: upload-release-asset 
+        id: upload-release-asset-main
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -188,7 +188,7 @@ jobs:
           asset_name: Fabrication Main
           asset_content_type: application/zip
       - name: Upload Release Asset - Power
-        id: upload-release-asset 
+        id: upload-release-asset-power
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
