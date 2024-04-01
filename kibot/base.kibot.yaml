@@ -68,7 +68,7 @@ outputs:
           name: Manufacturer
         - field: Manufacturer_Part_Number
           name: Manufacturer#
-        - field: JLCPCB#
+        - field: LCSC#
           name: 'LCSC-Key'
         - field: Mouser#
           name: 'Mouser-Key'
@@ -83,7 +83,7 @@ outputs:
       normalize_locale: true
       html:
         digikey_link: 'digikey#'
-        lcsc_link: 'JLCPCB#'
+        lcsc_link: 'LCSC#'
         mouser_link: 'Mouser#'
         highlight_empty: false
 

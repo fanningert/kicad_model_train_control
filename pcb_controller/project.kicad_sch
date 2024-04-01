@@ -2509,24 +2509,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 157.48 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 157.48 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 157.48 172.72 0)
 			(effects
@@ -2814,24 +2796,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.48 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 157.48 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 157.48 185.42 0)
 			(effects
 				(font
@@ -3475,24 +3439,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 157.48 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 157.48 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 157.48 191.77 0)
 			(effects
@@ -3568,24 +3514,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.48 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 157.48 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 157.48 166.37 0)
 			(effects
 				(font
@@ -3735,24 +3663,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.48 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 157.48 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 157.48 179.07 0)
 			(effects
 				(font

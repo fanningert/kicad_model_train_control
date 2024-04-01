@@ -540,8 +540,8 @@
         },
         {
           "group_by": false,
-          "label": "JLCPCB#",
-          "name": "JLCPCB#",
+          "label": "LCSC#",
+          "name": "LCSC#",
           "show": true
         },
         {
@@ -570,8 +570,8 @@
         },
         {
           "group_by": false,
-          "label": "JLCPCB# Alternatives",
-          "name": "JLCPCB# Alternatives",
+          "label": "LCSC# Alternatives",
+          "name": "LCSC# Alternatives",
           "show": true
         },
         {

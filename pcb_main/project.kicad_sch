@@ -6383,24 +6383,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 91.44 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 91.44 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 91.44 72.39 0)
 			(effects
@@ -6496,24 +6478,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 156.21 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 156.21 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 156.21 171.45 0)
 			(effects
@@ -6594,24 +6558,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C60490"
-			(at 91.44 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 91.44 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 91.44 102.87 0)
 			(effects
@@ -6631,6 +6577,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 91.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C60490"
 			(at 91.44 102.87 0)
 			(effects
 				(font
@@ -6699,24 +6654,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 53.34 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 53.34 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 53.34 72.39 0)
 			(effects
 				(font
@@ -6820,24 +6757,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 156.21 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 156.21 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 156.21 189.23 0)
 			(effects
@@ -6910,24 +6829,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 104.14 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 104.14 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -7020,24 +6921,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 78.74 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 78.74 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 78.74 48.26 0)
 			(effects
 				(font
@@ -7192,24 +7075,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 50.8 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 50.8 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 50.8 30.48 0)
 			(effects
@@ -7310,24 +7175,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C60490"
-			(at 175.26 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 175.26 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 175.26 149.86 0)
 			(effects
@@ -7347,6 +7194,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 175.26 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C60490"
 			(at 175.26 149.86 0)
 			(effects
 				(font
@@ -7415,24 +7271,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 40.64 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 40.64 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 40.64 48.26 0)
 			(effects
 				(font
@@ -7535,24 +7373,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C492419"
-			(at 153.67 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 153.67 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 153.67 106.68 0)
 			(effects
@@ -7563,6 +7383,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C492419"
 			(at 153.67 106.68 0)
 			(effects
 				(font
@@ -7645,24 +7474,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C492401"
-			(at 30.48 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 30.48 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 30.48 109.22 0)
 			(effects
@@ -7673,6 +7484,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 30.48 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C492401"
 			(at 30.48 109.22 0)
 			(effects
 				(font
@@ -7741,24 +7561,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 116.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 116.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -7861,24 +7663,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C60490"
-			(at 165.1 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 165.1 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 165.1 149.86 0)
 			(effects
@@ -7898,6 +7682,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 165.1 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C60490"
 			(at 165.1 149.86 0)
 			(effects
 				(font
@@ -7969,24 +7762,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 156.21 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 156.21 182.88 0)
 			(effects
 				(font
@@ -8075,24 +7850,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C492401"
-			(at 142.24 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 142.24 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 142.24 53.34 0)
 			(effects
@@ -8103,6 +7860,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 142.24 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C492401"
 			(at 142.24 53.34 0)
 			(effects
 				(font
@@ -8181,24 +7947,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C110251"
-			(at 129.54 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 129.54 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 129.54 153.67 0)
 			(effects
@@ -8218,6 +7966,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 129.54 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C110251"
 			(at 129.54 153.67 0)
 			(effects
 				(font
@@ -8348,24 +8105,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 123.19 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 123.19 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 123.19 30.48 0)
 			(effects
@@ -8464,24 +8203,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 40.64 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 40.64 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 40.64 72.39 0)
 			(effects
@@ -8566,24 +8287,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 66.04 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 66.04 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 66.04 48.26 0)
 			(effects
 				(font
@@ -8738,24 +8441,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 99.06 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 99.06 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 99.06 30.48 0)
 			(effects
@@ -8846,24 +8531,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 27.94 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 27.94 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 27.94 48.26 0)
 			(effects
 				(font
@@ -8966,24 +8633,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C492419"
-			(at 185.42 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 185.42 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 185.42 106.68 0)
 			(effects
@@ -8994,6 +8643,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 185.42 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C492419"
 			(at 185.42 106.68 0)
 			(effects
 				(font
@@ -9068,24 +8726,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 78.74 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 78.74 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 78.74 72.39 0)
 			(effects
 				(font
@@ -9218,25 +8858,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C2652294"
-			(at 80.01 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser#" "947-SX1509QBIULTRT"
-			(at 80.01 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 80.01 139.7 0)
 			(effects
 				(font
@@ -9255,6 +8877,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 80.01 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2652294"
 			(at 80.01 139.7 0)
 			(effects
 				(font
@@ -9466,24 +9097,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 171.45 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 171.45 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 171.45 30.48 0)
 			(effects
@@ -9577,24 +9190,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 156.21 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 156.21 177.8 0)
 			(effects
 				(font
@@ -9737,24 +9332,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 147.32 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 147.32 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 147.32 30.48 0)
 			(effects
@@ -9845,24 +9422,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 104.14 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 104.14 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 104.14 48.26 0)
 			(effects
 				(font
@@ -10014,24 +9573,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 195.58 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 195.58 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -10187,24 +9728,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 26.67 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 26.67 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 26.67 30.48 0)
 			(effects
@@ -10303,24 +9826,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C492401"
-			(at 30.48 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 30.48 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 30.48 123.19 0)
 			(effects
@@ -10331,6 +9836,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 30.48 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C492401"
 			(at 30.48 123.19 0)
 			(effects
 				(font
@@ -10399,24 +9913,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 53.34 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 53.34 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 53.34 48.26 0)
 			(effects
 				(font
@@ -10519,24 +10015,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C110251"
-			(at 62.23 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 62.23 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 62.23 153.67 0)
 			(effects
@@ -10556,6 +10034,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 62.23 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C110251"
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -10686,24 +10173,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 74.93 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 74.93 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 74.93 30.48 0)
 			(effects
@@ -10794,24 +10263,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 116.84 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 116.84 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 116.84 72.39 0)
 			(effects
 				(font
@@ -10912,24 +10363,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 91.44 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 91.44 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 91.44 48.26 0)
 			(effects
@@ -11014,24 +10447,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 27.94 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB#" ""
-			(at 27.94 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
 			(at 27.94 72.39 0)
 			(effects
 				(font
@@ -11132,24 +10547,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" ""
-			(at 66.04 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 66.04 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 66.04 72.39 0)
 			(effects
@@ -11242,24 +10639,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB#" "C60490"
-			(at 107.95 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB# Alternatives" ""
-			(at 107.95 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Mouser# Alternatives" ""
 			(at 107.95 102.87 0)
 			(effects
@@ -11279,6 +10658,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 107.95 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C60490"
 			(at 107.95 102.87 0)
 			(effects
 				(font
