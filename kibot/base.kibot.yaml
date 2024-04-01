@@ -64,18 +64,18 @@ outputs:
           name: Reference
         - field: Value
           name: Value
-        - field: Manufacturer_Name_Number
-          name: P/N
         - field: Manufacturer_Name
-          name: Fabricante
-        - field: digikey#
-          name: 'Cod. Digi-Key'
+          name: Manufacturer
+        - field: Manufacturer_Part_Number
+          name: Manufacturer#
         - field: JLCPCB#
           name: 'LCSC-Key'
         - field: Mouser#
           name: 'Mouser-Key'
+        - field: digikey#
+          name: 'Cod. Digi-Key'
         - Footprint
-        - field: Desc
+        - field: Description
           name: Description
         - 'Quantity Per PCB'
       exclude_filter: ''

@@ -591,6 +591,12 @@
           "label": "Beschreibung",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "digikey#",
+          "name": "digikey#",
+          "show": true
         }
       ],
       "filter_string": "",

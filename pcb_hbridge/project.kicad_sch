@@ -1692,6 +1692,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 137.16 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "061856d2-dc7b-44ea-9dcc-f7ca3ff2f741")
 		)
@@ -1825,6 +1834,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 35.56 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 35.56 52.07 0)
 			(effects
 				(font
@@ -1969,6 +1987,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 76.2 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77bd37a4-210b-4dc2-9cfe-3ffcec73b6bf")
 		)
@@ -2084,6 +2111,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 95.25 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eed04b24-b951-47be-aee2-a30637476b83")
 		)
@@ -2182,6 +2218,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 137.16 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 137.16 60.96 0)
 			(effects
 				(font
@@ -2303,6 +2348,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 31.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 31.75 66.04 0)
 			(effects
 				(font

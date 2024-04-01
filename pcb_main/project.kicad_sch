@@ -6410,6 +6410,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 91.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0433fcf1-1f8e-4094-9d57-b0ec1ea1bf87")
 		)
@@ -6506,6 +6515,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 156.21 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 156.21 171.45 0)
 			(effects
 				(font
@@ -6612,6 +6630,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 91.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b085032f-3473-442c-bffc-be86a849a2ae")
 		)
@@ -6699,6 +6726,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 53.34 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 53.34 72.39 0)
 			(effects
 				(font
@@ -6811,6 +6847,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 156.21 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/7d6cb8f6-162c-4b90-baa2-aeaa986f7485"
@@ -6892,6 +6937,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 104.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -6993,6 +7047,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 78.74 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 78.74 48.26 0)
 			(effects
 				(font
@@ -7156,7 +7219,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 50.8 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 50.8 30.48 0)
 			(effects
 				(font
@@ -7274,6 +7346,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 175.26 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc0f1a06-589d-4b1c-8881-317a66ec5a34")
 		)
@@ -7361,6 +7442,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 40.64 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 40.64 48.26 0)
 			(effects
 				(font
@@ -7472,6 +7562,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 153.67 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "663a5cdc-a2f5-4cc2-a225-76e9c7edaf0c")
 		)
@@ -7573,6 +7672,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 30.48 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b5bff8b-c90e-4ab5-a0e7-d0ff6b2e8c42")
 		)
@@ -7660,6 +7768,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 116.84 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 116.84 48.26 0)
 			(effects
 				(font
@@ -7780,6 +7897,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 165.1 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "136b41fb-6859-4f57-9267-c7dbd8f91021")
 		)
@@ -7878,6 +8004,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 156.21 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/7d6cb8f6-162c-4b90-baa2-aeaa986f7485"
@@ -7959,6 +8094,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 142.24 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 142.24 53.34 0)
 			(effects
 				(font
@@ -8065,6 +8209,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 0402 SMD"
+			(at 129.54 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 129.54 153.67 0)
 			(effects
 				(font
@@ -8222,7 +8375,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 123.19 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 123.19 30.48 0)
 			(effects
 				(font
@@ -8329,6 +8491,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 40.64 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5dfc63cf-6588-4fc5-ac0e-662d36302030")
 		)
@@ -8422,6 +8593,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 66.04 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 66.04 48.26 0)
 			(effects
 				(font
@@ -8585,7 +8765,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 99.06 30.48 0)
 			(effects
 				(font
@@ -8684,6 +8873,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 27.94 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 27.94 48.26 0)
 			(effects
 				(font
@@ -8795,6 +8993,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 185.42 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "e77e3620-f931-4023-bcf1-e53494d3fb24")
 		)
@@ -8888,6 +9095,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 78.74 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 78.74 72.39 0)
 			(effects
 				(font
@@ -9030,6 +9246,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 80.01 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 80.01 139.7 0)
 			(effects
 				(font
@@ -9268,7 +9493,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 171.45 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 171.45 30.48 0)
 			(effects
 				(font
@@ -9370,6 +9604,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 156.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 156.21 177.8 0)
 			(effects
 				(font
@@ -9521,7 +9764,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 147.32 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 147.32 30.48 0)
 			(effects
 				(font
@@ -9620,6 +9872,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 104.14 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 104.14 48.26 0)
 			(effects
 				(font
@@ -9783,7 +10044,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 195.58 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 195.58 30.48 0)
 			(effects
 				(font
@@ -9944,7 +10214,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 26.67 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 26.67 30.48 0)
 			(effects
 				(font
@@ -10051,6 +10330,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 30.48 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c22f78e-2a8a-40ef-8bd3-9754e9c6f3eb")
 		)
@@ -10138,6 +10426,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 53.34 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 53.34 48.26 0)
 			(effects
 				(font
@@ -10250,6 +10547,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 0402 SMD"
+			(at 62.23 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -10407,7 +10713,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser#" "538-105313-1103 "
+		(property "Mouser#" "538-105313-1103"
+			(at 74.93 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 74.93 30.48 0)
 			(effects
 				(font
@@ -10506,6 +10821,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 116.84 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 116.84 72.39 0)
 			(effects
 				(font
@@ -10615,6 +10939,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 91.44 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d99f2696-9891-465e-a78e-546dd857f05d")
 		)
@@ -10716,6 +11049,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 27.94 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f38edc9e-ce37-445b-9fa5-6734d6137997")
 		)
@@ -10809,6 +11151,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -10919,6 +11270,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "Resistor, 10.0kΩ, 0402 SMD"
+			(at 107.95 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 107.95 102.87 0)
 			(effects
 				(font

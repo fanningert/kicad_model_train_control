@@ -2321,6 +2321,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 115.57 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0e75f80a-02bb-42f0-85b4-95ad515003f8")
 		)
@@ -2527,6 +2536,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 157.48 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/5eb85fff-3f3d-4f18-8ec9-dd0a0c74ce8c"
@@ -2706,6 +2724,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 26.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "91cc94cb-c502-44ca-90fc-08d9ddcf8334")
 		)
@@ -2822,6 +2849,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 157.48 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/5eb85fff-3f3d-4f18-8ec9-dd0a0c74ce8c"
@@ -2927,6 +2963,15 @@
 			)
 		)
 		(property "Mouser#" "538-172447-0008"
+			(at 26.67 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 26.67 27.94 0)
 			(effects
 				(font
@@ -3064,6 +3109,15 @@
 			)
 		)
 		(property "Mouser#" "538-172447-0008"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 27.94 62.23 0)
 			(effects
 				(font
@@ -3211,6 +3265,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 201.93 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b14443f-fdf0-48d3-bf41-70834d68784a")
 		)
@@ -3332,6 +3395,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 201.93 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3030827-8d19-405a-aab4-b91558f8050d")
 		)
@@ -3430,6 +3502,15 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 157.48 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/5eb85fff-3f3d-4f18-8ec9-dd0a0c74ce8c"
@@ -3514,6 +3595,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 157.48 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 157.48 166.37 0)
 			(effects
 				(font
@@ -3672,6 +3762,15 @@
 			)
 		)
 		(property "Mouser# Alternatives" ""
+			(at 157.48 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 157.48 179.07 0)
 			(effects
 				(font
