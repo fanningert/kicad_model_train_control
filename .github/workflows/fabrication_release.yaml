@@ -2,14 +2,11 @@ name: KitBot - PCB production file generation
 
 on:
   push:
-    branches: 
-      - 'releases/**'
-    paths:
-      - 'kibot/*.kibot.yaml'
-      - 'pcb_*/**.*'
+    tags:
+      - '*'
 
 jobs:
-  Fabrication-Test-Controller:
+  Fabrication-Controller:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -35,10 +32,10 @@ jobs:
         with:
           name: Fabrication_Controller
           path: |
-            pcb_controller/Fabrication/
+            pcb_controller/Fabrication/fabrication_controller.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-HBridge:
+  Fabrication-HBridge:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -80,10 +77,10 @@ jobs:
         with:
           name: Fabrication_HBridge
           path: |
-            pcb_hbridge/Fabrication/
+            pcb_hbridge/Fabrication/fabrication_hbridge.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-Main:
+  Fabrication-Main:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -109,10 +106,10 @@ jobs:
         with:
           name: Fabrication_Main
           path: |
-            pcb_main/Fabrication/
+            pcb_main/Fabrication/fabrication_main.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-Power:
+  Fabrication-Power:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -138,6 +135,65 @@ jobs:
         with:
           name: Fabrication_Power
           path: |
-            pcb_power/Fabrication/
+            pcb_power/Fabrication/fabrication_power.zip
           if-no-files-found: warn
           retention-days: 1
+  Create-Release:
+    runs-on: ubuntu-latest
+    needs: [Fabrication-Controller,Fabrication-HBridge,Fabrication-Main,Fabrication-Power]
+    steps:
+      - name: Download assets
+        uses: actions/download-artifact@v4
+        with:
+          path: fabrication
+          pattern: Fabrication_*
+      - name: release
+        uses: actions/create-release@v1
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          release_name: Release ${{ github.ref }}
+          tag_name: ${{ github.ref }}
+          draft: true
+          prerelease: false
+      - name: Upload Release Asset - Controller
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./fabrication/fabrication_controller.zip
+          asset_name: Fabrication Controller
+          asset_content_type: application/zip
+      - name: Upload Release Asset - HBridge
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./fabrication/fabrication_hbridge.zip
+          asset_name: Fabrication HBridge
+          asset_content_type: application/zip
+      - name: Upload Release Asset - Main
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./fabrication/fabrication_main.zip
+          asset_name: Fabrication Main
+          asset_content_type: application/zip
+      - name: Upload Release Asset - Power
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./fabrication/fabrication_power.zip
+          asset_name: Fabrication Power
+          asset_content_type: application/zip

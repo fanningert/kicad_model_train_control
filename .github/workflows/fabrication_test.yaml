@@ -4,18 +4,12 @@ on:
   push:
     branches: 
       - main
-    paths:
-      - 'kibot/*.kibot.yaml'
-      - 'pcb_*/**.*'
   pull_request:
     branches: 
       - main
-    paths:
-      - 'kibot/*.kibot.yaml'
-      - 'pcb_*/**.*'
 
 jobs:
-  Fabrication-Test-Controller:
+  Fabrication-Controller:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -41,10 +35,10 @@ jobs:
         with:
           name: Fabrication_Controller
           path: |
-            pcb_controller/Fabrication/
+            pcb_controller/Fabrication/fabrication_controller.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-HBridge:
+  Fabrication-HBridge:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -86,10 +80,10 @@ jobs:
         with:
           name: Fabrication_HBridge
           path: |
-            pcb_hbridge/Fabrication/
+            pcb_hbridge/Fabrication/fabrication_hbridge.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-Main:
+  Fabrication-Main:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -115,10 +109,10 @@ jobs:
         with:
           name: Fabrication_Main
           path: |
-            pcb_main/Fabrication/
+            pcb_main/Fabrication/fabrication_main.zip
           if-no-files-found: warn
           retention-days: 1
-  Fabrication-Test-Power:
+  Fabrication-Power:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -144,6 +138,6 @@ jobs:
         with:
           name: Fabrication_Power
           path: |
-            pcb_power/Fabrication/
+            pcb_power/Fabrication/fabrication_power.zip
           if-no-files-found: warn
           retention-days: 1
