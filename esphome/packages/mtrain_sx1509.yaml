@@ -1,0 +1,83 @@
+defaults:
+  hub_no: "1"
+  i2C_id: i2c0
+  i2c_address: 0x3E
+
+sx1509:
+- id: sx1509_hub${hub_no}
+  address: ${i2c_address}
+  i2c_id: ${i2C_id}
+
+output:
+# HBridge1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 6
+  id: hub${hub_no}_hb1_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 7
+  id: hub${hub_no}_hb1_i2
+# HBridge2
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 4
+  id: hub${hub_no}_hb2_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 5
+  id: hub${hub_no}_hb2_i2
+# HBridge3
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 2
+  id: hub${hub_no}_hb3_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 3
+  id: hub${hub_no}_hb3_i2
+# HBridge4
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 0
+  id: hub${hub_no}_hb4_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 1
+  id: hub${hub_no}_hb4_i2
+# HBridge5
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 14
+  id: hub${hub_no}_hb5_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 15
+  id: hub${hub_no}_hb5_i2
+# HBridge6
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 12
+  id: hub${hub_no}_hb6_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 13
+  id: hub${hub_no}_hb6_i2
+# HBridge7
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 10
+  id: hub${hub_no}_hb7_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 11
+  id: hub${hub_no}_hb7_i2
+# HBridge8
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 8
+  id: hub${hub_no}_hb8_i1
+- platform: sx1509
+  sx1509_id: sx1509_hub${hub_no}
+  pin: 9
+  id: hub${hub_no}_hb8_i2

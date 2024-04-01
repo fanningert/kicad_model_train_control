@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8871DDA")(type "KiCad")(uri "${KIPRJMOD}/library/DRV8871DDA.kicad_sym")(options "")(descr ""))
+)

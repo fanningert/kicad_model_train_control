@@ -1,0 +1,10 @@
+kibot:
+  version: 1
+  imported_global_has_less_priority: true
+  
+import:
+  - file: JLCPCB_stencil_with_THT
+  - file: PCBWay_stencil
+  - file: Elecrow_stencil
+  - file: FusionPCB_stencil
+  - file: P-Ban_stencil

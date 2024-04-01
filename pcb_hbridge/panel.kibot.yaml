@@ -1,0 +1,11 @@
+kibot:
+  version: 1
+  imported_global_has_less_priority: true
+  
+outputs:
+   - name: 'panelize'
+     type: 'panelize'
+     dir: .
+     options:
+       configs:
+         - ./pcb_hbridge/panel.kibot.json
