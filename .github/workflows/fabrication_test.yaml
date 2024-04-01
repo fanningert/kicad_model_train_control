@@ -4,13 +4,13 @@ on:
   push:
     branches: 
       - main
-  paths:
+    paths:
       - 'kibot/**.*'
       - 'pcb_*/**.*' 
   pull_request:
     branches: 
       - main
-  paths:
+    paths:
       - 'kibot/**.*'
       - 'pcb_*/**.*' 
 
