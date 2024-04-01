@@ -17,8 +17,10 @@ flowchart LR
 
 ## Parts
 
-* pcb_hbridge - HBridge with is used as a three state switch or as a variable power control for the power line.
-* pcb_main - Main pcb for the project 
+* `PCB_Controller` - Controller board with a ESP32 DEV board as the brain of the block 
+* `PCB_Main` - Switch board to handle 8 PCB_HBridge boards, with are controlled per I2C from the ESP32.
+* `PCB_HBridge` - HBridge with is used as a three state switch or as a variable power control for the power line.
+* `PCB_Power` - A simple power supply to give 3.3V and 16V (adjustable)
 
 ## Supported szenarios
 
