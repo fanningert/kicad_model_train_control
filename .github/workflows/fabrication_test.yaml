@@ -1,4 +1,4 @@
-name: KitBot - PCB Controller
+name: KitBot - PCB test run of production file generation
 
 on:
   push:
