@@ -35,7 +35,7 @@ jobs:
         with:
           name: Fabrication_Controller
           path: |
-            pcb_controller/Fabrication/fabrication_controller.zip
+            pcb_controller/Fabrication/
           if-no-files-found: warn
           retention-days: 1
   Fabrication-HBridge:
@@ -80,7 +80,7 @@ jobs:
         with:
           name: Fabrication_HBridge
           path: |
-            pcb_hbridge/Fabrication/fabrication_hbridge.zip
+            pcb_hbridge/Fabrication/
           if-no-files-found: warn
           retention-days: 1
   Fabrication-Main:
@@ -109,7 +109,7 @@ jobs:
         with:
           name: Fabrication_Main
           path: |
-            pcb_main/Fabrication/fabrication_main.zip
+            pcb_main/Fabrication/
           if-no-files-found: warn
           retention-days: 1
   Fabrication-Power:
@@ -138,6 +138,6 @@ jobs:
         with:
           name: Fabrication_Power
           path: |
-            pcb_power/Fabrication/fabrication_power.zip
+            pcb_power/Fabrication/
           if-no-files-found: warn
           retention-days: 1
