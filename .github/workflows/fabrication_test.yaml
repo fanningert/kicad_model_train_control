@@ -37,7 +37,7 @@ jobs:
           verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Fabrication_Controller
           path: |
@@ -82,7 +82,7 @@ jobs:
           verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Fabrication_HBridge
           path: |
@@ -111,7 +111,7 @@ jobs:
           verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Fabrication_Main
           path: |
@@ -140,7 +140,7 @@ jobs:
           verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Fabrication_Power
           path: |
