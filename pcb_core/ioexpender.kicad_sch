@@ -288,7 +288,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SX1509QBIULTRT:QFN40P400X400X60-29N-D"
+			(property "Footprint" "library:QFN40P400X400X60-29N-D"
 				(at 31.75 -82.22 0)
 				(effects
 					(font
@@ -2093,7 +2093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Voltage Level Shifting GPIO with LED Driver 28-Pin QFN-UT EP T/R"
 			(at 72.39 67.31 0)
 			(effects
 				(font
@@ -2147,6 +2147,36 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semtech/SX1509QBIULTRT?qs=rBWM4%252BvDhIf3%2FilU3NIYqw%3D%3D"
+			(at 104.14 849.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "SX1509QBIULTRT"
+			(at 104.14 949.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sx1509qbiultrt/semtech?region=nac"
+			(at 104.14 1049.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)

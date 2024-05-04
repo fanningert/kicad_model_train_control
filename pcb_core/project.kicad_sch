@@ -14729,7 +14729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 10k, 0402 SMD"
+		(property "Description" "Resistor, 10.0k, 0402 SMD"
 			(at 34.29 241.3 0)
 			(effects
 				(font

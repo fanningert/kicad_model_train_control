@@ -2794,7 +2794,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2864,6 +2864,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "804d792d-5564-4308-9343-becac3e990de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e74e444c-4f4f-4f6d-9732-22c8f352f1cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "126d7839-4e35-486a-a272-8b2cdc21448c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a78cd8c-fc99-4dd5-9e7c-78a02dcde55f")
 			(effects
 				(font
 					(size 1 1)
@@ -6472,7 +6511,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6542,6 +6581,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "976f4965-036b-4f1c-a7b0-6f9df3782f90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53c6e0c7-8b6b-445c-b33d-3afc6512ad5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2abf4f0-8812-4c8b-9feb-b7b4ef824a6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1538896-1930-4acd-8e9c-c488977b33e9")
 			(effects
 				(font
 					(size 1 1)
@@ -8802,7 +8880,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8872,6 +8950,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0778ce83-428f-4daf-9b19-c952f3d0f36b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18fda053-eca6-4429-b352-a7357cd6eb9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25f7f641-106d-4093-a787-4cdcf2233284")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22acad05-ce69-431d-b495-3f67216c0f91")
 			(effects
 				(font
 					(size 1 1)
@@ -9519,7 +9636,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9589,6 +9706,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ced9169-00f7-4678-846c-12dc8576816f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9590b8b8-94b4-43df-9bf8-e377cd807ff0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5762995-deef-40e7-9f6d-892db32e1345")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1db0d37-2a99-44a1-8f95-57c264674798")
 			(effects
 				(font
 					(size 1 1)
@@ -13891,7 +14047,7 @@
 			(at 3.842 2.0105 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "e2f1c43d-ecac-4c4c-93ea-ff1dbdc76cbf")
+			(uuid "8362c0d5-7ccd-4ea6-a35a-3d6717d5f52a")
 			(effects
 				(font
 					(size 1 1)
@@ -13903,7 +14059,7 @@
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9a54d99e-463c-4de2-b369-435009835529")
+			(uuid "36cbe0cd-538a-45ae-9232-ed32ad330fc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13916,7 +14072,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26b8f551-b916-462a-908e-3b8ee0ede47d")
+			(uuid "c6176221-7007-42e7-86b2-ef6210232867")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13928,19 +14084,19 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fadeb31-080e-4550-85f8-fc6b8eb0450a")
+			(uuid "24e5202c-0d29-4a91-b953-a2fe2dd3f429")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Voltage Level Shifting GPIO with LED Driver 28-Pin QFN-UT EP T/R"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4450e76-5131-47fe-97d2-3c7ad9445b91")
+			(uuid "9293188d-5ad1-4cc8-9cd8-af171dab34a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14012,6 +14168,45 @@
 				)
 			)
 		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semtech/SX1509QBIULTRT?qs=rBWM4%252BvDhIf3%2FilU3NIYqw%3D%3D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0865d4c-3d6f-4ae9-8458-ef3d33f75330")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "SX1509QBIULTRT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5bac1c5-c84a-499a-9928-e5d06d7a64e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sx1509qbiultrt/semtech?region=nac"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ad62f7f-e21a-4014-a862-4e448ecb9154")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/110cf371-5972-417c-854b-923f2722be73/f70e0726-612d-405c-a969-03b497cbb85a")
 		(sheetname "IOExpander1")
 		(sheetfile "ioexpender.kicad_sch")
@@ -14025,7 +14220,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "7757756a-eb02-453f-b103-3249b4f42383")
+			(uuid "66f69655-9ed4-45ad-9fe7-e24d8a008f94")
 		)
 		(fp_line
 			(start 2.625 2.625)
@@ -14035,7 +14230,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "61ba9b47-1a53-4774-91d1-ad0c3f772177")
+			(uuid "be0a1704-0cce-478f-8810-af330457fb4f")
 		)
 		(fp_line
 			(start 2.625 -2.625)
@@ -14045,7 +14240,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9752b33d-d45d-46b3-b052-78272dca67e2")
+			(uuid "45c49044-227e-4131-b136-f4449825f27a")
 		)
 		(fp_line
 			(start -2.625 2.625)
@@ -14055,7 +14250,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7f37ede2-cdac-4b71-ad06-33d6dd2953f6")
+			(uuid "ab8c31ef-abb3-44af-bb92-409a34f228c4")
 		)
 		(fp_line
 			(start -2.625 -2.625)
@@ -14065,7 +14260,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "19294ffc-65eb-4425-b4a7-7ee67ad5b204")
+			(uuid "38984515-3ce5-4e35-9df4-71ca657c0d56")
 		)
 		(fp_line
 			(start 2 2)
@@ -14075,7 +14270,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a94f9d8d-6d90-49b1-b11b-5e03c0f982ae")
+			(uuid "5fba2834-ac07-4580-824e-28abf0cb9d14")
 		)
 		(fp_line
 			(start 2 -2)
@@ -14085,7 +14280,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "11ceb19b-70db-4ab3-9365-96c85e04c650")
+			(uuid "59c77fe7-fc02-459e-8ad8-c84d8f9a9b93")
 		)
 		(fp_line
 			(start -2 2)
@@ -14095,7 +14290,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "70bd5b70-53d2-49f6-9664-dc75ad29db02")
+			(uuid "83b2a0c6-b2a6-45ce-9fd6-4f7930110d8b")
 		)
 		(fp_line
 			(start -2 -1.6)
@@ -14105,7 +14300,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9c353123-c08f-49c7-9794-189d7ac87fd8")
+			(uuid "94994122-1b5d-45a8-a58c-7c4335761840")
 		)
 		(fp_line
 			(start -2 -2)
@@ -14115,13 +14310,13 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "711e7432-cae9-4272-a9fb-86d67eb4ee88")
+			(uuid "3331408b-b6ba-404f-b48e-3e38c229caa5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "ba1d3582-5ade-4ff4-bfd6-3184321da3e4")
+			(uuid "abdf1517-ac5b-4dab-8407-5355c50eaa2f")
 			(effects
 				(font
 					(size 1 1)
@@ -14136,7 +14331,7 @@
 			(net 85 "IN1_7")
 			(pinfunction "I/O[2]")
 			(pintype "passive")
-			(uuid "7c43c6da-016f-48f1-a1cd-193817539b39")
+			(uuid "280ba820-ee32-40a2-8160-aa576d8ca793")
 		)
 		(pad "2" smd rect
 			(at -2 -0.8 270)
@@ -14145,7 +14340,7 @@
 			(net 86 "IN2_7")
 			(pinfunction "I/O[3]")
 			(pintype "passive")
-			(uuid "0aa015d1-49a4-40fb-8459-7eccb8c984ba")
+			(uuid "57e34049-ac11-48f3-8e59-2741c354a031")
 		)
 		(pad "3" smd rect
 			(at -2 -0.4 270)
@@ -14154,7 +14349,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_1")
 			(pintype "passive")
-			(uuid "b7765bf0-42bc-4ac8-9d87-d21127fb27c9")
+			(uuid "a4f680b1-296e-40b5-8763-b276f53bddf1")
 		)
 		(pad "4" smd rect
 			(at -2 0 270)
@@ -14163,7 +14358,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VCC1")
 			(pintype "passive")
-			(uuid "a854ee67-28f5-4382-9b51-a390ace113e8")
+			(uuid "7971d2f6-894d-4642-9627-d7c85840925a")
 		)
 		(pad "5" smd rect
 			(at -2 0.4 270)
@@ -14172,7 +14367,7 @@
 			(net 82 "IN1_6")
 			(pinfunction "I/O[4]")
 			(pintype "passive")
-			(uuid "2ad57bf0-0343-477f-8524-2a272a2d4230")
+			(uuid "e49c5ef5-948a-44c9-99c2-8d3e35113b13")
 		)
 		(pad "6" smd rect
 			(at -2 0.8 270)
@@ -14181,7 +14376,7 @@
 			(net 83 "IN2_6")
 			(pinfunction "I/O[5]")
 			(pintype "passive")
-			(uuid "e2e89a9f-dd23-4e31-814b-34946d0cbca5")
+			(uuid "18c8dd58-1a37-4750-a056-5b5e8ce0d263")
 		)
 		(pad "7" smd rect
 			(at -2 1.2 270)
@@ -14190,7 +14385,7 @@
 			(net 79 "IN1_5")
 			(pinfunction "I/O[6]")
 			(pintype "passive")
-			(uuid "925da2ec-9630-404d-8d0b-6f4d5dd3a975")
+			(uuid "c3fc9188-e822-4cd6-9e52-cd88a6be5c4f")
 		)
 		(pad "8" smd rect
 			(at -1.2 2 180)
@@ -14199,7 +14394,7 @@
 			(net 81 "IN2_5")
 			(pinfunction "I/O[7]")
 			(pintype "passive")
-			(uuid "490c0e39-2c20-4d84-94d3-cefddd27c396")
+			(uuid "e56e4aff-39ed-407a-9e76-12d12041b47d")
 		)
 		(pad "9" smd rect
 			(at -0.8 2 180)
@@ -14208,7 +14403,7 @@
 			(net 161 "Net-(IC2-NINT)")
 			(pinfunction "NINT")
 			(pintype "passive")
-			(uuid "bb5ff12d-e321-47e4-a959-b2c107254ebf")
+			(uuid "69cb9910-df0e-463d-9808-ab08641373a6")
 		)
 		(pad "10" smd rect
 			(at -0.4 2 180)
@@ -14217,7 +14412,7 @@
 			(net 10 "GNDD")
 			(pinfunction "ADDR1")
 			(pintype "passive")
-			(uuid "4db32bde-95d5-4715-a98a-4a80b38d17f0")
+			(uuid "d8a75b7e-bd9f-4778-b241-31803302d827")
 		)
 		(pad "11" smd rect
 			(at 0 2 180)
@@ -14226,7 +14421,7 @@
 			(net 162 "unconnected-(IC2-OSCIO-Pad11)")
 			(pinfunction "OSCIO")
 			(pintype "passive+no_connect")
-			(uuid "f8c8d125-1d6f-497e-bb20-f503bf8c02a4")
+			(uuid "19110113-b972-404b-b527-9dddf935f841")
 		)
 		(pad "12" smd rect
 			(at 0.4 2 180)
@@ -14235,7 +14430,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VDDM")
 			(pintype "passive")
-			(uuid "e2512c0f-9d52-4519-ac1a-6f220065feb8")
+			(uuid "0155d687-2e58-4025-b0fd-3b0ee618a396")
 		)
 		(pad "13" smd rect
 			(at 0.8 2 180)
@@ -14244,7 +14439,7 @@
 			(net 78 "IN1_4")
 			(pinfunction "I/O[8]")
 			(pintype "passive")
-			(uuid "6019fa1c-3350-4ceb-817d-81dbd70d4494")
+			(uuid "e2a3ff1d-97ea-4954-9e47-0b10d7369f55")
 		)
 		(pad "14" smd rect
 			(at 1.2 2 180)
@@ -14253,7 +14448,7 @@
 			(net 77 "IN2_4")
 			(pinfunction "I/O[9]")
 			(pintype "passive")
-			(uuid "0fb649bf-59c1-4915-900f-c9e028af7939")
+			(uuid "96f031a1-b00e-4b8a-a969-92625594e88b")
 		)
 		(pad "15" smd rect
 			(at 2 1.2 270)
@@ -14262,7 +14457,7 @@
 			(net 75 "IN1_3")
 			(pinfunction "I/O[10]")
 			(pintype "passive")
-			(uuid "82ad99e6-35a3-4a98-8975-f146b9a3efb9")
+			(uuid "770ae431-8157-41fe-a508-38dc2c0a36a3")
 		)
 		(pad "16" smd rect
 			(at 2 0.8 270)
@@ -14271,7 +14466,7 @@
 			(net 73 "IN2_3")
 			(pinfunction "I/O[11]")
 			(pintype "passive")
-			(uuid "7366c934-6832-4426-8fa4-16fbfd2bbd48")
+			(uuid "b12b3482-9ae7-4759-a30b-c12fb788c166")
 		)
 		(pad "17" smd rect
 			(at 2 0.4 270)
@@ -14280,7 +14475,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_2")
 			(pintype "passive")
-			(uuid "5b77feb7-f01b-4067-a506-26aa816ba444")
+			(uuid "942d9429-3529-4a47-8878-8ab5ffd4c83c")
 		)
 		(pad "18" smd rect
 			(at 2 0 270)
@@ -14289,7 +14484,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VCC2")
 			(pintype "passive")
-			(uuid "797930e6-d28a-4dd0-9e81-02be51d011da")
+			(uuid "7a9521a5-160c-4131-ba5b-bd5c5c8cc066")
 		)
 		(pad "19" smd rect
 			(at 2 -0.4 270)
@@ -14298,7 +14493,7 @@
 			(net 116 "IN1_2")
 			(pinfunction "I/O[12]")
 			(pintype "passive")
-			(uuid "9ce754f5-e688-4580-a936-7150a6110916")
+			(uuid "9cdb2bdf-64a1-4731-9aac-21ae6666facd")
 		)
 		(pad "20" smd rect
 			(at 2 -0.8 270)
@@ -14307,7 +14502,7 @@
 			(net 117 "IN2_2")
 			(pinfunction "I/O[13]")
 			(pintype "passive")
-			(uuid "61326199-16d7-415a-bdf6-ee9c021fa84a")
+			(uuid "cc9a7be0-841f-42b1-948d-b4ca155ce0f2")
 		)
 		(pad "21" smd rect
 			(at 2 -1.2 270)
@@ -14316,7 +14511,7 @@
 			(net 159 "IN1_1")
 			(pinfunction "I/O[14]")
 			(pintype "passive")
-			(uuid "561f38a5-9112-4172-8faf-e10c7adc9ffb")
+			(uuid "e56a6def-9792-4fe8-ac80-c5bedee2f8b5")
 		)
 		(pad "22" smd rect
 			(at 1.2 -2 180)
@@ -14325,7 +14520,7 @@
 			(net 158 "IN2_1")
 			(pinfunction "I/O[15]")
 			(pintype "passive")
-			(uuid "3c0a3069-cb90-467d-9d95-cb4bed1c9507")
+			(uuid "6d106844-ebb7-4507-a526-c54bb84a8d80")
 		)
 		(pad "23" smd rect
 			(at 0.8 -2 180)
@@ -14334,7 +14529,7 @@
 			(net 160 "Net-(IC2-NRESET)")
 			(pinfunction "NRESET")
 			(pintype "passive")
-			(uuid "2b6121f0-844d-4b79-91fb-7f7be426b897")
+			(uuid "d0377cd5-65f0-44e3-9e0d-d06bd4f0c491")
 		)
 		(pad "24" smd rect
 			(at 0.4 -2 180)
@@ -14343,7 +14538,7 @@
 			(net 152 "IOEXP02_SDA")
 			(pinfunction "SDA")
 			(pintype "passive")
-			(uuid "a26b9d67-7484-4bd2-bb25-72f18ee7fbfa")
+			(uuid "26ccb6ba-c9d5-4187-96b0-bf2ee58c2c28")
 		)
 		(pad "25" smd rect
 			(at 0 -2 180)
@@ -14352,7 +14547,7 @@
 			(net 153 "IOEXP02_SCL")
 			(pinfunction "SCL")
 			(pintype "passive")
-			(uuid "2cb33e88-72df-400f-885a-93576284b464")
+			(uuid "c968e94f-8025-464e-ae39-6c55f8f9a9cb")
 		)
 		(pad "26" smd rect
 			(at -0.4 -2 180)
@@ -14361,7 +14556,7 @@
 			(net 10 "GNDD")
 			(pinfunction "ADDR0")
 			(pintype "passive")
-			(uuid "af11a78c-44b1-40f3-9890-c62065a7ea16")
+			(uuid "603302b9-12f6-4f32-a3ea-9ce227c05cb2")
 		)
 		(pad "27" smd rect
 			(at -0.8 -2 180)
@@ -14370,7 +14565,7 @@
 			(net 89 "IN1_8")
 			(pinfunction "I/O[0]")
 			(pintype "passive")
-			(uuid "463fa952-6c77-47f2-bb01-e3e204095388")
+			(uuid "ad1809d9-f6e1-4df7-acc8-e65da0171291")
 		)
 		(pad "28" smd rect
 			(at -1.2 -2 180)
@@ -14379,7 +14574,7 @@
 			(net 90 "IN2_8")
 			(pinfunction "I/O[1]")
 			(pintype "passive")
-			(uuid "3ac36d38-7eee-44a4-970f-beb9350c517d")
+			(uuid "2c266698-6012-4b26-afad-82352974c844")
 		)
 		(pad "29" smd rect
 			(at 0 0 180)
@@ -14388,7 +14583,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_3")
 			(pintype "passive")
-			(uuid "46b3d916-3af9-4921-94f0-4b7b858ff893")
+			(uuid "d94b1ff2-73bb-4478-bbeb-68d18c18fc0c")
 		)
 		(model "${KIPRJMOD}/library/SX1509QBIULTRT.stp"
 			(offset
@@ -16539,7 +16734,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16609,6 +16804,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1987b390-a109-4435-b98d-96122dc4e67e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fb4e49b-b8dc-411e-a621-f8eed466e547")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f07b9c3d-4cfd-422e-9cb8-adf2e19542d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b49f0703-c680-4b9b-b270-7c1b53f480bd")
 			(effects
 				(font
 					(size 1 1)
@@ -19319,7 +19553,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19389,6 +19623,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54b88dfb-6762-4154-92c1-bbbd8c6aec2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6ea1e97-6ac7-498d-943b-2e269b374bd2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d42126ef-940f-429a-8435-9f2b3e040ca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fb8f130-63a2-40d9-848c-f59a61da77ef")
 			(effects
 				(font
 					(size 1 1)
@@ -24459,7 +24732,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24529,6 +24802,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4863ad7f-f2d3-4d21-9956-7745e1e7ba7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd88bb21-242c-4c69-800b-b87e950ef4b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68d76c7a-62dc-46ae-b80d-0ac3f7ae0720")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9467f78-5aa8-486d-a005-d0df7650d600")
 			(effects
 				(font
 					(size 1 1)
@@ -25012,7 +25324,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25082,6 +25394,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f4dc41bf-517d-4712-b916-cb586e77e516")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1f104bb-5172-4fea-bfcd-e31542ee3d7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "046e0387-bc40-41e6-b82d-d7a1dae93812")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a978605-5f02-405e-8d6d-0dbfdc963c8e")
 			(effects
 				(font
 					(size 1 1)
@@ -26934,7 +27285,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27004,6 +27355,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fe833dbe-b18c-48e8-b11e-9fbde60f9471")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0b97eb6-15ea-4d4f-bf26-2269b385f483")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0093213-6fc8-468e-972a-d8c2839cd9c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16da6914-f70a-4a54-8600-6def88f99cac")
 			(effects
 				(font
 					(size 1 1)
@@ -27726,7 +28116,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27796,6 +28186,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb3de1ea-0d94-4520-904e-b4b3de5955b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61cfbfc6-a71b-425e-9186-4766d8930049")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da605b31-a06e-49eb-8a58-0f4e3f8b861b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "639d0354-bb02-4afb-b8b1-32f905231ad7")
 			(effects
 				(font
 					(size 1 1)
@@ -29171,7 +29600,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 10k, 0402 SMD"
+		(property "Description" "Resistor, 10.0k, 0402 SMD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29597,7 +30026,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29667,6 +30096,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5cf9e17f-5b43-4d31-86a1-92f81a619146")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22776d95-b332-4901-be6a-27639dae7b28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f35f99e3-5006-4156-be2c-bd9f66931b84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d9c86e9-0695-44f7-926a-8808d546468e")
 			(effects
 				(font
 					(size 1 1)
@@ -30916,7 +31384,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30986,6 +31454,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "122cc4e0-29fa-43bb-b6e3-f8e8064f3574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "535f90fd-ee87-41d1-8c1b-44aa421d2107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db2cd013-bf6c-4401-b6f4-bd2fc3c11a1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74fc4813-f318-4f96-8a2a-16943be376ca")
 			(effects
 				(font
 					(size 1 1)
@@ -31256,7 +31763,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31326,6 +31833,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31cd4f97-055d-4c24-acc9-edfae67fcb48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf596caa-3d17-41df-885f-14957a319c11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f50f406a-0a51-46a6-9cfc-fcae61c60a3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41169b4f-5b1d-4100-9ead-a6cf34d93007")
 			(effects
 				(font
 					(size 1 1)
@@ -31596,7 +32142,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31666,6 +32212,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ab49d948-5176-455e-958a-c21c4a767403")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc04a663-bf83-41c5-a730-7d01245c590d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34138821-49cc-4e61-bea8-c9a2a5d07a06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b305259-c80c-4e4e-bd05-3f20e2bc516d")
 			(effects
 				(font
 					(size 1 1)
@@ -36242,7 +36827,7 @@
 			(at 4.3786 2.0386 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "f7bb8eba-f2d6-4264-afed-8105c6d10593")
+			(uuid "dfe431f6-4aa3-41c1-bdb4-5624bb620b02")
 			(effects
 				(font
 					(size 1 1)
@@ -36254,7 +36839,7 @@
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "30d56dcb-0d2f-46db-9658-724a655f8c21")
+			(uuid "95379461-747c-4661-bdc2-17354be58db0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36267,7 +36852,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "31bfbbe2-b095-4a0b-b319-e31926ec57f8")
+			(uuid "d77cd14b-9f56-4bc3-bdce-4d831203456b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36279,19 +36864,19 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55d8748f-7a60-4529-95e3-fc2dba4bc54a")
+			(uuid "ecb4c294-8948-4673-9f14-8206e6ce0aa4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Voltage Level Shifting GPIO with LED Driver 28-Pin QFN-UT EP T/R"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b11a30a6-6996-487b-803c-2e925a1e8b0b")
+			(uuid "d7ffee51-6733-47d6-bc8d-09407f144f69")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36363,6 +36948,45 @@
 				)
 			)
 		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semtech/SX1509QBIULTRT?qs=rBWM4%252BvDhIf3%2FilU3NIYqw%3D%3D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "391b8b09-a6a0-402d-b300-38db5dc45356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "SX1509QBIULTRT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bbd0071-5122-4be5-b9e7-5f6a523516ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sx1509qbiultrt/semtech?region=nac"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "171244bb-72c6-4b5f-bec9-6cfe704a0d65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/f70e0726-612d-405c-a969-03b497cbb85a")
 		(sheetname "IOExpander2")
 		(sheetfile "ioexpender.kicad_sch")
@@ -36376,7 +37000,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "350a6a14-e035-4667-87c7-88abae78540a")
+			(uuid "2d6c795f-8558-4e2c-b2a8-555ff0fb8f06")
 		)
 		(fp_line
 			(start 2.625 2.625)
@@ -36386,7 +37010,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6a41652a-b89b-4bdf-bccd-17db61c09a32")
+			(uuid "dacb5531-27d4-4470-a6a0-041d8b0d130e")
 		)
 		(fp_line
 			(start 2.625 -2.625)
@@ -36396,7 +37020,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ad842cb8-2967-45ee-9094-ee84df4d0ba5")
+			(uuid "05edcca0-0c27-4dbe-9504-a68611318c99")
 		)
 		(fp_line
 			(start -2.625 2.625)
@@ -36406,7 +37030,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d9d3a238-7980-434b-acf9-8ea3356ca595")
+			(uuid "d4fb1275-ff67-452e-add5-4b2dc19f72e2")
 		)
 		(fp_line
 			(start -2.625 -2.625)
@@ -36416,7 +37040,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "201d5ce3-0b9d-424a-8c14-0058c300bfff")
+			(uuid "93835cae-fb80-404b-af4b-99a928634791")
 		)
 		(fp_line
 			(start 2 2)
@@ -36426,7 +37050,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f0b09ff6-2630-4621-9271-20a4ea35dd87")
+			(uuid "9fc60c5e-646b-477b-8b6c-4e27bd69882e")
 		)
 		(fp_line
 			(start 2 -2)
@@ -36436,7 +37060,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "10a759b0-9141-4646-a117-57bbeeea2add")
+			(uuid "66e3b422-f77b-4496-8ed0-5ca80b7cab09")
 		)
 		(fp_line
 			(start -2 2)
@@ -36446,7 +37070,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e1046776-ae02-4296-ac01-0eb7e0f338ab")
+			(uuid "a86730dc-897b-4257-b1d3-8f396fb5df17")
 		)
 		(fp_line
 			(start -2 -1.6)
@@ -36456,7 +37080,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "401d4d8f-ce69-44c1-9b46-756de4f6e0d1")
+			(uuid "71b5233c-8248-41c3-939e-cce57485f6e9")
 		)
 		(fp_line
 			(start -2 -2)
@@ -36466,13 +37090,13 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "05a46151-4702-4b3d-b6c3-d96a1d1e2ce1")
+			(uuid "d47c5854-ccbf-4c2d-b400-8ec0cdb5cbfb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "30437c5f-e70c-4c82-a25c-7d4126730925")
+			(uuid "76066b0d-39c0-4872-a2d4-9d3dfe632f26")
 			(effects
 				(font
 					(size 1 1)
@@ -36487,7 +37111,7 @@
 			(net 110 "IN1_15")
 			(pinfunction "I/O[2]")
 			(pintype "passive")
-			(uuid "05909457-a977-4cde-90d8-f8211f46c036")
+			(uuid "076ca13f-acfd-42cc-876e-ec4346d0eef9")
 		)
 		(pad "2" smd rect
 			(at -2 -0.8 270)
@@ -36496,7 +37120,7 @@
 			(net 109 "IN2_15")
 			(pinfunction "I/O[3]")
 			(pintype "passive")
-			(uuid "64c84140-8c39-4afd-b52b-b21dee28ff48")
+			(uuid "a7923547-3837-4812-bb78-74869743bd5f")
 		)
 		(pad "3" smd rect
 			(at -2 -0.4 270)
@@ -36505,7 +37129,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_1")
 			(pintype "passive")
-			(uuid "e955e695-46ce-420f-9029-01143497c3cb")
+			(uuid "9b9e9c39-e8f1-4265-9a06-153beee3ed04")
 		)
 		(pad "4" smd rect
 			(at -2 0 270)
@@ -36514,7 +37138,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VCC1")
 			(pintype "passive")
-			(uuid "0d030dae-0e5e-48c0-8a91-89fd21b68fa5")
+			(uuid "3f995b86-19fc-4f09-ae87-bc2764677506")
 		)
 		(pad "5" smd rect
 			(at -2 0.4 270)
@@ -36523,7 +37147,7 @@
 			(net 108 "IN1_14")
 			(pinfunction "I/O[4]")
 			(pintype "passive")
-			(uuid "edcbf024-5e71-42d6-b5e2-7577b409d0b4")
+			(uuid "efed27de-c8ef-42e2-bc07-3c1bfffc1478")
 		)
 		(pad "6" smd rect
 			(at -2 0.8 270)
@@ -36532,7 +37156,7 @@
 			(net 106 "IN2_14")
 			(pinfunction "I/O[5]")
 			(pintype "passive")
-			(uuid "fa9ab0b0-945b-4d24-990e-167e3471e6c9")
+			(uuid "cc557cce-c088-4e7e-8d84-64fe613a7d1f")
 		)
 		(pad "7" smd rect
 			(at -2 1.2 270)
@@ -36541,7 +37165,7 @@
 			(net 105 "IN1_13")
 			(pinfunction "I/O[6]")
 			(pintype "passive")
-			(uuid "23222d6d-e0e0-4f00-9486-bd73b02ed305")
+			(uuid "189eaf18-c721-4d31-b1cc-2cb2edc23f15")
 		)
 		(pad "8" smd rect
 			(at -1.2 2 180)
@@ -36550,7 +37174,7 @@
 			(net 103 "IN2_13")
 			(pinfunction "I/O[7]")
 			(pintype "passive")
-			(uuid "942628b3-3802-4b75-afc5-cad162bdae21")
+			(uuid "6a114656-07f3-48d0-aa10-52368ab9a45b")
 		)
 		(pad "9" smd rect
 			(at -0.8 2 180)
@@ -36559,7 +37183,7 @@
 			(net 166 "Net-(IC19-NINT)")
 			(pinfunction "NINT")
 			(pintype "passive")
-			(uuid "d1684ad0-13ff-46d7-9e7d-50230e139258")
+			(uuid "6d4d2a8c-3012-4c15-89b4-afdbea2fc674")
 		)
 		(pad "10" smd rect
 			(at -0.4 2 180)
@@ -36568,7 +37192,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "ADDR1")
 			(pintype "passive")
-			(uuid "f86ee86e-d873-4268-b6b6-00cd01ebda21")
+			(uuid "e0c76aa3-fa72-4609-8271-d09bf3ea6e88")
 		)
 		(pad "11" smd rect
 			(at 0 2 180)
@@ -36577,7 +37201,7 @@
 			(net 165 "unconnected-(IC19-OSCIO-Pad11)")
 			(pinfunction "OSCIO")
 			(pintype "passive+no_connect")
-			(uuid "ceef7b7a-019d-446c-8abb-980dc0a9b284")
+			(uuid "d4bd3c58-0e8e-4cc2-b379-db4ef7525db3")
 		)
 		(pad "12" smd rect
 			(at 0.4 2 180)
@@ -36586,7 +37210,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VDDM")
 			(pintype "passive")
-			(uuid "30cbd742-239e-46a0-a3f0-0d32f76b7632")
+			(uuid "0cf4a133-c26e-413c-9990-c6fd5b8fe742")
 		)
 		(pad "13" smd rect
 			(at 0.8 2 180)
@@ -36595,7 +37219,7 @@
 			(net 102 "IN1_12")
 			(pinfunction "I/O[8]")
 			(pintype "passive")
-			(uuid "a169843e-c5e6-4321-aa89-1b74571807b4")
+			(uuid "6fcfb065-7290-45af-9523-d84caf60229f")
 		)
 		(pad "14" smd rect
 			(at 1.2 2 180)
@@ -36604,7 +37228,7 @@
 			(net 101 "IN2_12")
 			(pinfunction "I/O[9]")
 			(pintype "passive")
-			(uuid "9eb1a4e7-b455-421f-bacb-1be5198cafe2")
+			(uuid "ba82ed31-cf99-4742-80d6-5f699ba89d09")
 		)
 		(pad "15" smd rect
 			(at 2 1.2 270)
@@ -36613,7 +37237,7 @@
 			(net 98 "IN1_11")
 			(pinfunction "I/O[10]")
 			(pintype "passive")
-			(uuid "7015ee0d-db91-4558-813a-69f5a9d0783e")
+			(uuid "39934b8b-c827-4be9-b9f6-8e2d38a34549")
 		)
 		(pad "16" smd rect
 			(at 2 0.8 270)
@@ -36622,7 +37246,7 @@
 			(net 99 "IN2_11")
 			(pinfunction "I/O[11]")
 			(pintype "passive")
-			(uuid "e3d3b1db-fd74-47e1-bc6b-02be9ca88e79")
+			(uuid "f39372b8-66bc-4b89-8b75-e2e61030fe49")
 		)
 		(pad "17" smd rect
 			(at 2 0.4 270)
@@ -36631,7 +37255,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_2")
 			(pintype "passive")
-			(uuid "94448d57-d264-4b63-a9c3-839b3758c1f9")
+			(uuid "f6237830-8963-4b37-be50-d8b24e921499")
 		)
 		(pad "18" smd rect
 			(at 2 0 270)
@@ -36640,7 +37264,7 @@
 			(net 157 "VCC_3V3")
 			(pinfunction "VCC2")
 			(pintype "passive")
-			(uuid "ad1e825e-2e3c-4510-826d-95e765543630")
+			(uuid "8ecc07e0-bf45-4967-9688-018fc54eff22")
 		)
 		(pad "19" smd rect
 			(at 2 -0.4 270)
@@ -36649,7 +37273,7 @@
 			(net 94 "IN1_10")
 			(pinfunction "I/O[12]")
 			(pintype "passive")
-			(uuid "341bc0f7-ae87-42eb-87cd-f9daa9984434")
+			(uuid "b118781b-565d-428a-8c9d-8108040aa165")
 		)
 		(pad "20" smd rect
 			(at 2 -0.8 270)
@@ -36658,7 +37282,7 @@
 			(net 95 "IN2_10")
 			(pinfunction "I/O[13]")
 			(pintype "passive")
-			(uuid "34235dd8-78ac-4805-acec-2df2eb6d4771")
+			(uuid "11abedb0-7d72-462e-a9ae-86a9e8c60632")
 		)
 		(pad "21" smd rect
 			(at 2 -1.2 270)
@@ -36667,7 +37291,7 @@
 			(net 93 "IN1_9")
 			(pinfunction "I/O[14]")
 			(pintype "passive")
-			(uuid "d2f299ea-772b-4f6d-b0ec-b433ae46a55a")
+			(uuid "8bdb5189-27a3-4856-a8ab-8f3e7c7696e9")
 		)
 		(pad "22" smd rect
 			(at 1.2 -2 180)
@@ -36676,7 +37300,7 @@
 			(net 92 "IN2_9")
 			(pinfunction "I/O[15]")
 			(pintype "passive")
-			(uuid "8eea9f47-5424-426c-98ed-0d163292c747")
+			(uuid "6311ae63-3d7f-4a29-a6d9-937866655f61")
 		)
 		(pad "23" smd rect
 			(at 0.8 -2 180)
@@ -36685,7 +37309,7 @@
 			(net 164 "Net-(IC19-NRESET)")
 			(pinfunction "NRESET")
 			(pintype "passive")
-			(uuid "97eede02-1205-410c-9e63-eac98d3bfbf1")
+			(uuid "53a1357d-4634-41b6-b8f5-9b5dae7d50f3")
 		)
 		(pad "24" smd rect
 			(at 0.4 -2 180)
@@ -36694,7 +37318,7 @@
 			(net 150 "IOEXP01_SDA")
 			(pinfunction "SDA")
 			(pintype "passive")
-			(uuid "483b5974-3876-498b-a413-7c01906d7a98")
+			(uuid "36c7bb13-9012-4b9b-8648-fc35ef8ed82c")
 		)
 		(pad "25" smd rect
 			(at 0 -2 180)
@@ -36703,7 +37327,7 @@
 			(net 151 "IOEXP01_SCL")
 			(pinfunction "SCL")
 			(pintype "passive")
-			(uuid "59f4d27f-a245-4ce7-a176-a0a3a2fd738c")
+			(uuid "661eec22-a8a2-4101-b39c-d3059dfb8420")
 		)
 		(pad "26" smd rect
 			(at -0.4 -2 180)
@@ -36712,7 +37336,7 @@
 			(net 10 "GNDD")
 			(pinfunction "ADDR0")
 			(pintype "passive")
-			(uuid "bb3f0566-66ca-4713-87a3-f4579efb7f8e")
+			(uuid "58e99e1f-5f57-42ef-9ef0-a9e6ab1f1bc7")
 		)
 		(pad "27" smd rect
 			(at -0.8 -2 180)
@@ -36721,7 +37345,7 @@
 			(net 113 "IN1_16")
 			(pinfunction "I/O[0]")
 			(pintype "passive")
-			(uuid "54525367-37b6-45aa-92aa-79382c61d801")
+			(uuid "aad15220-52e7-49e5-93c4-cb5c00aaea4f")
 		)
 		(pad "28" smd rect
 			(at -1.2 -2 180)
@@ -36730,7 +37354,7 @@
 			(net 114 "IN2_16")
 			(pinfunction "I/O[1]")
 			(pintype "passive")
-			(uuid "10ff508b-c530-46dc-a9b5-7f73a1493f28")
+			(uuid "9f564c7f-283a-4316-b239-8bed53f45425")
 		)
 		(pad "29" smd rect
 			(at 0 0 180)
@@ -36739,7 +37363,7 @@
 			(net 10 "GNDD")
 			(pinfunction "GND_3")
 			(pintype "passive")
-			(uuid "7e9a5cd5-2b69-4f91-bad7-807fa8af095a")
+			(uuid "be5de187-1070-4725-98b1-2edff20ef743")
 		)
 		(model "${KIPRJMOD}/library/SX1509QBIULTRT.stp"
 			(offset
@@ -40134,7 +40758,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40204,6 +40828,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "52cce788-d943-4e71-ac02-83c4c6cf4ba1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7209f2e9-13ef-475f-853a-059e5cdfabc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d605403-b631-4006-8483-45c136a9dea8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a30abef-1248-4115-acc0-fbe8cdc9ec12")
 			(effects
 				(font
 					(size 1 1)
@@ -41157,7 +41820,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41227,6 +41890,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "baa629cf-d84f-4474-819a-535182589d27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1775c7bd-71d9-4828-a783-f20bb7e1ba4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46fb9161-e3fa-401b-945e-d0522825985b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2dfde085-aa5a-444c-b088-bb62a553ed01")
 			(effects
 				(font
 					(size 1 1)

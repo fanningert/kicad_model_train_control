@@ -221,7 +221,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SOIC127P600X170-9N"
+			(property "Footprint" "library:SOIC127P600X170-9N"
 				(at 26.67 -94.92 0)
 				(effects
 					(font
@@ -1586,7 +1586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor / Motion / Ignition Controllers & Drivers 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl) 8-SO PowerPAD -40 to 125"
 			(at 83.82 97.79 0)
 			(effects
 				(font
@@ -1639,6 +1639,36 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8871DDA?qs=Fobv33ltQGiluwfB07aSBw%3D%3D"
+			(at 110.49 892.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "DRV8871DDA"
+			(at 110.49 992.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/drv8871dda/texas-instruments?region=nac"
+			(at 110.49 1092.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 				(hide yes)
 			)
 		)
