@@ -14071,6 +14071,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2828875"
+			(at 176.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc3ed1fc-9e9e-4696-a5ef-a367bfea0b0b")
 		)
@@ -14659,7 +14668,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 22.86 264.16 0)
 			(effects
 				(font
@@ -14702,7 +14711,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 35.5599 238.76 0)
 			(effects
 				(font
@@ -14730,6 +14739,15 @@
 			)
 		)
 		(property "Description" "Resistor, 10.0k, 1206 SMD"
+			(at 34.29 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C17902"
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -15543,6 +15561,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C17990"
+			(at 85.09 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a27a886-836f-40c1-8932-8398287d1a9b")
 		)
@@ -15603,6 +15630,15 @@
 			)
 		)
 		(property "Description" "Capacitor, 10uF, 25V, 20%, 1206 SMD"
+			(at 109.22 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C14860"
 			(at 109.22 233.68 0)
 			(effects
 				(font
@@ -16100,6 +16136,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C17902"
+			(at 238.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68f3e510-71ab-4402-9f96-5d437996e8d0")
 		)
@@ -16500,6 +16545,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C5126164"
+			(at 114.3 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a1946a54-4291-4b7d-b761-fc45f4fb9655")
 		)
@@ -16625,6 +16679,15 @@
 			)
 		)
 		(property "Description" "Resistor, 0, 1%, 1206 SMD"
+			(at 113.03 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C17888"
 			(at 113.03 25.4 0)
 			(effects
 				(font
@@ -16800,7 +16863,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -16945,6 +17008,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2828875"
+			(at 176.53 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fd18ca2-121a-4b50-aae4-cd87ec97e60a")
 		)
@@ -17024,7 +17096,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 38.1 264.16 0)
 			(effects
 				(font
@@ -17104,6 +17176,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "Capacitor, 1uF, 16V, 10%, 1206 SMD"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C1854361"
 			(at 238.76 80.01 0)
 			(effects
 				(font
@@ -17866,6 +17947,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C110253"
+			(at 284.48 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 284.48 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7531c450-d0bd-4338-84a2-3819ba69d969")
 		)
@@ -18074,6 +18173,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C110253"
+			(at 102.87 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 102.87 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b945a2e-0d76-415e-b4c1-69c1302026c1")
 		)
@@ -18133,6 +18250,24 @@
 			)
 		)
 		(property "Description" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 229.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C110253"
+			(at 229.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
 			(at 229.87 38.1 0)
 			(effects
 				(font
@@ -18421,7 +18556,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 45.72 264.16 0)
 			(effects
 				(font
@@ -18812,6 +18947,15 @@
 			)
 		)
 		(property "Description" "Capacitor, 10uF, 25V, 20%, 1206 SMD"
+			(at 91.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C14860"
 			(at 91.44 31.75 0)
 			(effects
 				(font
