@@ -3,8 +3,8 @@ kibot:
 
 
 preflight:
-  run_erc: true
-  run_drc: true
+  erc: true
+  drc: true
   check_zone_fills: false
   ignore_unconnected: false
   
@@ -70,10 +70,8 @@ outputs:
           name: Manufacturer#
         - field: LCSC#
           name: 'LCSC-Key'
-        - field: Mouser#
+        - field: 'Mouser Part Number'
           name: 'Mouser-Key'
-        - field: digikey#
-          name: 'Cod. Digi-Key'
         - Footprint
         - field: Description
           name: Description
@@ -82,9 +80,8 @@ outputs:
       normalize_values: true
       normalize_locale: true
       html:
-        digikey_link: 'digikey#'
         lcsc_link: 'LCSC#'
-        mouser_link: 'Mouser#'
+        mouser_link: 'Mouser Part Number'
         highlight_empty: false
 
   - name: 'bom_xlsx'

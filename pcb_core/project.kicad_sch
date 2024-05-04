@@ -14342,7 +14342,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 389.89 362.3309 0)
 			(effects
 				(font
@@ -15681,7 +15681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems"
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -15699,7 +15699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "356-ESP3S3WRM2N32R8V "
+		(property "Mouser Part Number" "356-ESP3S3WRM2N32R8V"
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -15895,7 +15895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems"
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -15904,7 +15904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESP32-DevKitC "
+		(property "Manufacturer_Part_Number" "ESP32-DevKitC"
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -15913,7 +15913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "356-ESP32-DEVKITC "
+		(property "Mouser Part Number" "356-ESP32-DEVKITC"
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -16667,7 +16667,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF, 50V"
+		(property "Value" "47uF"
 			(at 381 338.2009 0)
 			(effects
 				(font
@@ -17200,7 +17200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1N4148WT "
+		(property "Manufacturer_Part_Number" "1N4148WT"
 			(at 100.33 369.57 0)
 			(effects
 				(font

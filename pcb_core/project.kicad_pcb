@@ -937,7 +937,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1176,7 +1176,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1646,7 +1646,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3576,7 +3576,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3815,7 +3815,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4862,7 +4862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4888,7 +4888,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "356-ESP3S3WRM2N32R8V "
+		(property "Mouser Part Number" "356-ESP3S3WRM2N32R8V"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6989,7 +6989,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10180,7 +10180,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11053,7 +11053,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11570,7 +11570,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11583,7 +11583,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ESP32-DevKitC "
+		(property "Manufacturer_Part_Number" "ESP32-DevKitC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11596,7 +11596,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "356-ESP32-DEVKITC "
+		(property "Mouser Part Number" "356-ESP32-DEVKITC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12951,7 +12951,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13190,7 +13190,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14420,7 +14420,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15103,7 +15103,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15342,7 +15342,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16025,7 +16025,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16843,7 +16843,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17883,7 +17883,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18122,7 +18122,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18592,7 +18592,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21351,7 +21351,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22168,7 +22168,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -23116,7 +23116,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28030,7 +28030,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28269,7 +28269,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32113,7 +32113,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -33043,7 +33043,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -33282,7 +33282,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -34265,7 +34265,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "1N4148WT "
+		(property "Manufacturer_Part_Number" "1N4148WT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35409,7 +35409,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -37750,7 +37750,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -38937,7 +38937,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF, 63V"
+		(property "Value" "22uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -39407,7 +39407,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -40651,7 +40651,7 @@
 				)
 			)
 		)
-		(property "Value" "47uF, 50V"
+		(property "Value" "47uF"
 			(at 0 4.35 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -42201,7 +42201,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43482,7 +43482,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF, 50V"
+		(property "Value" "0.1uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(hide yes)
