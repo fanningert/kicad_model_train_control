@@ -16091,7 +16091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor 10k 1%"
+		(property "Description" "Resistor, 10.0k, 1%, 1206 SMD"
 			(at 238.76 67.31 0)
 			(effects
 				(font
