@@ -6,25 +6,25 @@ on:
       - '*'
 
 jobs:
-  Fabrication-Controller:
+  Fabrication-Core:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate fabrication - Base
+      - name: Generate fabrication - Core
         uses: INTI-CMNB/KiBot@v2_k8
         with:
           config: kibot/base.kibot.yaml
-          dir: pcb_controller/Fabrication
-          schema: 'pcb_controller/project.kicad_sch'
-          board: 'pcb_controller/project.kicad_pcb'
+          dir: pcb_core/Fabrication
+          schema: 'pcb_core/project.kicad_sch'
+          board: 'pcb_core/project.kicad_pcb'
           verbose: 0
       - name: Generate fabrication - Production
         uses: INTI-CMNB/KiBot@v2_k8
         with:
           config: kibot/production.kibot.yaml
-          dir: pcb_controller/Fabrication/production
-          schema: 'pcb_controller/project.kicad_sch'
-          board: 'pcb_controller/project.kicad_pcb'
+          dir: pcb_core/Fabrication/production
+          schema: 'pcb_core/project.kicad_sch'
+          board: 'pcb_core/project.kicad_pcb'
           verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
@@ -32,115 +32,12 @@ jobs:
         with:
           name: Fabrication_Controller
           path: |
-            pcb_controller/Fabrication/
-          if-no-files-found: warn
-          retention-days: 1
-  Fabrication-HBridge:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate fabrication - Base
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/base.kibot.yaml
-          dir: pcb_hbridge/Fabrication
-          schema: 'pcb_hbridge/project.kicad_sch'
-          board: 'pcb_hbridge/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Production
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/production.kibot.yaml
-          dir: pcb_hbridge/Fabrication/production
-          schema: 'pcb_hbridge/project.kicad_sch'
-          board: 'pcb_hbridge/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Panel
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: pcb_hbridge/panel.kibot.yaml
-          dir: pcb_hbridge/Fabrication/production_panel
-          schema: 'pcb_hbridge/project.kicad_sch'
-          board: 'pcb_hbridge/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Panel Production
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/production.kibot.yaml
-          dir: pcb_hbridge/Fabrication/production_panel
-          schema: 'pcb_hbridge/project.kicad_sch'
-          board: 'pcb_hbridge/Fabrication/production_panel/project-panel.kicad_pcb'
-          verbose: 0
-      - name: Retrieve results
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: Fabrication_HBridge
-          path: |
-            pcb_hbridge/Fabrication/
-          if-no-files-found: warn
-          retention-days: 1
-  Fabrication-Main:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate fabrication - Base
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/base.kibot.yaml
-          dir: pcb_main/Fabrication
-          schema: 'pcb_main/project.kicad_sch'
-          board: 'pcb_main/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Production
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/production.kibot.yaml
-          dir: pcb_main/Fabrication/production
-          schema: 'pcb_main/project.kicad_sch'
-          board: 'pcb_main/project.kicad_pcb'
-          verbose: 0
-      - name: Retrieve results
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: Fabrication_Main
-          path: |
-            pcb_main/Fabrication/
-          if-no-files-found: warn
-          retention-days: 1
-  Fabrication-Power:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate fabrication - Base
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/base.kibot.yaml
-          dir: pcb_power/Fabrication
-          schema: 'pcb_power/project.kicad_sch'
-          board: 'pcb_power/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Production
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/production.kibot.yaml
-          dir: pcb_power/Fabrication/production
-          schema: 'pcb_power/project.kicad_sch'
-          board: 'pcb_power/project.kicad_pcb'
-          verbose: 0
-      - name: Retrieve results
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: Fabrication_Power
-          path: |
-            pcb_power/Fabrication/
+            pcb_core/Fabrication/
           if-no-files-found: warn
           retention-days: 1
   Create-Release:
     runs-on: ubuntu-latest
-    needs: [Fabrication-Controller,Fabrication-HBridge,Fabrication-Main,Fabrication-Power]
+    needs: [Fabrication-Core]
     steps:
       - name: Download assets
         uses: actions/download-artifact@v4
@@ -157,43 +54,13 @@ jobs:
           tag_name: ${{ github.ref }}
           draft: true
           prerelease: false
-      - name: Upload Release Asset - Controller
-        id: upload-release-asset-controller
+      - name: Upload Release Asset - Core
+        id: upload-release-asset-core
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Fabrication_Controller.zip
-          asset_name: Fabrication Controller
-          asset_content_type: application/zip
-      - name: Upload Release Asset - HBridge
-        id: upload-release-asset-hbridge
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Fabrication_HBridge.zip
-          asset_name: Fabrication HBridge
-          asset_content_type: application/zip
-      - name: Upload Release Asset - Main
-        id: upload-release-asset-main
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Fabrication_Main.zip
-          asset_name: Fabrication Main
-          asset_content_type: application/zip
-      - name: Upload Release Asset - Power
-        id: upload-release-asset-power
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Fabrication_Power.zip
-          asset_name: Fabrication Power
+          asset_path: ./Fabrication_Core.zip
+          asset_name: Fabrication Core
           asset_content_type: application/zip
