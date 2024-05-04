@@ -5613,10 +5613,10 @@
 		(uuid "bcc11658-3dfb-46fe-a33c-7af3be67ff7e")
 	)
 	(junction
-		(at 377.19 346.71)
+		(at 382.27 346.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bd35bd82-12cc-452c-bc6f-9981df19b3c2")
+		(uuid "bea33c37-c65c-4ab3-b805-671dcb1fa999")
 	)
 	(junction
 		(at 38.1 270.51)
@@ -6455,6 +6455,16 @@
 			(type default)
 		)
 		(uuid "1e2e1bb6-ba78-46ea-a2a7-62e22ded586c")
+	)
+	(wire
+		(pts
+			(xy 382.27 346.71) (xy 396.24 346.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2099e6d5-9615-4b05-9566-c2e3a292ee34")
 	)
 	(wire
 		(pts
@@ -7428,7 +7438,7 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 334.01) (xy 392.43 334.01)
+			(xy 382.27 334.01) (xy 392.43 334.01)
 		)
 		(stroke
 			(width 0)
@@ -8708,7 +8718,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 346.71) (xy 377.19 346.71)
+			(xy 373.38 346.71) (xy 382.27 346.71)
 		)
 		(stroke
 			(width 0)
@@ -8818,7 +8828,7 @@
 	)
 	(wire
 		(pts
-			(xy 377.19 341.63) (xy 377.19 346.71)
+			(xy 382.27 341.63) (xy 382.27 346.71)
 		)
 		(stroke
 			(width 0)
@@ -9295,16 +9305,6 @@
 			(type default)
 		)
 		(uuid "f9f6c1ad-9a23-47ac-bd2e-dd52db3e1c1f")
-	)
-	(wire
-		(pts
-			(xy 377.19 346.71) (xy 396.24 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa248eec-337c-4e8a-88a2-0e5de925165c")
 	)
 	(wire
 		(pts
@@ -16650,7 +16650,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 377.19 337.82 0)
+		(at 382.27 337.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16659,7 +16659,7 @@
 		(fields_autoplaced yes)
 		(uuid "95334b3f-4330-4c75-a719-d37567200a60")
 		(property "Reference" "C42"
-			(at 381 335.6609 0)
+			(at 386.08 335.6609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16668,7 +16668,7 @@
 			)
 		)
 		(property "Value" "47uF"
-			(at 381 338.2009 0)
+			(at 386.08 338.2009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16677,7 +16677,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
-			(at 378.1552 341.63 0)
+			(at 383.2352 341.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16686,7 +16686,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 377.19 337.82 0)
+			(at 382.27 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16695,7 +16695,7 @@
 			)
 		)
 		(property "Description" "Polarized Capacitor, 47.0uF, 35V, D6.3xL7.7 SMD"
-			(at 377.19 337.82 0)
+			(at 382.27 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16704,7 +16704,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "Polarized Capacitor, 47.0uF, 35V, D6.3xL7.7 SMD"
-			(at 377.19 337.82 0)
+			(at 382.27 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16713,7 +16713,7 @@
 			)
 		)
 		(property "LCSC#" "C5266037"
-			(at 377.19 337.82 0)
+			(at 382.27 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
