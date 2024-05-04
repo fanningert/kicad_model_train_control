@@ -1,26 +1,19 @@
 # Model Train Control
 
-Control unit for analog model trains, based on ESPHome. A Home Assistant instance is used for visualization and control. Every `PCB_Controller` can handle four `PCB_Main` and erver `PCB_Main` can handle eight `PCB_HBridge`. With this, every block has thirty two pwm outputs.
+Control unit for analog model trains, based on ESPHome. A Home Assistant instance is used for visualization and control. This board is stackable up to 64 boards and every board has 16 outputs (3 pin). The Voltage is limited on the outputs per ESPHome template.
 
 ```mermaid
 flowchart LR
     Z[PowerSupply] ===|24V DC| A
-    A[PCB_Power] ===|3.3V DC| B
-    A === |16V DC| B
-    B[PCB_Controller] -->|I2C| C
-    B ===|3.3V DC| C
-    B ===|16V DC| C
-    C[PCB_Main] -->|GPIO| D
-    C ===|16V DC| D
-    D[PCB_HBridge]
+    A[PCB_Core1] ===|24V DC, 3.3V, I2C| B & C & D
+    B[PCB_Core2]
+    C[PCB_Core...]
+    D[PCB_Core64]
 ```
 
 ## Parts
 
-* `PCB_Controller` - Controller board with a ESP32 DEV board as the brain of the block 
-* `PCB_Main` - Switch board to handle 8 PCB_HBridge boards, with are controlled per I2C from the ESP32.
-* `PCB_HBridge` - HBridge with is used as a three state switch or as a variable power control for the power line.
-* `PCB_Power` - A simple power supply to give 3.3V and 16V (adjustable)
+* `PCB_Core` - Single board with 16 H-Bridges, ESP32 module placement, Reverse Voltage, OV and UV protection
 
 ## Supported szenarios
 
