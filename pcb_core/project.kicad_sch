@@ -14378,7 +14378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "Polarized Capacitor, 22.0uF, 63V, D6.3xL7.7 SMD"
 			(at 386.08 361.95 0)
 			(effects
 				(font
@@ -14387,7 +14387,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C473196"
+		(property "LCSC#" "C5246567"
 			(at 386.08 361.95 0)
 			(effects
 				(font
@@ -14623,7 +14623,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 24.638 264.16 90)
 			(effects
 				(font
@@ -14641,7 +14641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 5k, 0402 SMD"
+		(property "Description" "Resistor, 5k, 1206 SMD"
 			(at 22.86 264.16 0)
 			(effects
 				(font
@@ -14659,7 +14659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" ""
 			(at 22.86 264.16 0)
 			(effects
 				(font
@@ -14711,7 +14711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -14729,7 +14729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 10.0k, 0402 SMD"
+		(property "Description" "Resistor, 10.0k, 1206 SMD"
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -15584,7 +15584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 109.22 233.68 0)
 			(effects
 				(font
@@ -15602,7 +15602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Capacitor, 10uF, 0402 SMD"
+		(property "Description" "Capacitor, 10uF, 25V, 20%, 1206 SMD"
 			(at 109.22 233.68 0)
 			(effects
 				(font
@@ -16091,7 +16091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 10.0k, 1%, 1206 SMD"
+		(property "Description" "Resistor, 10.0k, 1206 SMD"
 			(at 238.76 67.31 0)
 			(effects
 				(font
@@ -16694,7 +16694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized Capacitor, 47.0uF, 50V, D6.3xL7.7 SMD"
+		(property "Description" "Polarized Capacitor, 47.0uF, 35V, D6.3xL7.7 SMD"
 			(at 377.19 337.82 0)
 			(effects
 				(font
@@ -16703,7 +16703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "Polarized Capacitor, 47.0uF, 35V, D6.3xL7.7 SMD"
 			(at 377.19 337.82 0)
 			(effects
 				(font
@@ -16712,7 +16712,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C5266037"
 			(at 377.19 337.82 0)
 			(effects
 				(font
@@ -16764,7 +16764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 32.258 264.16 90)
 			(effects
 				(font
@@ -16782,7 +16782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 5k, 0402 SMD"
+		(property "Description" "Resistor, 5k, 1206 SMD"
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -16800,7 +16800,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" ""
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -16988,7 +16988,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 39.878 264.16 90)
 			(effects
 				(font
@@ -17006,7 +17006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 5k, 0402 SMD"
+		(property "Description" "Resistor, 5k, 1206 SMD"
 			(at 38.1 264.16 0)
 			(effects
 				(font
@@ -17024,7 +17024,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" ""
 			(at 38.1 264.16 0)
 			(effects
 				(font
@@ -17095,6 +17095,15 @@
 			)
 		)
 		(property "Description" "Capacitor, 1uF, 16V, 10%, 1206 SMD"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 1uF, 16V, 10%, 1206 SMD"
 			(at 238.76 80.01 0)
 			(effects
 				(font
@@ -18376,7 +18385,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 47.498 264.16 90)
 			(effects
 				(font
@@ -18394,7 +18403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 5k, 0402 SMD"
+		(property "Description" "Resistor, 5k, 1206 SMD"
 			(at 45.72 264.16 0)
 			(effects
 				(font
@@ -18412,7 +18421,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" ""
 			(at 45.72 264.16 0)
 			(effects
 				(font
