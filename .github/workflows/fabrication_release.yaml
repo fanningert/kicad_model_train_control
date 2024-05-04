@@ -50,6 +50,7 @@ jobs:
       - name: release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "./Fabrication_Core.zip"
+          artifacts: "./Fabrication_Core"
+          artifactContentType: "application/zip"
           draft: true
           prerelease: false
