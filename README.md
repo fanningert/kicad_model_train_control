@@ -1,6 +1,6 @@
 # Model Train Control
 
-[![KitBot - PCB test run of production file generation](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_test.yaml/badge.svg)](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_test.yaml)
+[![KitBot - Last PCB check](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_test.yaml/badge.svg)](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_test.yaml)
 
 Control unit for analog model trains, based on ESPHome. A Home Assistant instance is used for visualization and control. This board is stackable up to 64 boards and every board has 16 outputs (3 pin). The Voltage is limited on the outputs per ESPHome template.
 
