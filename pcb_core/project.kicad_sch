@@ -14851,7 +14851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" " LTC4365CTS8#TRMPBF"
+		(property "Manufacturer_Part_Number" "LTC4365CTS8#TRMPBF"
 			(at 143.51 365.76 0)
 			(effects
 				(font
@@ -15080,7 +15080,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" " C6191939"
+		(property "LCSC#" "C6191939"
 			(at 214.63 22.86 0)
 			(effects
 				(font
@@ -15715,7 +15715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" " Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems "
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -15929,7 +15929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" " Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems "
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -15938,7 +15938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" " ESP32-DevKitC "
+		(property "Manufacturer_Part_Number" "ESP32-DevKitC "
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -17111,7 +17111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "512-1N4148WT "
+		(property "Mouser Part Number" "512-1N4148WT"
 			(at 100.33 369.57 0)
 			(effects
 				(font
@@ -17432,7 +17432,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" " C6191939"
+		(property "LCSC#" "C6191939"
 			(at 269.24 21.59 0)
 			(effects
 				(font

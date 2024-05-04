@@ -4862,7 +4862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" " Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5144,7 +5144,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 1 "unconnected-(U1-GPIO4{slash}TOUCH4{slash}ADC1_CH3-Pad4)")
 			(pinfunction "GPIO4/TOUCH4/ADC1_CH3")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "02045c20-0720-499a-b9f3-ba85b17bbeb5")
 		)
 		(pad "5" smd rect
@@ -5153,7 +5153,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 4 "unconnected-(U1-GPIO5{slash}TOUCH5{slash}ADC1_CH4-Pad5)")
 			(pinfunction "GPIO5/TOUCH5/ADC1_CH4")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "11705f2e-736c-4e5f-83f1-6c6c912a9161")
 		)
 		(pad "6" smd rect
@@ -5162,7 +5162,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 3 "unconnected-(U1-GPIO6{slash}TOUCH6{slash}ADC1_CH5-Pad6)")
 			(pinfunction "GPIO6/TOUCH6/ADC1_CH5")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "0e682b2b-7fd5-4b40-84fe-570133af788f")
 		)
 		(pad "7" smd rect
@@ -5171,7 +5171,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 34 "unconnected-(U1-GPIO7{slash}TOUCH7{slash}ADC1_CH6-Pad7)")
 			(pinfunction "GPIO7/TOUCH7/ADC1_CH6")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d55cc518-a812-4110-9cb4-d3ddc87a3f7b")
 		)
 		(pad "8" smd rect
@@ -5180,7 +5180,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 31 "unconnected-(U1-GPIO15{slash}U0RTS{slash}ADC2_CH4{slash}XTAL_32K_P-Pad8)")
 			(pinfunction "GPIO15/U0RTS/ADC2_CH4/XTAL_32K_P")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d0690761-2d52-446c-bba9-b174456feeb9")
 		)
 		(pad "9" smd rect
@@ -5189,7 +5189,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 11 "unconnected-(U1-GPIO16{slash}U0CTS{slash}ADC2_CH5{slash}XTAL_32K_N-Pad9)")
 			(pinfunction "GPIO16/U0CTS/ADC2_CH5/XTAL_32K_N")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "3f5dfd10-b0ab-43b2-9565-bd2af48293d5")
 		)
 		(pad "10" smd rect
@@ -5198,7 +5198,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 8 "unconnected-(U1-GPIO17{slash}U1TXD{slash}ADC2_CH6-Pad10)")
 			(pinfunction "GPIO17/U1TXD/ADC2_CH6")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "27a719f4-2679-4113-92df-fc4b7e894e2c")
 		)
 		(pad "11" smd rect
@@ -5207,7 +5207,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 28 "unconnected-(U1-GPIO18{slash}U1RXD{slash}ADC2_CH7{slash}CLK_OUT3-Pad11)")
 			(pinfunction "GPIO18/U1RXD/ADC2_CH7/CLK_OUT3")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "cf5722a2-768f-465b-93fd-850bf0ce6ba6")
 		)
 		(pad "12" smd rect
@@ -5216,7 +5216,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 25 "unconnected-(U1-GPIO8{slash}TOUCH8{slash}ADC1_CH7{slash}SUBSPICS1-Pad12)")
 			(pinfunction "GPIO8/TOUCH8/ADC1_CH7/SUBSPICS1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "a6bd890b-9d52-4376-b003-0a22122d1910")
 		)
 		(pad "13" smd rect
@@ -5225,7 +5225,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 18 "unconnected-(U1-GPIO19{slash}U1RTS{slash}ADC2_CH8{slash}CLK_OUT2{slash}USB_D--Pad13)")
 			(pinfunction "GPIO19/U1RTS/ADC2_CH8/CLK_OUT2/USB_D-")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "74d420a3-a012-4202-ad89-672649539870")
 		)
 		(pad "14" smd rect
@@ -5234,7 +5234,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 22 "unconnected-(U1-GPIO20{slash}U1CTS{slash}ADC2_CH9{slash}CLK_OUT1{slash}USB_D+-Pad14)")
 			(pinfunction "GPIO20/U1CTS/ADC2_CH9/CLK_OUT1/USB_D+")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "9c3842b7-f0ea-45da-aabe-0605ae808fca")
 		)
 		(pad "15" smd rect
@@ -5243,7 +5243,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 9 "unconnected-(U1-GPIO3{slash}TOUCH3{slash}ADC1_CH2-Pad15)")
 			(pinfunction "GPIO3/TOUCH3/ADC1_CH2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "35536faf-5410-4ef1-86ab-59df1a3c02a2")
 		)
 		(pad "16" smd rect
@@ -5252,7 +5252,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 21 "unconnected-(U1-GPIO46-Pad16)")
 			(pinfunction "GPIO46")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "882dfc50-d26b-4192-9554-e6a38005addc")
 		)
 		(pad "17" smd rect
@@ -5261,7 +5261,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 20 "unconnected-(U1-GPIO9{slash}TOUCH9{slash}ADC1_CH8{slash}FSPIHD{slash}SUBSPIHD-Pad17)")
 			(pinfunction "GPIO9/TOUCH9/ADC1_CH8/FSPIHD/SUBSPIHD")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "78089fb9-aa34-462b-882d-486483df3982")
 		)
 		(pad "18" smd rect
@@ -5270,7 +5270,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 24 "unconnected-(U1-GPIO10{slash}TOUCH10{slash}ADC1_CH9{slash}FSPICS0{slash}FSPIIO4{slash}SUBSPICS0-Pad18)")
 			(pinfunction "GPIO10/TOUCH10/ADC1_CH9/FSPICS0/FSPIIO4/SUBSPICS0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "a0751e7d-f966-46a4-811d-a54dfc1adf02")
 		)
 		(pad "19" smd rect
@@ -5279,7 +5279,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 7 "unconnected-(U1-GPIO11{slash}TOUCH11{slash}ADC2_CH0{slash}FSPID{slash}FSPIIO5{slash}SUBSPID-Pad19)")
 			(pinfunction "GPIO11/TOUCH11/ADC2_CH0/FSPID/FSPIIO5/SUBSPID")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "1d1b7fde-b4ea-43f7-bee8-28b3c4c0e7ab")
 		)
 		(pad "20" smd rect
@@ -5288,7 +5288,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 29 "unconnected-(U1-GPIO12{slash}TOUCH12{slash}ADC2_CH1{slash}FSPICLK{slash}FSPIIO6{slash}SUBSPICLK-Pad20)")
 			(pinfunction "GPIO12/TOUCH12/ADC2_CH1/FSPICLK/FSPIIO6/SUBSPICLK")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "cfa3ee3a-6042-4ef2-a196-9a0e0803eb49")
 		)
 		(pad "21" smd rect
@@ -5297,7 +5297,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 2 "unconnected-(U1-GPIO13{slash}TOUCH13{slash}ADC2_CH2{slash}FSPIQ{slash}FSPIIO7{slash}SUBSPIQ-Pad21)")
 			(pinfunction "GPIO13/TOUCH13/ADC2_CH2/FSPIQ/FSPIIO7/SUBSPIQ")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "04dde4e9-cfb2-4efd-b5f8-a7d3b8f75ff2")
 		)
 		(pad "22" smd rect
@@ -5306,7 +5306,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 36 "unconnected-(U1-GPIO14{slash}TOUCH14{slash}ADC2_CH3{slash}FSPIWP{slash}FSPIDQS{slash}SUBSPIWP-Pad22)")
 			(pinfunction "GPIO14/TOUCH14/ADC2_CH3/FSPIWP/FSPIDQS/SUBSPIWP")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "fe031ac4-1527-4c42-acb2-f7f78e059a00")
 		)
 		(pad "23" smd rect
@@ -5315,7 +5315,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 26 "unconnected-(U1-GPIO21-Pad23)")
 			(pinfunction "GPIO21")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "ab0fe255-5f1a-4237-9df7-0408ad4dd070")
 		)
 		(pad "24" smd rect
@@ -5342,7 +5342,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 33 "unconnected-(U1-GPIO45-Pad26)")
 			(pinfunction "GPIO45")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d45418aa-4197-426d-a1d6-bc5b5d88271b")
 		)
 		(pad "27" smd rect
@@ -5387,7 +5387,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 16 "unconnected-(U1-GPIO38{slash}FSPIWP{slash}SUBSPIWP-Pad31)")
 			(pinfunction "GPIO38/FSPIWP/SUBSPIWP")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "5d6298ae-1d0d-4bda-9d1a-79232696e842")
 		)
 		(pad "32" smd rect
@@ -5396,7 +5396,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 6 "unconnected-(U1-MTCK{slash}GPIO39{slash}CLK_OUT3{slash}SUBSPICS1-Pad32)")
 			(pinfunction "MTCK/GPIO39/CLK_OUT3/SUBSPICS1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "123be858-e5c5-4d53-83c4-ff79e982111b")
 		)
 		(pad "33" smd rect
@@ -5405,7 +5405,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 15 "unconnected-(U1-MTDO{slash}GPIO40{slash}CLK_OUT2-Pad33)")
 			(pinfunction "MTDO/GPIO40/CLK_OUT2")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "4a2a12cc-a00e-400d-b511-47b22cc0f1ed")
 		)
 		(pad "34" smd rect
@@ -5414,7 +5414,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 32 "unconnected-(U1-MTDI{slash}GPIO41{slash}CLK_OUT1-Pad34)")
 			(pinfunction "MTDI/GPIO41/CLK_OUT1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "d43860e1-e3d1-4732-a933-f252938eefd0")
 		)
 		(pad "35" smd rect
@@ -5423,7 +5423,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 35 "unconnected-(U1-MTMS{slash}GPIO42-Pad35)")
 			(pinfunction "MTMS/GPIO42")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "f805151c-1616-4738-bb1a-9668535e33a1")
 		)
 		(pad "36" smd rect
@@ -5450,7 +5450,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 19 "unconnected-(U1-GPIO2{slash}TOUCH2{slash}ADC1_CH1-Pad38)")
 			(pinfunction "GPIO2/TOUCH2/ADC1_CH1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "7604e67b-f149-4c4b-b911-0e196cad0231")
 		)
 		(pad "39" smd rect
@@ -5459,7 +5459,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 13 "unconnected-(U1-GPIO1{slash}TOUCH1{slash}ADC1_CH0-Pad39)")
 			(pinfunction "GPIO1/TOUCH1/ADC1_CH0")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "42508423-0095-4c3a-9d53-a274a055df44")
 		)
 		(pad "40" smd rect
@@ -9167,7 +9167,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " LTC4365CTS8#TRMPBF"
+		(property "Manufacturer_Part_Number" "LTC4365CTS8#TRMPBF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11570,7 +11570,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" " Espressif Systems "
+		(property "Manufacturer_Name" "Espressif Systems "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11583,7 +11583,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " ESP32-DevKitC "
+		(property "Manufacturer_Part_Number" "ESP32-DevKitC "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21822,7 +21822,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at -110.6576 -41.6102 270)
+			(at -110.6576 -41.6102 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c2f2f47-c4f3-4a7e-8046-6dbd86402848")
@@ -34278,7 +34278,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "512-1N4148WT "
+		(property "Mouser Part Number" "512-1N4148WT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36872,7 +36872,7 @@
 				)
 			)
 		)
-		(property "LCSC#" " C6191939"
+		(property "LCSC#" "C6191939"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41562,7 +41562,7 @@
 				)
 			)
 		)
-		(property "LCSC#" " C6191939"
+		(property "LCSC#" "C6191939"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
