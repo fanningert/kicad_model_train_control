@@ -9402,7 +9402,7 @@
 	)
 	(text_box "I2C Addresses: \n{A2} {A1} {A0}\nL L L 0x70\nL L H 0x71\nL H L 0x72\nL H H 0x73\nH L L 0x74\nH L H 0x75\nH H L 0x76\nH H H 0x77"
 		(exclude_from_sim no)
-		(at 88.9 190.5 0)
+		(at 87.63 189.23 0)
 		(size 17.78 22.86)
 		(stroke
 			(width 0)

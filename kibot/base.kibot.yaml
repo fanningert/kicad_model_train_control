@@ -29,7 +29,7 @@ outputs:
     comment: "Generate KiRi - KiCad Revision Inspector"
     type: kiri
     dir: .
-    layer: 'all'
+    layers: 'all'
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
