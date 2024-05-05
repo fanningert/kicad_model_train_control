@@ -2176,7 +2176,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C17902"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3195,7 +3195,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4552,7 +4552,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6896,6 +6896,32 @@
 				)
 			)
 		)
+		(property "LCSC#" "C110253"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63802d73-32a2-45e3-bfef-34f5cb1c2149")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbf79a52-da42-4c57-a94b-9aff2a822841")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7bccec0-8ade-4f15-ba79-42719cbb2b9e")
 		(sheetname "Stammblatt")
@@ -7831,6 +7857,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C1854361"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e350f79e-2ad2-4584-bb89-196c6cad7db3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9fb00f19-1f2f-4b93-83fd-ca197bcdf0ed")
 		(sheetname "Stammblatt")
@@ -8681,6 +8720,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C5126164"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1536f5f-5ad9-4f4c-8ec4-322a65928877")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16060,6 +16112,32 @@
 				)
 			)
 		)
+		(property "LCSC#" "C110253"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4289a68d-c2de-4204-80b4-e331631db9b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d93aea5-0e5a-4a5e-948d-179b12ccf056")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da079e00-3e00-44cf-89f4-9978be8ccf48")
 		(sheetname "Stammblatt")
@@ -19355,6 +19433,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C17990"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd71cb3e-2120-4897-a994-a510adbb4f20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6ccb508f-2648-4e53-ba77-1f8dc94e224c")
 		(sheetname "Stammblatt")
@@ -19959,7 +20050,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23211,7 +23302,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C17902"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23672,6 +23763,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C2828875"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62fdccbb-7f2e-4f43-a1fb-540c4d11d483")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24529,6 +24633,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C14860"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc1e6f86-7dfe-4acb-b71b-2b2a2d67076b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6d0af45a-0080-4798-82cd-ec8cb9c5b0fd")
 		(sheetname "Stammblatt")
@@ -25117,6 +25234,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C110253"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89f4fa76-24dd-42a6-9ed0-be8ef93c76d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f77fe3f-b198-4ee3-8895-9cc61f1d8498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29556,7 +29699,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 0 1.82 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -29601,6 +29744,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C17902"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebd6484a-bfef-42e7-989d-5602330790fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -29813,6 +29969,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C2828875"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a75f4336-c755-4a51-af93-f8bbb20c5759")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -34589,6 +34758,19 @@
 				)
 			)
 		)
+		(property "LCSC#" "C17888"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acddd95e-2d6a-4215-a70f-61e0a2f29833")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9325b929-0a8d-4db6-9473-d6e4c4f43168")
 		(sheetname "Stammblatt")
@@ -35806,7 +35988,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C17902"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38184,7 +38366,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C17902"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39369,7 +39551,7 @@
 				)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2828875"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41131,6 +41313,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C17902"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b759711-5275-4142-8484-1a99b8a54366")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -43788,6 +43983,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C14860"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2318ba7c-c382-4732-886c-811cc413dee3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -62239,10 +62447,9 @@
 		(polygon
 			(pts
 				(xy 58.166 72.898) (xy 58.166 68.58) (xy 255.778 68.58) (xy 256.286 69.088) (xy 255.778 110.236)
-				(xy 232.156 110.236) (xy 232.156 121.666) (xy 232.156 121.666) (xy 215.646 121.666) (xy 215.646 132.588)
-				(xy 260.604 132.588) (xy 260.604 123.952) (xy 250.698 123.952) (xy 250.698 114.046) (xy 256.032 114.046)
-				(xy 256.032 123.952) (xy 260.604 123.952) (xy 260.604 123.952) (xy 260.604 40.894) (xy 48.26 40.894)
-				(xy 48.26 72.898)
+				(xy 232.156 110.236) (xy 232.156 121.666) (xy 215.646 121.666) (xy 215.646 132.588) (xy 260.604 132.588)
+				(xy 260.604 123.952) (xy 250.698 123.952) (xy 250.698 114.046) (xy 256.032 114.046) (xy 256.032 123.952)
+				(xy 260.604 123.952) (xy 260.604 40.894) (xy 48.26 40.894) (xy 48.26 72.898)
 			)
 		)
 		(filled_polygon
