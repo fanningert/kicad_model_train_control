@@ -3,6 +3,22 @@
 [![KitBot - Last PCB check](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_check.yaml/badge.svg?branch=main)](https://github.com/fanningert/kicad_model_train_control/actions/workflows/fabrication_check.yaml)
 
 Control unit for analog model trains, based on ESPHome. A Home Assistant instance is used for visualization and control. This board is stackable up to 64 boards and every board has 16 outputs (3 pin). The Voltage is limited on the outputs per ESPHome template.
+I comes in three variants, but all variants are the same boards. Only some components are not placed.
+
+* Primary node with ESP32-S3-Wroom-2
+* Primary node with ESP32-Devkit
+* Sub node
+
+![3D render of PCB](./doc/asset/pcb-3d.png)
+
+## Features
+
+* 16 h-bridges
+* Reverse Voltage, Over Voltage and Under Voltage protection
+* (optional) ESP32-Devkit
+* (optional) ESP32-S3-Wroom-2
+
+## Simple graphic of the board connections
 
 ```mermaid
 flowchart LR
@@ -12,10 +28,6 @@ flowchart LR
     C[PCB_Core...]
     D[PCB_Core64]
 ```
-
-## Parts
-
-* `PCB_Core` - Single board with 16 H-Bridges, ESP32 module placement, Reverse Voltage, OV and UV protection
 
 ## Supported szenarios
 
