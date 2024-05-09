@@ -765,7 +765,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5144,7 +5144,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7184,7 +7184,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8171,7 +8171,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9076,7 +9076,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9746,7 +9746,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10885,7 +10885,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12279,7 +12279,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32Devkit"
+		(property "Config" "+PrimaryNodeESP32Devkit"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16725,7 +16725,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20163,7 +20163,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21891,7 +21891,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3,+MasterESP32Devkit"
+		(property "Config" "+PrimaryNodeESP32S3,+PrimaryNodeESP32Devkit"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26214,7 +26214,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27763,7 +27763,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28252,7 +28252,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29331,7 +29331,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32526,7 +32526,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34154,7 +34154,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36284,7 +36284,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36575,7 +36575,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38339,7 +38339,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39297,7 +39297,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43313,7 +43313,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43565,7 +43565,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44480,7 +44480,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45445,7 +45445,7 @@
 				)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46100,7 +46100,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")

@@ -31,21 +31,21 @@ preflight:
       command: 'date --iso-8601=minutes'
 
 variants:
-  - name: 'MasterESP32S3'
-    comment: 'Master with ESP32-S3'
+  - name: 'PrimaryNodeESP32S3'
+    comment: 'Primary node with ESP32-S3'
     type: kibom
-    file_id: _MasterESP32S3
-    variant: MasterESP32S3
-  - name: 'MasterESP32Devkit'
-    comment: 'Master with ESP32-DevKit'
+    file_id: _PrimaryNodeESP32S3
+    variant: PrimaryNodeESP32S3
+  - name: 'PrimaryNodeESP32Devkit'
+    comment: 'Primary node with ESP32-DevKit'
     type: kibom
-    file_id: _MasterESP32Devkit
-    variant: MasterESP32Devkit
-  - name: 'Slave'
+    file_id: _PrimaryNodeESP32Devkit
+    variant: PrimaryNodeESP32Devkit
+  - name: 'SubNode'
     comment: 'Full board'
     type: kibom
-    file_id: _Slave
-    variant: Slave
+    file_id: _SubNode
+    variant: SubNode
 
 filters:
  - name: 'exclude_any'

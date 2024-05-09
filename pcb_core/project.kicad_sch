@@ -13861,7 +13861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 114.3 356.87 0)
 			(effects
 				(font
@@ -14325,7 +14325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 100.33 379.73 0)
 			(effects
 				(font
@@ -14488,7 +14488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 386.08 361.95 0)
 			(effects
 				(font
@@ -14981,7 +14981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 143.51 365.76 0)
 			(effects
 				(font
@@ -15210,7 +15210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 214.63 22.86 0)
 			(effects
 				(font
@@ -15373,7 +15373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 114.3 373.38 0)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 100.33 397.51 0)
 			(effects
 				(font
@@ -15667,7 +15667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 396.24 344.17 0)
 			(effects
 				(font
@@ -15770,7 +15770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 85.09 356.87 0)
 			(effects
 				(font
@@ -15962,7 +15962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -16185,7 +16185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32Devkit"
+		(property "Config" "+PrimaryNodeESP32Devkit"
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -16390,7 +16390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 238.76 67.31 0)
 			(effects
 				(font
@@ -16844,7 +16844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 114.3 383.54 0)
 			(effects
 				(font
@@ -16995,7 +16995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 113.03 25.4 0)
 			(effects
 				(font
@@ -17092,7 +17092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 382.27 337.82 0)
 			(effects
 				(font
@@ -17431,7 +17431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 100.33 388.62 0)
 			(effects
 				(font
@@ -17625,7 +17625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 238.76 80.01 0)
 			(effects
 				(font
@@ -17749,7 +17749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 100.33 369.57 0)
 			(effects
 				(font
@@ -18115,7 +18115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 269.24 21.59 0)
 			(effects
 				(font
@@ -18277,7 +18277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3,+MasterESP32Devkit"
+		(property "Config" "+PrimaryNodeESP32S3,+PrimaryNodeESP32Devkit"
 			(at 353.06 29.21 0)
 			(effects
 				(font
@@ -18487,7 +18487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 284.48 38.1 0)
 			(effects
 				(font
@@ -18617,7 +18617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode "
 			(at 140.97 344.17 0)
 			(effects
 				(font
@@ -18731,7 +18731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 102.87 31.75 0)
 			(effects
 				(font
@@ -18825,7 +18825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 229.87 38.1 0)
 			(effects
 				(font
@@ -18913,7 +18913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-Slave"
+		(property "Config" "-SubNode"
 			(at 162.56 367.03 0)
 			(effects
 				(font
@@ -19682,7 +19682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "+MasterESP32S3"
+		(property "Config" "+PrimaryNodeESP32S3"
 			(at 91.44 31.75 0)
 			(effects
 				(font
