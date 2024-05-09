@@ -31,7 +31,7 @@ outputs:
     dir: .
     layers: 'all'
     options:
-      revision: '6701e8d2ccd9a02b41933199c3099f20b93a82bc'
+      revision: 6701e8d
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
