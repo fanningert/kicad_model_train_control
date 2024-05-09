@@ -25,13 +25,11 @@ filters:
        regex: '^(G|#|TP|F).*'
 
 outputs:
-#  - name: 'generate_kiri'
-#    comment: "Generate KiRi - KiCad Revision Inspector"
-#    type: kiri
-#    dir: .
-#    layers: 'all'
-#    options:
-#      revision: 6701e8d
+  - name: 'generate_kiri'
+    comment: "Generate KiRi - KiCad Revision Inspector"
+    type: kiri
+    dir: .
+    layers: 'all'
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
@@ -226,3 +224,5 @@ outputs:
       rotate_x: 3
       rotate_z: 3
       ray_tracing: true
+      width: 1920
+      height: 1080
