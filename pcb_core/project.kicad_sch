@@ -17431,6 +17431,15 @@
 				(hide yes)
 			)
 		)
+		(property "Config" "-Slave"
+			(at 100.33 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80d9f628-cfd3-4644-91de-5a685a14594b")
 		)
@@ -19447,6 +19456,15 @@
 			)
 		)
 		(property "LCSC#" " C2933580"
+			(at 172.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Config" ""
 			(at 172.72 383.54 0)
 			(effects
 				(font
