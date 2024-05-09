@@ -13778,7 +13778,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "260k"
+		(property "Value" "250k"
 			(at 116.84 358.1399 0)
 			(effects
 				(font
@@ -13805,7 +13805,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 260k, 1%, 1206 SMD"
+		(property "Description" "Resistor, 250k, 1206 SMD"
+			(at 114.3 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2999527"
 			(at 114.3 356.87 0)
 			(effects
 				(font
@@ -15182,7 +15191,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "40k"
+		(property "Value" "40.2k"
 			(at 116.84 374.6499 0)
 			(effects
 				(font
@@ -15209,7 +15218,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, 40k, 1%, 1206 SMD"
+		(property "Description" "Resistor, 40.2k, 1206 SMD"
+			(at 114.3 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C5159734"
 			(at 114.3 373.38 0)
 			(effects
 				(font
@@ -18338,6 +18356,15 @@
 			)
 		)
 		(property "Description" "Capacitor, 4.7uF, 50V, 0805 SMD"
+			(at 162.56 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C98192"
 			(at 162.56 367.03 0)
 			(effects
 				(font

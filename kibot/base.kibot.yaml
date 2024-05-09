@@ -15,7 +15,7 @@ global:
   solder_mask_color: 'green'
   silk_screen_color: 'white'
   pcb_finish: 'ENIG'
-  
+ 
 filters:
  - name: 'exclude_any'
    type: 'generic'
@@ -215,3 +215,18 @@ outputs:
     options:
       metric_units: true
       origin: 85,66.2
+      
+  - name: 3D_top_view_HQ
+    comment: "3D render from top (High Quality)"
+    type: blender_export
+    dir: 3D
+    options:
+      render_options:
+        transparent_background: true
+        samples: 20
+      point_of_view:
+        rotate_x: 30
+        rotate_z: -20
+      outputs:
+        - type: blender
+        - type: render
