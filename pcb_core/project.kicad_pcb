@@ -763,7 +763,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5129,7 +5129,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32Devkit"
+		(property "Config" "+MasterESP32S3"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9061,7 +9061,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20122,7 +20122,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24624,7 +24624,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3,+MasterESP32Devkit"
+		(property "Config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27722,7 +27722,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31051,7 +31051,7 @@
 				)
 			)
 		)
-		(property "Config" "+MasterESP32S3,+MasterESP32Devkit"
+		(property "Config" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32248,7 +32248,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33876,7 +33876,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36297,7 +36297,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44930,7 +44930,7 @@
 				)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "-Slave"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
