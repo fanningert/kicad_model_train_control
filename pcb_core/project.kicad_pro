@@ -576,6 +576,18 @@
       {
         "netclass": "Power",
         "pattern": "Net-(U2-UV)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D4-K)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D5-K)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Bet-(D2-A)"
       }
     ]
   },

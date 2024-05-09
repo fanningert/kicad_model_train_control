@@ -6148,7 +6148,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 386.08) (xy 172.72 388.62)
+			(xy 172.72 396.24) (xy 172.72 398.78)
 		)
 		(stroke
 			(width 0)
@@ -6208,7 +6208,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 377.19) (xy 172.72 378.46)
+			(xy 172.72 377.19) (xy 172.72 379.73)
 		)
 		(stroke
 			(width 0)
@@ -7015,6 +7015,16 @@
 			(type default)
 		)
 		(uuid "44aa06d5-0303-45df-8a7d-b559beebc30d")
+	)
+	(wire
+		(pts
+			(xy 172.72 387.35) (xy 172.72 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45d9c381-0060-4f21-a32c-b0d32657a164")
 	)
 	(wire
 		(pts
@@ -7958,6 +7968,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 392.43) (xy 100.33 393.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d9c809d-fb70-4b5f-a7ed-a0efe42513ca")
+	)
+	(wire
+		(pts
 			(xy 492.76 337.82) (xy 495.3 337.82)
 		)
 		(stroke
@@ -7988,7 +8008,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 398.78) (xy 157.48 363.22)
+			(xy 157.48 403.86) (xy 157.48 363.22)
 		)
 		(stroke
 			(width 0)
@@ -8238,7 +8258,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 392.43) (xy 100.33 398.78)
+			(xy 100.33 401.32) (xy 100.33 403.86)
 		)
 		(stroke
 			(width 0)
@@ -9208,7 +9228,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 398.78) (xy 157.48 398.78)
+			(xy 100.33 403.86) (xy 157.48 403.86)
 		)
 		(stroke
 			(width 0)
@@ -11584,7 +11604,7 @@
 	)
 	(global_label "GNDA"
 		(shape passive)
-		(at 172.72 388.62 270)
+		(at 172.72 398.78 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11594,7 +11614,7 @@
 		)
 		(uuid "7b00c90b-9452-4023-a886-232fe86ed683")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.72 395.453 90)
+			(at 172.72 405.613 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15455,7 +15475,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 100.33 388.62 90)
+		(at 100.33 397.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15464,7 +15484,7 @@
 		(fields_autoplaced yes)
 		(uuid "67a51d73-7063-4067-a1c5-92f7c0acb3c7")
 		(property "Reference" "D3"
-			(at 104.14 388.9374 90)
+			(at 104.14 397.8274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15473,7 +15493,7 @@
 			)
 		)
 		(property "Value" "RED LED"
-			(at 104.14 391.4774 90)
+			(at 104.14 400.3674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15482,7 +15502,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 100.33 388.62 0)
+			(at 100.33 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15491,7 +15511,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 388.62 0)
+			(at 100.33 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15500,7 +15520,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 100.33 388.62 0)
+			(at 100.33 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15509,7 +15529,16 @@
 			)
 		)
 		(property "Config" "-Slave"
-			(at 100.33 388.62 0)
+			(at 100.33 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C84270"
+			(at 100.33 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16157,6 +16186,15 @@
 			)
 		)
 		(property "Config" "+MasterESP32Devkit"
+			(at 335.28 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C571180"
 			(at 335.28 97.79 0)
 			(effects
 				(font
@@ -16957,7 +16995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" ""
+		(property "Config" "+MasterESP32S3"
 			(at 113.03 25.4 0)
 			(effects
 				(font
@@ -17331,6 +17369,85 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 100.33 388.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b9e6d4e-1a8c-438e-bb22-0a01eb911b80")
+		(property "Reference" "R22"
+			(at 102.87 387.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.1k"
+			(at 102.87 389.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 98.552 388.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 100.33 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, 1.1k, 1206 SMD"
+			(at 100.33 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" " C2933580"
+			(at 100.33 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80d9f628-cfd3-4644-91de-5a685a14594b")
+		)
+		(pin "2"
+			(uuid "1bdb9591-91bb-46da-858c-5ee04710fc85")
+		)
+		(instances
+			(project "project"
+				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 38.1 264.16 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17649,7 +17766,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 172.72 382.27 90)
+		(at 172.72 392.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17658,7 +17775,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6ff5e0b-5ba4-4648-b230-356bf8cf22aa")
 		(property "Reference" "D2"
-			(at 176.53 382.5874 90)
+			(at 176.53 392.7474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17667,7 +17784,7 @@
 			)
 		)
 		(property "Value" "GREEN LED"
-			(at 176.53 385.1274 90)
+			(at 176.53 395.2874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17676,7 +17793,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 172.72 382.27 0)
+			(at 172.72 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17685,7 +17802,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 382.27 0)
+			(at 172.72 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17694,7 +17811,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 172.72 382.27 0)
+			(at 172.72 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17703,7 +17820,16 @@
 			)
 		)
 		(property "Config" ""
-			(at 172.72 382.27 0)
+			(at 172.72 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C2980185"
+			(at 172.72 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19260,6 +19386,85 @@
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
 					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 383.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe0b883e-e5d2-4299-825a-a1ab0391d553")
+		(property "Reference" "R1"
+			(at 175.26 382.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1.1k"
+			(at 175.26 384.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+			(at 170.942 383.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, 1.1k, 1206 SMD"
+			(at 172.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" " C2933580"
+			(at 172.72 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd7e99b2-b120-4483-8407-8e8401fd6408")
+		)
+		(pin "2"
+			(uuid "4547e0a6-438f-48a4-aaa0-49366767858c")
+		)
+		(instances
+			(project "project"
+				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
+					(reference "R1")
 					(unit 1)
 				)
 			)
