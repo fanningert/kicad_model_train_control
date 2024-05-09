@@ -13685,6 +13685,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 447.04 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -13742,6 +13751,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 447.04 374.65 0)
 			(effects
 				(font
@@ -13815,6 +13833,15 @@
 			)
 		)
 		(property "LCSC#" "C2999527"
+			(at 114.3 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 114.3 356.87 0)
 			(effects
 				(font
@@ -14010,6 +14037,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 414.02 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a8243e7-2979-45d0-ac42-b1c788161beb")
 		)
@@ -14081,6 +14117,15 @@
 			)
 		)
 		(property "LCSC#" "C2828875"
+			(at 176.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
 			(at 176.53 121.92 0)
 			(effects
 				(font
@@ -14260,6 +14305,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 100.33 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3dfb08a6-dc05-4be7-9633-f708e10802b7")
 		)
@@ -14414,6 +14468,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "-Slave"
+			(at 386.08 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d1d478d7-c7e4-4364-94e3-959660ed25ac")
 		)
@@ -14524,6 +14587,15 @@
 			)
 		)
 		(property "LCSC#" "C130026"
+			(at 55.88 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 55.88 228.6 0)
 			(effects
 				(font
@@ -14686,6 +14758,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 22.86 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "80359f0c-eaed-4783-943f-bbefe6366749")
 		)
@@ -14757,6 +14838,15 @@
 			)
 		)
 		(property "LCSC#" "C17902"
+			(at 34.29 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -14871,6 +14961,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "-Slave"
+			(at 143.51 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "61556b67-c36c-4972-9528-8f08cb4555d3")
 		)
@@ -14949,6 +15048,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 365.76 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 365.76 387.35 0)
 			(effects
 				(font
@@ -15074,6 +15182,15 @@
 			)
 		)
 		(property "LCSC#" "C6191939"
+			(at 214.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3"
 			(at 214.63 22.86 0)
 			(effects
 				(font
@@ -15236,6 +15353,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 114.3 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e8fbdf4-29d3-4c84-9a41-bf42bf3e91ee")
 		)
@@ -15306,6 +15432,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 346.71 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf49bcc1-92f9-4ef5-8302-bc17e10d56b6")
 		)
@@ -15365,6 +15500,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 100.33 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 100.33 388.62 0)
 			(effects
 				(font
@@ -15494,6 +15638,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 396.24 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "60fab2d3-eeb4-4c72-a16c-92cfc8b0f8dd")
 		)
@@ -15588,6 +15741,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 85.09 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a27a886-836f-40c1-8932-8398287d1a9b")
 		)
@@ -15657,6 +15819,15 @@
 			)
 		)
 		(property "LCSC#" "C14860"
+			(at 109.22 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 109.22 233.68 0)
 			(effects
 				(font
@@ -15754,6 +15925,15 @@
 			)
 		)
 		(property "Mouser Part Number" "356-ESP3S3WRM2N32R8V"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32Devkit"
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -15976,6 +16156,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32Devkit"
+			(at 335.28 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2d8fb2cf-52fd-46f4-bf9f-19d5d84ed9c7")
 		)
@@ -16163,6 +16352,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 238.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68f3e510-71ab-4402-9f96-5d437996e8d0")
 		)
@@ -16225,6 +16423,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 414.02 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 414.02 379.73 0)
 			(effects
 				(font
@@ -16366,6 +16573,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c54c62fc-4888-4c86-8b2d-dff421dcb58d")
 		)
@@ -16426,6 +16642,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 447.04 369.57 0)
 			(effects
 				(font
@@ -16499,6 +16724,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 447.04 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -16564,6 +16798,15 @@
 			)
 		)
 		(property "LCSC#" "C5126164"
+			(at 114.3 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 114.3 383.54 0)
 			(effects
 				(font
@@ -16714,6 +16957,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 113.03 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "36126f14-b3fd-4642-9ae3-a4f14502f805")
 		)
@@ -16802,6 +17054,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "-Slave"
+			(at 382.27 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59f9f355-bb9f-4b81-938c-000b51d3cadf")
 		)
@@ -16882,6 +17143,15 @@
 			)
 		)
 		(property "LCSC#" "C2828875"
+			(at 30.48 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -17035,6 +17305,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
+			(at 176.53 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fd18ca2-121a-4b50-aae4-cd87ec97e60a")
 		)
@@ -17123,6 +17402,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 38.1 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25f2a00e-1d09-41c3-b42a-bc9f5543e432")
 		)
@@ -17203,6 +17491,15 @@
 			)
 		)
 		(property "LCSC#" "C1854361"
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3"
 			(at 238.76 80.01 0)
 			(effects
 				(font
@@ -17326,6 +17623,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 100.33 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb693bbe-c04f-42e8-98ac-aec87b1f8f4f")
 		)
@@ -17388,6 +17694,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 172.72 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 172.72 382.27 0)
 			(effects
 				(font
@@ -17467,6 +17782,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 447.04 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -17523,6 +17847,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 203.2 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 203.2 123.19 0)
 			(effects
 				(font
@@ -17647,6 +17980,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 269.24 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G1"
 			(uuid "20e4c8aa-343f-440f-997c-294a259df9d5")
 		)
@@ -17727,6 +18069,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 447.04 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -17783,6 +18134,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 353.06 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
 			(at 353.06 29.21 0)
 			(effects
 				(font
@@ -17898,6 +18258,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 172.72 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79c64675-f397-4cae-96b6-1182f91d2ae3")
 		)
@@ -17976,6 +18345,15 @@
 		)
 		(property "Manufacturer_Part_Number" "Capacitor, 0.1uF, 50V, 10%, 1206 SMD"
 			(at 284.48 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3"
+			(at 284.48 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18104,6 +18482,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "-Slave"
+			(at 140.97 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "14289da0-a216-4263-b799-fdf2c277db14")
 		)
@@ -18209,6 +18596,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 102.87 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b945a2e-0d76-415e-b4c1-69c1302026c1")
 		)
@@ -18294,6 +18690,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 229.87 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee49d6d6-14e0-4a17-854a-e14e1346c410")
 		)
@@ -18365,6 +18770,15 @@
 			)
 		)
 		(property "LCSC#" "C98192"
+			(at 162.56 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "-Slave"
 			(at 162.56 367.03 0)
 			(effects
 				(font
@@ -18510,6 +18924,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 447.04 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -18592,6 +19015,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 45.72 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "403383a7-7403-4299-8c91-d489d896ee39")
 		)
@@ -18654,6 +19086,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 346.71 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 346.71 345.44 0)
 			(effects
 				(font
@@ -18729,6 +19170,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 414.02 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fdea195-ed6e-47fa-bceb-61e7f9fe30cb")
 		)
@@ -18789,6 +19239,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" ""
 			(at 447.04 394.97 0)
 			(effects
 				(font
@@ -18901,6 +19360,15 @@
 				(hide yes)
 			)
 		)
+		(property "config" ""
+			(at 41.91 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15220473-2b8c-4d86-92ef-2dd061a37a43")
 		)
@@ -18983,6 +19451,15 @@
 			)
 		)
 		(property "LCSC#" "C14860"
+			(at 91.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "config" "+MasterESP32S3"
 			(at 91.44 31.75 0)
 			(effects
 				(font

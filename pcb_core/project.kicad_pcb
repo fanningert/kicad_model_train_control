@@ -439,6 +439,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebf35ac5-24bd-4d63-8c84-e1aabb996006")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector16")
 		(sheetfile "output_connector.kicad_sch")
@@ -750,6 +763,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27952dcc-41e2-4244-8b50-80fda40a309b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/67a51d73-7063-4067-a1c5-92f7c0acb3c7")
 		(sheetname "Stammblatt")
@@ -1011,6 +1037,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12695ed7-c817-4438-b4ed-e8c0c88acbfa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector9")
@@ -1243,6 +1282,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db7d0aa7-60a7-45bf-9aef-24340b947350")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b23d24d-6bf9-4c2a-854f-addcf81a2f9d")
 			(effects
 				(font
 					(size 1 1)
@@ -1720,6 +1772,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c4ad812-a78f-4fed-99f2-2b3b76bd2763")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/1ddd6a17-5527-4980-b291-b645826383d5")
 		(sheetname "OutputConnector9")
@@ -2189,6 +2254,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3bd5332-2f3d-4429-8d53-24dd16f81f24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/d463cba1-6b7b-4ab3-b8d8-721c19047ec1")
 		(sheetname "IOExpander2")
@@ -2486,6 +2564,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef604538-364e-415f-99f9-c945c0c9e48b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2761447-fd43-4434-8f0d-9e37494476f3")
 			(effects
 				(font
 					(size 1 1)
@@ -2908,6 +2999,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1f41a26-2c20-44fc-9ce7-8819d64b28a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector15")
 		(sheetfile "output_connector.kicad_sch")
@@ -3208,6 +3312,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4f9e126-7529-48db-942a-d0f9ee7833a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ec22c933-fc46-4567-b089-b993d80f0023")
 		(sheetname "Stammblatt")
@@ -3439,6 +3556,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a16e6ab-d127-4190-89b4-24d669d803d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3f00643-0892-4978-ac80-8ee6e6a01335")
 			(effects
 				(font
 					(size 1 1)
@@ -3685,6 +3815,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc70ea37-8bda-40a0-bc94-2ffac776b91e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector16")
@@ -3917,6 +4060,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7ee3224f-409a-4bf6-8f7e-ab39ab96eabc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59e147c9-cfed-4b5a-a857-4a4248a48a52")
 			(effects
 				(font
 					(size 1 1)
@@ -4222,6 +4378,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "754f8cf5-6c3b-4c7a-9d31-ff33ca5a0ff8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3707dee-95fa-4ffa-8d14-9ce87c26a3e7")
 			(effects
 				(font
 					(size 1 1)
@@ -4565,6 +4734,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5484b407-00fa-424e-b786-b228598bcffa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9e6b3a6e-d741-4b5f-8402-ccbee34ad68e")
 		(sheetname "Stammblatt")
@@ -4778,6 +4960,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d03daea-bd49-42ad-81c2-2dd28940fb26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/783dd84c-a0f2-46ee-a6ae-a0aac961e53b")
 		(sheetname "Stammblatt")
@@ -4927,6 +5122,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "72288598-f72b-4719-b98c-511f38e3bb9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32Devkit"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e038318-02aa-4ece-9793-f6ce41949a7f")
 			(effects
 				(font
 					(size 1 1)
@@ -5803,6 +6011,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18c512ed-5225-4c24-819d-a9a04130c384")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector10")
 		(sheetfile "output_connector.kicad_sch")
@@ -6199,6 +6420,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ede449c-32e3-4520-bec4-53e2913b0356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e534401-55dd-448b-a2f2-97671d0ff5eb")
 			(effects
 				(font
 					(size 1 1)
@@ -6621,6 +6855,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e84e1c25-4576-403b-8540-7b87c2859628")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ea705cea-d290-4a34-9690-1e44a6d55244/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector12")
 		(sheetfile "output_connector.kicad_sch")
@@ -6922,6 +7169,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34daee40-fbf5-4083-bf4c-f21bfa6991e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7bccec0-8ade-4f15-ba79-42719cbb2b9e")
 		(sheetname "Stammblatt")
@@ -7154,6 +7414,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "02c7dc55-3e20-4297-8ce9-b83935569ccd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "096fc2b0-bafe-49b0-82ac-17c2547c7b2c")
 			(effects
 				(font
 					(size 1 1)
@@ -7631,6 +7904,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "288b3767-f129-457f-9eee-ec24dee34640")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector14")
@@ -7870,6 +8156,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "362893ac-a631-408a-82e6-639616a7e718")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9fb00f19-1f2f-4b93-83fd-ca197bcdf0ed")
 		(sheetname "Stammblatt")
@@ -8101,6 +8400,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "150b103f-2f4a-4616-8739-7b03d50eabd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7555ced7-88d4-4a50-bcc9-bbd4076a460b")
 			(effects
 				(font
 					(size 1 1)
@@ -8405,6 +8717,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ddf5724a-9988-486b-a836-626e135585d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da85532d-4c2f-4049-a401-6f4e2d4bfc52")
 			(effects
 				(font
 					(size 1 1)
@@ -8736,6 +9061,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a49593a-0d31-48b6-a36b-e0887c4769aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8839ff4c-66de-41d1-912d-200440f31981")
 		(sheetname "Stammblatt")
@@ -9046,6 +9384,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22acad05-ce69-431d-b495-3f67216c0f91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5246c8bc-c07a-4463-b890-24b4819269fb")
 			(effects
 				(font
 					(size 1 1)
@@ -9373,6 +9724,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b8ea12a-66dc-47e1-9756-faf3c9466b7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "-Slave"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "892041af-d4fc-435f-863b-21637459272a")
 			(effects
 				(font
 					(size 1 1)
@@ -9809,6 +10173,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cd79b38-db59-4bac-81cb-ea51ffb9a853")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0563d19-311c-49e5-96f2-b2a8dad24027/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector3")
 		(sheetfile "output_connector.kicad_sch")
@@ -10110,6 +10487,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "601982ba-6d3b-4706-90b0-c55d42377c53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e0563d19-311c-49e5-96f2-b2a8dad24027/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector3")
@@ -10324,6 +10714,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27e86198-5ce1-4ee6-a0de-a475569e75c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7c3eeb36-d40a-42f1-8cc7-f10af67ff6e7")
 		(sheetname "Stammblatt")
@@ -10460,6 +10863,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c26e845-c5e0-43b0-9c01-1877ff726e78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "-Slave"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80531dcb-ebd1-4796-b537-c46edb9e601a")
 			(effects
 				(font
 					(size 1 1)
@@ -11003,6 +11419,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db122a5e-b1b4-4de3-bcfb-0f0ae75092d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ea705cea-d290-4a34-9690-1e44a6d55244/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector12")
 		(sheetfile "output_connector.kicad_sch")
@@ -11333,6 +11762,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c271efb5-a27b-4ee2-a34d-725b8acd3d9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "693e033b-7a56-4632-9f5d-359d5a287099")
 			(effects
 				(font
 					(size 1 1)
@@ -11815,6 +12257,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b061e087-78d0-4009-94ad-33bd40556f52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32Devkit"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13663d35-83a2-4b6a-b79d-d89fd9faf0c8")
 			(effects
 				(font
 					(size 1 1)
@@ -12977,6 +13432,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c492fd46-563c-4860-8aae-06d45811dddc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a6ff5e0b-5ba4-4648-b230-356bf8cf22aa")
 		(sheetname "Stammblatt")
@@ -13238,6 +13706,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e87b823-d200-42d7-ae5c-70821bfa8a21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1a38348-3825-4f56-9159-34509a3f9307/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector5")
@@ -13470,6 +13951,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62ce7cd6-0bd0-47ed-877d-f58e799c0303")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f35409e-3863-4d0c-a8d2-04d2df3e0621")
 			(effects
 				(font
 					(size 1 1)
@@ -13947,6 +14441,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf9763e5-7fa3-40df-901c-ffa28a6c3df6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector1")
@@ -14257,6 +14764,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3ad62f7f-e21a-4014-a862-4e448ecb9154")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0b4c682-4280-4b45-b03d-8f99d06fdcb0")
 			(effects
 				(font
 					(size 1 1)
@@ -14746,6 +15266,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c538175c-45d8-4e62-b2cd-dea274972ecd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/1ddd6a17-5527-4980-b291-b645826383d5")
 		(sheetname "OutputConnector14")
@@ -15191,25 +15724,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64304dfa-b577-440f-b0bf-2c9ad7fcaf4f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "956948bc-60eb-4e36-be8f-2736cef8bdf7")
+			(uuid "ae12f913-d26d-482f-af18-13e275146d96")
 			(effects
 				(font
 					(size 1 1)
@@ -15422,6 +15942,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c0425bf-d837-43ee-aa89-4aecbf5864b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6abc965b-36da-4d6a-a8e3-2180465bc5d8")
 			(effects
 				(font
 					(size 1 1)
@@ -15661,6 +16194,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3232ed64-f7da-4d1a-b4e8-179c5215dab4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "038f3fca-e571-4883-9f43-f5c64631db3b")
 			(effects
 				(font
 					(size 1 1)
@@ -16138,6 +16684,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31949d40-f4b1-4d71-98cb-2972080453f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da079e00-3e00-44cf-89f4-9978be8ccf48")
 		(sheetname "Stammblatt")
@@ -16377,6 +16936,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecb6fafa-9dd6-4c44-a370-5aacbf8410ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector14")
@@ -16608,6 +17180,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce89dcc8-9e4e-4df0-be7f-77f582977f2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64e5fbfc-017d-46c3-a0b7-507de0ce1dd7")
 			(effects
 				(font
 					(size 1 1)
@@ -16931,6 +17516,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3af7b85-29b4-4991-a280-52c172ba34bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09c828a3-2510-4c24-a29a-d34ea840451a/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector7")
 		(sheetfile "output_connector.kicad_sch")
@@ -17225,6 +17823,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "321c215f-2521-4ef6-a974-d5acb81c9a0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ed02a31-7354-4f31-91b8-645cbfcdbcc8")
 			(effects
 				(font
 					(size 1 1)
@@ -17702,6 +18313,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eeecc5d2-c2d1-4ef0-8693-5de5bcf4919f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector13")
@@ -17916,25 +18540,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "857729e3-0071-47d4-9d5b-eef75a971f66")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c1309b3e-500e-4437-80a9-a7301d8df787")
+			(uuid "671a97a9-f1f8-4e2e-8093-c909ba595b4f")
 			(effects
 				(font
 					(size 1 1)
@@ -18129,6 +18740,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc830718-fef4-4f53-8f6a-7366bb93c78a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fc7d83a8-6d3b-4555-b6b4-ecbe965cfb40")
 		(sheetname "Stammblatt")
@@ -18265,6 +18889,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e0d35af-97fe-4818-9e42-4faa0b569c0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18310cc5-c44e-4e4e-b40d-27e183c944d3")
 			(effects
 				(font
 					(size 1 1)
@@ -18504,6 +19141,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "821042b0-46ea-422f-b438-e34da67e3ef3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4b62ce7-5942-4cf4-85b5-80efeb278c8c")
 			(effects
 				(font
 					(size 1 1)
@@ -18981,6 +19631,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74b424ce-d9fb-4cbc-afd9-de51f0f47b04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector1")
@@ -19220,6 +19883,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a27c430-6951-4449-bc32-8ff25b3a75dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d449314f-8472-4093-a68b-d5929eeee705/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector4")
@@ -19439,6 +20115,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd71cb3e-2120-4897-a994-a510adbb4f20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ac2b849-6261-45a5-acdc-68de1050742c")
 			(effects
 				(font
 					(size 1 1)
@@ -19763,6 +20452,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55c17e42-1b17-4967-bcf2-b7c563205678")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d449314f-8472-4093-a68b-d5929eeee705/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector4")
 		(sheetfile "output_connector.kicad_sch")
@@ -20056,6 +20758,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd229baa-ae1a-4b88-a017-85e4b44995c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5df8ab9-e236-4b15-9f7f-2486eca7b63f")
 			(effects
 				(font
 					(size 1 1)
@@ -20360,6 +21075,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42eecce3-f931-4616-a4f7-2dc8fb7af7c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "107ce832-5c61-49b3-8674-4b3596099a4a")
 			(effects
 				(font
 					(size 1 1)
@@ -20675,6 +21403,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc03222f-6df4-4f6e-89a0-8d638a92ba30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21109,6 +21850,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab7650f2-df6c-49e5-bab7-66e04aa5ee6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c28cee67-a8f7-405f-8411-890c63afd4c4")
 		(sheetname "Stammblatt")
@@ -21434,6 +22188,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "755e7952-0534-4e50-9392-79cd6ab7d7a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c21dee61-1c53-4065-803b-f647c9fb8f17")
 			(effects
 				(font
 					(size 1 1)
@@ -21783,6 +22550,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ed90941-00f8-457b-aa70-35829f5e12cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72174026-bf63-4097-a798-e131032ab4db")
 			(effects
 				(font
 					(size 1 1)
@@ -22286,6 +23066,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1472b0b2-847f-457d-affb-564afa613476")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* D_*")
 		(path "/c3f6f57d-4b34-455b-9399-a066820fd544")
 		(sheetname "Stammblatt")
@@ -22600,6 +23393,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "416c17b8-db4d-49db-95df-77a5fc6e8466")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5af4a34-1bf7-4123-a498-9ce215aa06e8")
 			(effects
 				(font
 					(size 1 1)
@@ -23077,6 +23883,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbf43276-d33a-4e70-89f3-907b395810dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector6")
@@ -23308,6 +24127,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69a9db31-009e-40e9-b898-e07e9c2d4804")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e7f4cc9-bfcc-41a9-83f9-a5d9f41e344c")
 			(effects
 				(font
 					(size 1 1)
@@ -23553,6 +24385,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "695b413e-7bec-4421-9079-04f4b2a2b271")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector13")
@@ -23772,6 +24617,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62fdccbb-7f2e-4f43-a1fb-540c4d11d483")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5ff306b-e81d-448b-a49a-f0f47a3502e2")
 			(effects
 				(font
 					(size 1 1)
@@ -24077,6 +24935,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c56f3d9-49a7-4010-a12f-1a8f645b6431")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9136b228-cd26-4b03-a346-7bf6c30319fb")
 			(effects
 				(font
 					(size 1 1)
@@ -24421,6 +25292,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d43c8a9-201c-435b-8d90-dd8a955fe67b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector9")
@@ -24639,6 +25523,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc1e6f86-7dfe-4acb-b71b-2b2a2d67076b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2641adb3-acf6-456a-a291-f6d902d26ef8")
 			(effects
 				(font
 					(size 1 1)
@@ -24962,6 +25859,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b1eb2f4-f356-4eb9-807c-bb35b5dcaebd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector2")
 		(sheetfile "output_connector.kicad_sch")
@@ -25256,6 +26166,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f77fe3f-b198-4ee3-8895-9cc61f1d8498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f03f4e09-d030-4b71-bbf0-a2adcd1703d8")
 			(effects
 				(font
 					(size 1 1)
@@ -25580,6 +26503,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c286cca-466e-46a4-ad82-34b4f51e64cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector16")
 		(sheetfile "output_connector.kicad_sch")
@@ -25856,25 +26792,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89d4925a-ab96-48d1-9683-18e147a7bf42")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c6e77abd-c034-45d8-b650-4503e435ab8d")
+			(uuid "1be4d90c-6fe7-465d-b3f1-8e65b9612fad")
 			(effects
 				(font
 					(size 1 1)
@@ -26153,6 +27076,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a5d5ad0a-b808-4c78-8bef-f2fce08d4453")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f249a5f-511c-4c62-ba1b-a62f85bb70ef")
 			(effects
 				(font
 					(size 1 1)
@@ -26496,6 +27432,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a406200e-278d-4a39-b25c-a971c14ab341")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/110cf371-5972-417c-854b-923f2722be73/a3456a44-040f-4492-9bbd-f0d6975e2e1e")
 		(sheetname "IOExpander1")
@@ -26766,6 +27715,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e450e72-b16a-4d67-9a89-81d172000e83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dda74e96-2678-41c7-8475-c6747e2d1c8f")
 			(effects
 				(font
 					(size 1 1)
@@ -27107,6 +28069,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f1d92d1-c7da-456e-8346-b0ebb7ea4690")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/60aa5264-4085-436b-b87d-c1b572383d75")
 		(sheetname "Stammblatt")
@@ -27229,6 +28204,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c7d3ba63-bd53-47ae-b8bc-9c8c3482c40b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "-Slave"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45b01a58-ca21-49dd-b882-f9eb6463eae5")
 			(effects
 				(font
 					(size 1 1)
@@ -27552,6 +28540,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4fba2fa-afc6-465c-8176-0e5a568a02f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector11")
 		(sheetfile "output_connector.kicad_sch")
@@ -27852,6 +28853,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbc223a7-1e95-4a93-a1ec-ef6c03bdf115")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/58339d0c-d507-4735-b821-60bc10a63c36")
 		(sheetname "IOExpander2")
@@ -28065,25 +29079,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21ebd091-2524-4321-a6fb-04154b626f22")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7beaca03-8c6f-4679-8373-0c0ae8adca05")
+			(uuid "fd717312-4259-4675-ba5f-e8dc59c82290")
 			(effects
 				(font
 					(size 1 1)
@@ -28374,6 +29375,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "639d0354-bb02-4afb-b8b1-32f905231ad7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97b4f86a-cc2a-4238-af16-cfc43e0d2f94")
 			(effects
 				(font
 					(size 1 1)
@@ -28682,6 +29696,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9122ba73-49b2-4883-a313-750057f15c39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector2")
@@ -28914,6 +29941,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "110f2bb9-d419-46dc-9ad9-a28fd770bf9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "418c828f-26bb-4f97-8217-e5c867119507")
 			(effects
 				(font
 					(size 1 1)
@@ -29391,19 +30431,6 @@
 				)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/A6S-3102-PH?qs=ZP3UR5XsUoe5MpJ7jw3RBg%3D%3D"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f2624208-5bed-4d7a-a418-94a62a307b3a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer_Name" "Omron Electronics"
 			(at 0 0 -90)
 			(unlocked yes)
@@ -29423,6 +30450,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "13d2ce85-9208-41e8-8a8e-fb8f468fd18b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c67170a0-87d3-4e41-9b68-7f44396e5e5e")
 			(effects
 				(font
 					(size 1 1)
@@ -29773,6 +30813,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b608b18-84ed-4886-b1a2-e4c73218bc87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4359538d-e0b7-4b09-917d-7a4d38680642")
 		(sheetname "Stammblatt")
@@ -29991,6 +31044,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a75f4336-c755-4a51-af93-f8bbb20c5759")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32S3,+MasterESP32Devkit"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44f82fda-1f45-41e6-ab77-7d3b678d2e9b")
 			(effects
 				(font
 					(size 1 1)
@@ -30308,6 +31374,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d9c86e9-0695-44f7-926a-8808d546468e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bae0b9f6-29a5-4153-bed4-743398341869")
 			(effects
 				(font
 					(size 1 1)
@@ -30648,6 +31727,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f477309e-7a35-427d-87d4-a8cbec9ad91b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df271575-fcc4-42fb-8822-cea73b0ccb9d")
 			(effects
 				(font
 					(size 1 1)
@@ -31156,6 +32248,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04d291bc-ffe3-4607-b594-31d95ef2caeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* D_*")
 		(path "/2ad80cae-d8d0-42dd-8bdc-cb4005e02958")
 		(sheetname "Stammblatt")
@@ -31452,6 +32557,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60b7f3f2-ca86-4b79-96e9-7151c8afdc9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/aee2e6ea-89f6-4db2-b23c-dcbf3ae56e29")
 		(sheetname "Stammblatt")
@@ -31666,6 +32784,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "74fc4813-f318-4f96-8a2a-16943be376ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "733a90c9-74a5-477d-8ede-6308d1ec3503")
 			(effects
 				(font
 					(size 1 1)
@@ -32052,6 +33183,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f3ffa9e-a3e2-4bcc-b02c-5ff1f808de4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector6")
 		(sheetfile "output_connector.kicad_sch")
@@ -32431,6 +33575,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d6a7dfc-0955-4979-a5ac-3cedd8afa81d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector1")
 		(sheetfile "output_connector.kicad_sch")
@@ -32719,6 +33876,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dcbc4b05-398c-4896-80be-d988d3bd6c15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5a22ac7f-e30e-40aa-abf3-8f8e272917a7")
 		(sheetname "Stammblatt")
@@ -32958,6 +34128,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44b33b81-598b-4b73-bd62-34433789ad54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector11")
@@ -33172,25 +34355,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9002a862-0c1d-4a80-8b14-a2c6cb5de174")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f6e3244d-b27d-4c2a-84d8-de59c088c639")
+			(uuid "c5091599-e678-4139-8b90-6b4e61fe4879")
 			(effects
 				(font
 					(size 1 1)
@@ -33403,6 +34573,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1f570f7-f7e3-40cc-93a8-873b54a7f202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3bce8f5-cf28-4565-878e-e621d5f2294c")
 			(effects
 				(font
 					(size 1 1)
@@ -33649,6 +34832,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92ee4700-23db-4bd0-899d-7b44e800bb39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/09c828a3-2510-4c24-a29a-d34ea840451a/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector7")
@@ -33888,6 +35084,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c027320-d970-4b51-a1d8-1922b3c2ed00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4a0dedd9-f801-4a39-9d8c-8f52d22ecd20/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector8")
@@ -34120,6 +35329,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "51b53381-8896-4913-8cb1-8e3fc3eb94af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bcbdd0b-872a-4f8f-8237-15c40b3184ad")
 			(effects
 				(font
 					(size 1 1)
@@ -34572,25 +35794,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "feb41d90-8a05-4f17-958c-05f5483e36d1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "17b2837f-b752-4ef6-9756-ad8128518c22")
+			(uuid "c5223ce3-f67e-4aeb-9a4b-bbd65e794255")
 			(effects
 				(font
 					(size 1 1)
@@ -34790,6 +35999,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "acddd95e-2d6a-4215-a70f-61e0a2f29833")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6754df3-8efb-4d45-b46a-d58a2c6509bd")
 			(effects
 				(font
 					(size 1 1)
@@ -35068,6 +36290,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "edb03794-97d6-4e95-8907-85d8a98f3879")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bed155f1-6b7e-4f46-bd7f-c822f38b77ff")
 			(effects
 				(font
 					(size 1 1)
@@ -35386,6 +36621,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86228cf5-122f-42aa-9c9d-ebab6e743196")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1a38348-3825-4f56-9159-34509a3f9307/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector5")
@@ -35684,6 +36932,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b570b8d6-b44e-4d6f-9eee-a9166c10ca30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "894be92d-0b94-4188-8784-9d3c102657c7")
 			(effects
 				(font
 					(size 1 1)
@@ -36027,6 +37288,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c076541e-76e7-4f5e-9701-926f3a597944")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/b1cb5c16-ce96-4db3-bd5a-6b5adc84a333")
 		(sheetname "IOExpander2")
@@ -36258,6 +37532,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b36aac80-d7fb-443c-8a41-d68f7725387f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "146b864e-19cf-463c-859a-ce435e96daed")
 			(effects
 				(font
 					(size 1 1)
@@ -36774,6 +38061,19 @@
 				)
 			)
 		)
+		(property "config" "-Slave"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcb9cc12-6e09-4f51-895f-c9f570e28109")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cbcc9e34-04f1-4f48-bed2-b7f08117e19e")
 		(sheetname "Stammblatt")
 		(sheetfile "project.kicad_sch")
@@ -37177,6 +38477,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "171244bb-72c6-4b5f-bec9-6cfe704a0d65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "290d591b-f0fe-4c9b-b4dc-489bf02a0b0b")
 			(effects
 				(font
 					(size 1 1)
@@ -37706,6 +39019,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2e8d59a-8689-43b2-8781-03e7ac98354b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b65a64ca-7e61-4f55-84c8-15800a5b4fb5")
 		(sheetname "Stammblatt")
 		(sheetfile "project.kicad_sch")
@@ -38069,6 +39395,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52abafd3-3034-4c2c-8b61-3f768417c026")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector13")
 		(sheetfile "output_connector.kicad_sch")
@@ -38405,6 +39744,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da4ee417-8be3-4126-95ac-d768345c5f65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/110cf371-5972-417c-854b-923f2722be73/d463cba1-6b7b-4ab3-b8d8-721c19047ec1")
 		(sheetname "IOExpander1")
@@ -38636,6 +39988,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "27aa7f90-5699-454a-8adf-4ee60ca16405")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69fe3224-c4fd-43b9-8ae3-fcac400f7246")
 			(effects
 				(font
 					(size 1 1)
@@ -39113,6 +40478,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8594e117-942b-4d44-bdf5-80628e863d4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector16")
@@ -39345,6 +40723,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0fe68e56-d672-41e0-9cdb-4482fb8d7682")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d159c0f6-2302-4c0f-9919-08958149f8c1")
 			(effects
 				(font
 					(size 1 1)
@@ -39590,6 +40981,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae85b2d4-97f1-4d54-81b0-3a91b48bc2bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/95a57c27-ed03-4938-8ecb-fbb289f2c40b")
 		(sheetname "Stammblatt")
@@ -39821,6 +41225,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8f7a57c-5472-4b63-af00-1c0331f77b9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "218c3f4f-44f5-47b0-8e87-a8591ba2aeeb")
 			(effects
 				(font
 					(size 1 1)
@@ -40298,6 +41715,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45e3b122-4fa5-4fc6-8609-a64ddf258fc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector10")
@@ -40537,6 +41967,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1caf7ece-94df-415f-8f93-18c75fd2a5ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector15")
@@ -40751,25 +42194,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd65a7e9-cd30-49ae-a6b8-42581fbd3fba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "290fc1dd-2127-442d-97df-f7a7f0aae0d5")
+			(uuid "1c5dc1da-91e1-4329-826f-4b2f1875c495")
 			(effects
 				(font
 					(size 1 1)
@@ -41067,6 +42497,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a12fd94-67b6-45e1-aebc-3abb89b43b33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector14")
 		(sheetfile "output_connector.kicad_sch")
@@ -41355,6 +42798,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b4251a4-c258-49be-abf7-6f8f3c8b92bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/742b3abc-db8d-4178-acea-405038943eec")
 		(sheetname "Stammblatt")
@@ -41587,6 +43043,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ee5d6be-d8ce-48cd-8e68-4b9d277ac12b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "-Slave"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5ef07ae-4e8f-46c5-b94d-3ddeadaf8cda")
 			(effects
 				(font
 					(size 1 1)
@@ -42142,6 +43611,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35e3508c-7fff-4c3b-895d-8d3f87e8de87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector13")
 		(sheetfile "output_connector.kicad_sch")
@@ -42476,6 +43958,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a2d02f5-f6ee-4b50-a7a6-0eb4c42d5779")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2bb64bcb-774c-4017-881e-88e355bfc016")
 			(effects
 				(font
 					(size 1 1)
@@ -42846,6 +44341,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb5634b6-a28f-4d92-9e8e-ce30051d8ec3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector2")
 		(sheetfile "output_connector.kicad_sch")
@@ -43183,6 +44691,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "961071e3-99ba-49aa-b102-bd761acb7ef0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector6")
@@ -43402,6 +44923,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a7b0956-2a74-4fac-af60-463dc8003ae8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43a9bd75-bc7a-451b-8fed-30f8ca95911b")
 			(effects
 				(font
 					(size 1 1)
@@ -43707,6 +45241,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f882afe4-33b7-43e4-94df-59e0aa4e004a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "382d5cb3-25db-4cfe-8234-b25c99a2d441")
 			(effects
 				(font
 					(size 1 1)
@@ -44038,6 +45585,19 @@
 				)
 			)
 		)
+		(property "config" "+MasterESP32S3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b664e12-5cde-41ee-ad24-5db819a10727")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fff91765-75ab-48f0-b185-5e1309baa4d2")
 		(sheetname "Stammblatt")
@@ -44252,25 +45812,12 @@
 				)
 			)
 		)
-		(property "Mouser# Alternatives" ""
+		(property "config" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae773cf4-12ad-4fca-b8bf-1ca58dd13a36")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "digikey#" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "566b2225-5468-4aa6-9ed7-3d20928e2890")
+			(uuid "2c076ce3-bbcd-409c-b72d-907df787f8e8")
 			(effects
 				(font
 					(size 1 1)
@@ -44483,6 +46030,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a3fcef4f-3024-4025-b919-af41b2eede29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56fb67d8-08ce-4331-a271-4eb4762925ee")
 			(effects
 				(font
 					(size 1 1)
@@ -44729,6 +46289,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5379d3f-3c43-472a-bdb1-bb9c69649fe0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector11")
@@ -44968,6 +46541,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd02ac1a-ec6d-4ef3-b0f7-3252b9fd50bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector10")
@@ -45182,6 +46768,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0587de6b-8d04-46cb-a41f-05d35febddb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/eda36e2d-fa59-4363-acf0-6a76cb0a82b0")
 		(sheetname "Stammblatt")
@@ -45384,6 +46983,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6cd44ab1-d15a-4c94-9d5b-00d0ac4f35b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86f3e49c-627d-4d09-881d-f5c4573abe69")
 			(effects
 				(font
 					(size 1 1)
@@ -45794,6 +47406,19 @@
 				)
 			)
 		)
+		(property "config" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98934af0-3a09-4ab5-83fb-06e45dbb5315")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector15")
 		(sheetfile "output_connector.kicad_sch")
@@ -46124,6 +47749,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b73d7cc0-9791-406e-b843-fcd726517d43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "config" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c2de502-3509-4346-b37b-8082f5b1c23e")
 			(effects
 				(font
 					(size 1 1)

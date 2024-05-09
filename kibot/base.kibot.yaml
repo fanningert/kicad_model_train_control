@@ -15,7 +15,24 @@ global:
   solder_mask_color: 'green'
   silk_screen_color: 'white'
   pcb_finish: 'ENIG'
- 
+
+variants:
+  - name: 'MasterESP32S3'
+    comment: 'Master with ESP32-S3'
+    type: kibom
+    file_id: _MasterESP32S3
+    variant: MasterESP32S3
+  - name: 'MasterESP32S3'
+    comment: 'Master with ESP32-DevKit'
+    type: kibom
+    file_id: _MasterESP32Devkit
+    variant: MasterESP32Devkit
+  - name: 'Slave'
+    comment: 'Full board'
+    type: kibom
+    file_id: _Slave
+    variant: Slave
+
 filters:
  - name: 'exclude_any'
    type: 'generic'
