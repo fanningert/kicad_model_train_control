@@ -132,7 +132,6 @@ outputs:
       <<: *bom_options
       format: XLSX
       xlsx:
-        digikey_link: 'digikey#'
         highlight_empty: false
 
   - name: 'bom_csv'

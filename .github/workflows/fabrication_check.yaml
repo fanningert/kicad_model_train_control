@@ -15,32 +15,129 @@ on:
 #      - 'pcb_*/**.*' 
 
 jobs:
-  Fabrication-Core:
+  ERC:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate fabrication - Core
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/base.kibot.yaml
-          dir: pcb_core/Fabrication
-          schema: 'pcb_core/project.kicad_sch'
-          board: 'pcb_core/project.kicad_pcb'
-          verbose: 0
-      - name: Generate fabrication - Production
-        uses: INTI-CMNB/KiBot@v2_k8
-        with:
-          config: kibot/production.kibot.yaml
-          dir: pcb_core/Fabrication/production
-          schema: 'pcb_core/project.kicad_sch'
-          board: 'pcb_core/project.kicad_pcb'
-          verbose: 0
-      - name: Retrieve results
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: Fabrication_Core
-          path: |
-            pcb_core/Fabrication/
-          if-no-files-found: warn
-          retention-days: 1
+    - uses: actions/checkout@v4
+    - name: Run ERC
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        dir: Generated
+        skip: run_drc
+        targets: __NONE__
+    - name: Retrieve results
+      uses: actions/upload-artifact@v4
+      with:
+        name: ERC_Output
+        path: Generated
+
+  DRC:
+    runs-on: ubuntu-latest
+    needs: ERC
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run DRC
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        dir: Generated
+        skip: run_erc
+        targets: __NONE__
+    - name: Retrieve results
+      uses: actions/upload-artifact@v4
+      with:
+        name: DRC_Output
+        path: Generated
+
+  MasterESP32S3:
+    name: "Master variant with ESP32-S3"
+    runs-on: ubuntu-latest
+    needs: [ERC, DRC]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        dir: pcb_core/masteresp32s3
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: MasterESP32S3
+        skip: run_erc,run_drc
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/production.kibot.yaml
+        dir: pcb_core/masteresp32s3/production
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: MasterESP32S3
+        skip: run_erc,run_drc
+    - name: upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: variant_masteresp32s3
+        path: pcb_core/masteresp32s3
+        retention-days: 1
+  
+  MasterESP32Devkit:
+    name: "Master variant with ESP32-Devkit"
+    runs-on: ubuntu-latest
+    needs: [ERC, DRC]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        dir: pcb_core/masteresp32devkit
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: MasterESP32Devkit
+        skip: run_erc,run_drc
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/production.kibot.yaml
+        dir: pcb_core/masteresp32devkit/production
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: MasterESP32Devkit
+        skip: run_erc,run_drc
+    - name: upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: variant_masteresp32devkit
+        path: pcb_core/masteresp32devkit
+        retention-days: 1
+        
+  Slave:
+    name: "Slave variant"
+    runs-on: ubuntu-latest
+    needs: [ERC, DRC]
+    steps:
+    - uses: actions/checkout@v4
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        dir: pcb_core/slave
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: Slave
+        skip: run_erc,run_drc
+    - uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/production.kibot.yaml
+        dir: pcb_core/slave/production
+        schema: 'pcb_core/project.kicad_sch'
+        board: 'pcb_core/project.kicad_pcb'
+        verbose: 0
+        variant: Slave
+        skip: run_erc,run_drc
+    - name: upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: variant_slave
+        path: pcb_core/slave
+        retention-days: 1
+
