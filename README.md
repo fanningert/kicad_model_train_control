@@ -9,7 +9,7 @@ I comes in three variants, but all variants are the same boards. Only some compo
 * Primary node with ESP32-Devkit
 * Sub node
 
-![3D render of PCB](./doc/asset/pcb-3d.png)
+![3D render of PCB](doc/assets/pcb-3d.png)
 
 ## Features
 
