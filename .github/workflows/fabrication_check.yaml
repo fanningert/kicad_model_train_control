@@ -22,6 +22,7 @@ jobs:
     - name: Run ERC
       uses: INTI-CMNB/KiBot@v2_k8
       with:
+        config: kibot/base.kibot.yaml
         schema: 'pcb_core/project.kicad_sch'
         board: 'pcb_core/project.kicad_pcb'
         verbose: 0
@@ -42,6 +43,7 @@ jobs:
     - name: Run DRC
       uses: INTI-CMNB/KiBot@v2_k8
       with:
+        config: kibot/base.kibot.yaml
         schema: 'pcb_core/project.kicad_sch'
         board: 'pcb_core/project.kicad_pcb'
         verbose: 0
