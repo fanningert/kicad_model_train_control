@@ -719,8 +719,8 @@
         },
         {
           "group_by": false,
-          "label": "config",
-          "name": "config",
+          "label": "Config",
+          "name": "Config",
           "show": true
         }
       ],
