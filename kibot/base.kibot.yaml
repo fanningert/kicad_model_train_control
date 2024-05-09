@@ -36,7 +36,7 @@ variants:
     type: kibom
     file_id: _MasterESP32S3
     variant: MasterESP32S3
-  - name: 'MasterESP32S3'
+  - name: 'MasterESP32Devkit'
     comment: 'Master with ESP32-DevKit'
     type: kibom
     file_id: _MasterESP32Devkit
