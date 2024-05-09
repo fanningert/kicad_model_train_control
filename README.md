@@ -13,7 +13,7 @@ I comes in three variants, but all variants are the same boards. Only some compo
 
 ## Features
 
-* 16 h-bridges
+* 16 h-bridges per board and stackable to 64 boards
 * Reverse Voltage, Over Voltage and Under Voltage protection
 * (optional) ESP32-Devkit
 * (optional) ESP32-S3-Wroom-2
