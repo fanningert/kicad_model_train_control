@@ -588,6 +588,10 @@
       {
         "netclass": "Power",
         "pattern": "Bet-(D2-A)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D6-A)"
       }
     ]
   },
