@@ -1259,7 +1259,7 @@
 				)
 			)
 		)
-		(symbol "Device:D_Constant_Current"
+		(symbol "Device:D_Current-regulator"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -1274,7 +1274,7 @@
 					)
 				)
 			)
-			(property "Value" "D_Constant_Current"
+			(property "Value" "D_Current-regulator"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1283,7 +1283,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 0 0)
+				(at 0.127 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1300,7 +1300,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Constant-current diode / current limiting diode / current regulator diode"
+			(property "Description" "Constant-current diode / current limiting diode / current regulator diode, IEC60747-3:2013"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1327,7 +1327,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "D_Constant_Current_0_1"
+			(symbol "D_Current-regulator_0_1"
 				(polyline
 					(pts
 						(xy -1.27 1.27) (xy -1.27 -1.27)
@@ -1341,7 +1341,31 @@
 					)
 				)
 			)
-			(symbol "D_Constant_Current_1_1"
+			(symbol "D_Current-regulator_1_1"
+				(polyline
+					(pts
+						(xy -0.127 0) (xy 0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 0.254) (xy -0.635 0) (xy -0.127 -0.254) (xy -0.127 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(circle
 					(center 0 0)
 					(radius 1.27)
@@ -13941,7 +13965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 114.3 356.87 0)
 			(effects
 				(font
@@ -14343,7 +14367,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Constant_Current")
+		(lib_id "Device:D_Current-regulator")
 		(at 100.33 379.73 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14370,7 +14394,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123F"
-			(at 96.266 379.73 0)
+			(at 100.33 379.603 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14387,7 +14411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE, CURRENT LIMITING, 2.3V, 500mW, SOD-123FL"
+		(property "Description" "Constant-current diode / current limiting diode / current regulator diode, IEC60747-3:2013"
 			(at 100.33 379.73 0)
 			(effects
 				(font
@@ -15133,7 +15157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 143.51 365.76 0)
 			(effects
 				(font
@@ -15538,7 +15562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 140.97 344.17 0)
 			(effects
 				(font
@@ -15710,7 +15734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 114.3 373.38 0)
 			(effects
 				(font
@@ -16058,7 +16082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 396.24 344.17 0)
 			(effects
 				(font
@@ -16170,7 +16194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 85.09 356.87 0)
 			(effects
 				(font
@@ -17325,7 +17349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Config" "-SubNode "
+		(property "Config" "-SubNode"
 			(at 114.3 383.54 0)
 			(effects
 				(font
@@ -18372,7 +18396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Standard LEDs - SMD Green 560nm 54mW "
+		(property "Description" "Standard LEDs - SMD Green 560nm 54mW"
 			(at 172.72 384.81 0)
 			(effects
 				(font
@@ -18893,7 +18917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Standard LEDs - SMD Green 560nm 54mW "
+		(property "Description" "Standard LEDs - SMD Green 560nm 54mW"
 			(at 365.76 370.84 0)
 			(effects
 				(font
@@ -19060,7 +19084,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Constant_Current")
+		(lib_id "Device:D_Current-regulator")
 		(at 172.72 373.38 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19070,7 +19094,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3f6f57d-4b34-455b-9399-a066820fd544")
 		(property "Reference" "D5"
-			(at 175.26 372.1099 90)
+			(at 175.26 373.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19089,7 +19113,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123F"
-			(at 172.72 373.38 0)
+			(at 172.72 373.253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19106,7 +19130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIODE, CURRENT LIMITING, 2.3V, 500mW, SOD-123FL"
+		(property "Description" "Constant-current diode / current limiting diode / current regulator diode, IEC60747-3:2013"
 			(at 172.72 373.38 0)
 			(effects
 				(font
