@@ -12,12 +12,11 @@ global:
   restore_project: true
   # We will use a value externally formatted
   time_reformat: false
-  ignore_unconnected: false
 
 preflight:
   erc: true
   drc: true
-  check_zone_fills: false
+  check_zone_fills: true
   set_text_variables:
     # The revision will be the short git hash
     # We use ${git_hash} for the REV field in the worksheet (frame)
