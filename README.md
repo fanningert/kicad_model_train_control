@@ -10,6 +10,8 @@ It comes in three variants, but all variants are the same boards. Only some comp
 * Sub node
 
 ![3D render of PCB](doc/assets/pcb-3d.png)
+![PCB Top](doc/assets/pcb-top.jpg)
+![PCB Bottom](doc/assets/pcb-bottom.jpg)
 
 ## Features
 
