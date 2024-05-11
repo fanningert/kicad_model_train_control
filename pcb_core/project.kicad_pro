@@ -567,10 +567,6 @@
       },
       {
         "netclass": "Power",
-        "pattern": "Net-(D3-K)"
-      },
-      {
-        "netclass": "Power",
         "pattern": "Net-(U2-OV)"
       },
       {
@@ -737,6 +733,12 @@
           "group_by": false,
           "label": "Config",
           "name": "Config",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC# Alt1",
+          "name": "LCSC# Alt1",
           "show": true
         }
       ],

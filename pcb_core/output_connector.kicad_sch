@@ -1326,6 +1326,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 124.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf10158a-7784-4e45-9875-7c08374ab628")
 		)
@@ -1475,6 +1484,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 143.51 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 143.51 110.49 0)
 			(effects
 				(font
@@ -1699,6 +1717,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 83.82 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "ebafb45c-4dac-484d-a0a3-20c99b75dddf")
 		)
@@ -1869,6 +1896,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -2078,6 +2114,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 130.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 130.81 72.39 0)
 			(effects
 				(font

@@ -110,6 +110,8 @@ outputs:
           name: Manufacturer#
         - field: LCSC#
           name: 'LCSC-Key'
+        - field: 'LCSC# Alt1'
+          name: 'LCSC-Key Alternatives'
         - field: 'Mouser Part Number'
           name: 'Mouser-Key'
         - Footprint

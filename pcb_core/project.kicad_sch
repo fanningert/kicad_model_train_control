@@ -6090,16 +6090,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 383.54) (xy 100.33 384.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "023b2a3e-24d4-42aa-8d5e-a00230e41c02")
-	)
-	(wire
-		(pts
 			(xy 542.29 340.36) (xy 544.83 340.36)
 		)
 		(stroke
@@ -6170,7 +6160,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 396.24) (xy 172.72 398.78)
+			(xy 172.72 388.62) (xy 172.72 391.16)
 		)
 		(stroke
 			(width 0)
@@ -6227,16 +6217,6 @@
 			(type default)
 		)
 		(uuid "0c1883de-18a1-4a4f-bf4a-cdd050d6ed82")
-	)
-	(wire
-		(pts
-			(xy 172.72 377.19) (xy 172.72 379.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cf5823c-482d-422b-8997-d460c931c311")
 	)
 	(wire
 		(pts
@@ -7050,7 +7030,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 387.35) (xy 172.72 388.62)
+			(xy 172.72 377.19) (xy 172.72 381)
 		)
 		(stroke
 			(width 0)
@@ -8040,7 +8020,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 392.43) (xy 100.33 393.7)
+			(xy 100.33 383.54) (xy 100.33 386.08)
 		)
 		(stroke
 			(width 0)
@@ -8080,7 +8060,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 403.86) (xy 157.48 363.22)
+			(xy 157.48 398.78) (xy 157.48 363.22)
 		)
 		(stroke
 			(width 0)
@@ -8330,7 +8310,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 401.32) (xy 100.33 403.86)
+			(xy 100.33 393.7) (xy 100.33 398.78)
 		)
 		(stroke
 			(width 0)
@@ -9310,7 +9290,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 403.86) (xy 157.48 403.86)
+			(xy 100.33 398.78) (xy 157.48 398.78)
 		)
 		(stroke
 			(width 0)
@@ -11686,7 +11666,7 @@
 	)
 	(global_label "GNDA"
 		(shape passive)
-		(at 172.72 398.78 270)
+		(at 172.72 391.16 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11696,7 +11676,7 @@
 		)
 		(uuid "7b00c90b-9452-4023-a886-232fe86ed683")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.72 405.613 90)
+			(at 172.72 397.993 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13796,6 +13776,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -13862,6 +13851,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 447.04 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 447.04 374.65 0)
 			(effects
 				(font
@@ -13944,6 +13942,15 @@
 			)
 		)
 		(property "Config" "-SubNode "
+			(at 114.3 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 114.3 356.87 0)
 			(effects
 				(font
@@ -14148,6 +14155,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 414.02 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a8243e7-2979-45d0-ac42-b1c788161beb")
 		)
@@ -14228,6 +14244,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 176.53 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 176.53 121.92 0)
 			(effects
 				(font
@@ -14362,7 +14387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE, CURRENT LIMITING, 2.3V, 500mW, SOD-123FL"
 			(at 100.33 379.73 0)
 			(effects
 				(font
@@ -14408,6 +14433,15 @@
 			)
 		)
 		(property "Config" "-SubNode"
+			(at 100.33 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 100.33 379.73 0)
 			(effects
 				(font
@@ -14579,6 +14613,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 386.08 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d1d478d7-c7e4-4364-94e3-959660ed25ac")
 		)
@@ -14698,6 +14741,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 55.88 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 55.88 228.6 0)
 			(effects
 				(font
@@ -14869,6 +14921,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 22.86 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "80359f0c-eaed-4783-943f-bbefe6366749")
 		)
@@ -14949,6 +15010,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 34.29 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -15072,6 +15142,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 143.51 365.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "61556b67-c36c-4972-9528-8f08cb4555d3")
 		)
@@ -15159,6 +15238,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 365.76 387.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 365.76 387.35 0)
 			(effects
 				(font
@@ -15293,6 +15381,15 @@
 			)
 		)
 		(property "Config" "+PrimaryNodeESP32S3"
+			(at 214.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 214.63 22.86 0)
 			(effects
 				(font
@@ -15464,6 +15561,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 114.3 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e8fbdf4-29d3-4c84-9a41-bf42bf3e91ee")
 		)
@@ -15543,6 +15649,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 346.71 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf49bcc1-92f9-4ef5-8302-bc17e10d56b6")
 		)
@@ -15557,7 +15672,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 100.33 397.51 90)
+		(at 100.33 389.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15566,7 +15681,7 @@
 		(fields_autoplaced yes)
 		(uuid "67a51d73-7063-4067-a1c5-92f7c0acb3c7")
 		(property "Reference" "D3"
-			(at 104.14 397.8274 90)
+			(at 104.14 390.2074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15575,7 +15690,7 @@
 			)
 		)
 		(property "Value" "RED LED"
-			(at 104.14 400.3674 90)
+			(at 104.14 392.7474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15584,7 +15699,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 100.33 397.51 0)
+			(at 100.33 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15593,7 +15708,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 397.51 0)
+			(at 100.33 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15601,8 +15716,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 100.33 397.51 0)
+		(property "Description" "Standard LEDs - SMD Red 630nm 54mW"
+			(at 100.33 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15611,7 +15726,7 @@
 			)
 		)
 		(property "Config" "-SubNode"
-			(at 100.33 397.51 0)
+			(at 100.33 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15619,8 +15734,44 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C84270"
-			(at 100.33 397.51 0)
+		(property "LCSC#" "C6229209"
+			(at 100.33 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" "C84270"
+			(at 100.33 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ROHM Semiconductor"
+			(at 100.33 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SML-012V8TT86"
+			(at 100.33 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "755-SML-012V8TT86"
+			(at 100.33 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15758,6 +15909,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 396.24 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "60fab2d3-eeb4-4c72-a16c-92cfc8b0f8dd")
 		)
@@ -15861,6 +16021,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 85.09 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a27a886-836f-40c1-8932-8398287d1a9b")
 		)
@@ -15939,6 +16108,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 109.22 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 109.22 233.68 0)
 			(effects
 				(font
@@ -16045,6 +16223,15 @@
 			)
 		)
 		(property "Config" "+PrimaryNodeESP32S3"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -16285,6 +16472,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 335.28 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2d8fb2cf-52fd-46f4-bf9f-19d5d84ed9c7")
 		)
@@ -16481,6 +16677,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 238.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68f3e510-71ab-4402-9f96-5d437996e8d0")
 		)
@@ -16552,6 +16757,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 414.02 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 414.02 379.73 0)
 			(effects
 				(font
@@ -16702,6 +16916,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c54c62fc-4888-4c86-8b2d-dff421dcb58d")
 		)
@@ -16771,6 +16994,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 447.04 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 447.04 369.57 0)
 			(effects
 				(font
@@ -16853,6 +17085,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -16917,7 +17158,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C5126164"
+		(property "LCSC#" "C488644"
 			(at 114.3 383.54 0)
 			(effects
 				(font
@@ -16927,6 +17168,15 @@
 			)
 		)
 		(property "Config" "-SubNode "
+			(at 114.3 383.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 114.3 383.54 0)
 			(effects
 				(font
@@ -17086,6 +17336,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 113.03 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "36126f14-b3fd-4642-9ae3-a4f14502f805")
 		)
@@ -17165,7 +17424,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C5266037"
+		(property "LCSC#" "C267471"
 			(at 382.27 337.82 0)
 			(effects
 				(font
@@ -17175,6 +17434,15 @@
 			)
 		)
 		(property "Config" "-SubNode"
+			(at 382.27 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 382.27 337.82 0)
 			(effects
 				(font
@@ -17272,6 +17540,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 30.48 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -17434,6 +17711,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 176.53 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fd18ca2-121a-4b50-aae4-cd87ec97e60a")
 		)
@@ -17444,94 +17730,6 @@
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 100.33 388.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b9e6d4e-1a8c-438e-bb22-0a01eb911b80")
-		(property "Reference" "R22"
-			(at 102.87 387.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.1k"
-			(at 102.87 389.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 98.552 388.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 100.33 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, 1.1k, 1206 SMD"
-			(at 100.33 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" " C2933580"
-			(at 100.33 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "-SubNode "
-			(at 100.33 388.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "80d9f628-cfd3-4644-91de-5a685a14594b")
-		)
-		(pin "2"
-			(uuid "1bdb9591-91bb-46da-858c-5ee04710fc85")
-		)
-		(instances
-			(project "project"
-				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
-					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -17611,6 +17809,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 38.1 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 38.1 264.16 0)
 			(effects
 				(font
@@ -17716,6 +17923,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 238.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c091f76b-d2d6-43e4-9cbd-5b36296e48f3")
 		)
@@ -17787,6 +18003,15 @@
 			)
 		)
 		(property "LCSC#" "C2933788"
+			(at 365.76 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 365.76 361.95 0)
 			(effects
 				(font
@@ -17919,6 +18144,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 100.33 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb693bbe-c04f-42e8-98ac-aec87b1f8f4f")
 		)
@@ -17936,7 +18170,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 172.72 392.43 90)
+		(at 172.72 384.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17945,7 +18179,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6ff5e0b-5ba4-4648-b230-356bf8cf22aa")
 		(property "Reference" "D2"
-			(at 176.53 392.7474 90)
+			(at 176.53 385.1274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17954,7 +18188,7 @@
 			)
 		)
 		(property "Value" "GREEN LED"
-			(at 176.53 395.2874 90)
+			(at 176.53 387.6674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17963,7 +18197,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 172.72 392.43 0)
+			(at 172.72 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17972,7 +18206,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 392.43 0)
+			(at 172.72 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17980,8 +18214,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 172.72 392.43 0)
+		(property "Description" "Standard LEDs - SMD Green 560nm 54mW "
+			(at 172.72 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17990,7 +18224,7 @@
 			)
 		)
 		(property "Config" ""
-			(at 172.72 392.43 0)
+			(at 172.72 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17998,8 +18232,44 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C2980185"
-			(at 172.72 392.43 0)
+		(property "LCSC#" "C5336737"
+			(at 172.72 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ROHM Semiconductor"
+			(at 172.72 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SML-012P8TT86"
+			(at 172.72 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "755-SML-012P8TT86"
+			(at 172.72 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" "C99881"
+			(at 172.72 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18087,6 +18357,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -18152,6 +18431,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 203.2 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 203.2 123.19 0)
 			(effects
 				(font
@@ -18285,6 +18573,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 269.24 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G1"
 			(uuid "20e4c8aa-343f-440f-997c-294a259df9d5")
 		)
@@ -18374,6 +18671,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -18429,7 +18735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Standard LEDs - SMD Green 560nm 54mW "
 			(at 365.76 370.84 0)
 			(effects
 				(font
@@ -18447,7 +18753,43 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C2980185"
+		(property "LCSC#" "C5336737"
+			(at 365.76 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" "C99881"
+			(at 365.76 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ROHM Semiconductor"
+			(at 365.76 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SML-012P8TT86"
+			(at 365.76 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "755-SML-012P8TT86"
 			(at 365.76 370.84 0)
 			(effects
 				(font
@@ -18535,6 +18877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 353.06 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e821200d-899e-4664-9df5-ede9f0296b8e")
 		)
@@ -18597,7 +18948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE, CURRENT LIMITING, 2.3V, 500mW, SOD-123FL"
 			(at 172.72 373.38 0)
 			(effects
 				(font
@@ -18643,6 +18994,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 172.72 373.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 172.72 373.38 0)
 			(effects
 				(font
@@ -18737,6 +19097,15 @@
 			)
 		)
 		(property "Config" "+PrimaryNodeESP32S3"
+			(at 284.48 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 284.48 38.1 0)
 			(effects
 				(font
@@ -18875,6 +19244,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 140.97 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "14289da0-a216-4263-b799-fdf2c277db14")
 		)
@@ -18989,6 +19367,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 102.87 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b945a2e-0d76-415e-b4c1-69c1302026c1")
 		)
@@ -19083,6 +19470,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 229.87 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ee49d6d6-14e0-4a17-854a-e14e1346c410")
 		)
@@ -19163,6 +19559,15 @@
 			)
 		)
 		(property "Config" "-SubNode"
+			(at 162.56 367.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 162.56 367.03 0)
 			(effects
 				(font
@@ -19317,6 +19722,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
@@ -19408,6 +19822,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 45.72 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "403383a7-7403-4299-8c91-d489d896ee39")
 		)
@@ -19487,6 +19910,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 346.71 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13df33e8-03ef-4f94-b670-2ce2b2c8de22")
 		)
@@ -19555,6 +19987,15 @@
 			)
 		)
 		(property "Config" ""
+			(at 414.02 397.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 414.02 397.51 0)
 			(effects
 				(font
@@ -19640,98 +20081,19 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 447.04 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
 					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 172.72 383.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fe0b883e-e5d2-4299-825a-a1ab0391d553")
-		(property "Reference" "R1"
-			(at 175.26 382.2699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.1k"
-			(at 175.26 384.8099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 170.942 383.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 172.72 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, 1.1k, 1206 SMD"
-			(at 172.72 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" " C2933580"
-			(at 172.72 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" ""
-			(at 172.72 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd7e99b2-b120-4483-8407-8e8401fd6408")
-		)
-		(pin "2"
-			(uuid "4547e0a6-438f-48a4-aaa0-49366767858c")
-		)
-		(instances
-			(project "project"
-				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -19841,6 +20203,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC# Alt1" ""
+			(at 41.91 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15220473-2b8c-4d86-92ef-2dd061a37a43")
 		)
@@ -19932,6 +20303,15 @@
 			)
 		)
 		(property "Config" "+PrimaryNodeESP32S3"
+			(at 91.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC# Alt1" ""
 			(at 91.44 31.75 0)
 			(effects
 				(font
