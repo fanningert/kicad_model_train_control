@@ -4308,11 +4308,11 @@
 				)
 			)
 		)
-		(symbol "SI9945BDY-T1-GE3:SI9945BDY-T1-GE3"
+		(symbol "SI4214DDY-T1-GE3:SI4214DDY-T1-GE3"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "Q"
+			(property "Reference" "IC"
 				(at 21.59 7.62 0)
 				(effects
 					(font
@@ -4321,7 +4321,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "SI9945BDY-T1-GE3"
+			(property "Value" "SI4214DDY-T1-GE3"
 				(at 21.59 5.08 0)
 				(effects
 					(font
@@ -4340,7 +4340,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.vishay.com/docs/65022/si4214ddy.pdf"
 				(at 21.59 -194.92 0)
 				(effects
 					(font
@@ -4350,7 +4350,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Vishay SI9945BDY-T1-GE3 Dual N-channel MOSFET Transistor, 5.3 A, 60 V, 8-Pin SOIC"
+			(property "Description" "SI4214DDY-T1-GE3, Dual N-channel MOSFET Transistor 7.5A 30V, 8-Pin SOIC"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4369,7 +4369,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "781-SI9945BDY-GE3"
+			(property "Mouser Part Number" "781-SI4214DDY-GE3"
 				(at 21.59 -494.92 0)
 				(effects
 					(font
@@ -4379,7 +4379,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI9945BDY-T1-GE3?qs=%252BPu8jn5UVnFSRz4ameiu9g%3D%3D"
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI4214DDY-T1-GE3?qs=kt16UJ73eEGZKWuc2RKrng%3D%3D"
 				(at 21.59 -594.92 0)
 				(effects
 					(font
@@ -4399,7 +4399,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "SI9945BDY-T1-GE3"
+			(property "Manufacturer_Part_Number" "SI4214DDY-T1-GE3"
 				(at 21.59 -794.92 0)
 				(effects
 					(font
@@ -4409,7 +4409,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "SI9945BDY-T1-GE3_1_1"
+			(symbol "SI4214DDY-T1-GE3_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 20.32 -10.16)
@@ -15423,6 +15423,164 @@
 		)
 	)
 	(symbol
+		(lib_id "SI4214DDY-T1-GE3:SI4214DDY-T1-GE3")
+		(at 140.97 344.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56ea6529-e061-4f75-a164-214d5933bdeb")
+		(property "Reference" "IC20"
+			(at 152.4 330.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SI4214DDY-T1-GE3"
+			(at 152.4 332.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "library:SOIC127P600X175-8N"
+			(at 235.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/65022/si4214ddy.pdf"
+			(at 335.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SI4214DDY-T1-GE3, Dual N-channel MOSFET Transistor 7.5A 30V, 8-Pin SOIC"
+			(at 140.97 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.75"
+			(at 535.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "781-SI4214DDY-GE3"
+			(at 635.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SI4214DDY-T1-GE3?qs=kt16UJ73eEGZKWuc2RKrng%3D%3D"
+			(at 735.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at 835.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SI4214DDY-T1-GE3"
+			(at 935.89 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C553963"
+			(at 140.97 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Config" "-SubNode "
+			(at 140.97 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "0ecc05ea-56c0-4a6f-99dc-82cc17b442e0")
+		)
+		(pin "7"
+			(uuid "aa6fb346-39ae-4414-bc36-ee5315d1c86a")
+		)
+		(pin "1"
+			(uuid "d5e67d35-dfa6-421e-a41b-d1739f24a1ae")
+		)
+		(pin "4"
+			(uuid "a3fc1e43-06e8-47c4-b501-af45d122f630")
+		)
+		(pin "3"
+			(uuid "eab3bd09-5812-4606-a3d1-d60dad0006bb")
+		)
+		(pin "2"
+			(uuid "48f2d835-fb86-43f9-817e-4bd8c2df8819")
+		)
+		(pin "8"
+			(uuid "b0a6d72e-d3cb-423b-8772-b85f449422a9")
+		)
+		(pin "5"
+			(uuid "baf8a892-6d69-4f75-b312-23a4f80e9ea1")
+		)
+		(instances
+			(project "project"
+				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
+					(reference "IC20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 120.65 25.4 0)
 		(unit 1)
@@ -19124,163 +19282,6 @@
 			(project "project"
 				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SI9945BDY-T1-GE3:SI9945BDY-T1-GE3")
-		(at 140.97 344.17 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cbcc9e34-04f1-4f48-bed2-b7f08117e19e")
-		(property "Reference" "Q1"
-			(at 152.4 330.1999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SI9945BDY-T1-GE3"
-			(at 152.4 332.7399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "library:SOIC127P600X175-8N"
-			(at 235.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 335.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Vishay SI9945BDY-T1-GE3 Dual N-channel MOSFET Transistor, 5.3 A, 60 V, 8-Pin SOIC"
-			(at 140.97 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.75"
-			(at 535.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "781-SI9945BDY-GE3"
-			(at 635.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 835.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SI9945BDY-T1-GE3"
-			(at 935.89 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C435838"
-			(at 140.97 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Config" "-SubNode "
-			(at 140.97 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC# Alt1" ""
-			(at 140.97 344.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "14289da0-a216-4263-b799-fdf2c277db14")
-		)
-		(pin "7"
-			(uuid "1d82a468-e7fa-4d6c-8a53-b3091786406e")
-		)
-		(pin "6"
-			(uuid "22fc748f-f08e-4a5e-8bf6-a29dc6109022")
-		)
-		(pin "5"
-			(uuid "52abac4b-c210-4b14-bf37-489188438c4b")
-		)
-		(pin "1"
-			(uuid "96fbfb4b-cb89-4eab-913e-a7eda58f341a")
-		)
-		(pin "4"
-			(uuid "66cc9982-8f2a-4d84-be5d-bb5dd17293aa")
-		)
-		(pin "3"
-			(uuid "1bfa571d-1a1d-47d1-9e67-ef1d446ba765")
-		)
-		(pin "2"
-			(uuid "233737a1-66ba-4c9b-b0b0-204a11551d79")
-		)
-		(instances
-			(project "project"
-				(path "/97ee99f6-6664-45d1-b5d6-247aaf34e934"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
