@@ -466,6 +466,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19838f32-a736-4cd1-b054-066f1ada59e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector16")
 		(sheetfile "output_connector.kicad_sch")
@@ -855,6 +868,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "SML-012V8TT86"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87a7db98-e023-4467-a0bd-f5ab0fc3d83f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/67a51d73-7063-4067-a1c5-92f7c0acb3c7")
 		(sheetname "Stammblatt")
@@ -1142,6 +1168,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56a78d12-cdf7-452b-86f3-4f10dda4e1e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector9")
@@ -1400,6 +1439,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4316c30-6e3a-43bd-9524-84da4ed1186f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68d9cc96-e8c8-469c-a96b-e21d586345d7")
 			(effects
 				(font
 					(size 1 1)
@@ -1903,6 +1955,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4616264b-4569-4ee8-9d61-7d5e44e5ec86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/1ddd6a17-5527-4980-b291-b645826383d5")
 		(sheetname "OutputConnector9")
@@ -2398,6 +2463,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d68b262-fa53-49ac-8ff8-8f42b658f0f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/d463cba1-6b7b-4ab3-b8d8-721c19047ec1")
 		(sheetname "IOExpander2")
@@ -2721,6 +2799,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d069ae0d-3e02-4cdc-8716-ae1a2a83ff6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e49e74e-1392-4c10-a65c-e1845b10e3a3")
 			(effects
 				(font
 					(size 1 1)
@@ -3169,6 +3260,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39b852e8-5a74-4e74-80d1-503956620840")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector15")
 		(sheetfile "output_connector.kicad_sch")
@@ -3495,6 +3599,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6584c7ce-8824-475c-bc31-1a92035c9815")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ec22c933-fc46-4567-b089-b993d80f0023")
 		(sheetname "Stammblatt")
@@ -3752,6 +3869,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf0e6465-497d-42aa-b390-9da4a9343d9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51b027ff-13a9-439c-8d5c-926f62451ae4")
 			(effects
 				(font
 					(size 1 1)
@@ -4024,6 +4154,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b84f4687-993c-4b9d-992d-6c132cd1fc5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector16")
@@ -4282,6 +4425,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "048b8555-c8aa-4c25-9b9f-edf982eb3431")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2cc2cc9-7082-4788-860e-15808dd27911")
 			(effects
 				(font
 					(size 1 1)
@@ -4613,6 +4769,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61d38807-de60-4ec6-8f33-e887bddc5930")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d22f818-bf35-498b-9046-836efe835251")
 			(effects
 				(font
 					(size 1 1)
@@ -4982,6 +5151,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4c4b43f-f2e8-4167-ac53-0dd1f3f9bfb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9e6b3a6e-d741-4b5f-8402-ccbee34ad68e")
 		(sheetname "Stammblatt")
@@ -5221,6 +5403,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cea7f6bd-85d5-4d1f-9349-e312dc4e0363")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/783dd84c-a0f2-46ee-a6ae-a0aac961e53b")
 		(sheetname "Stammblatt")
@@ -5396,6 +5591,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bdcc0cf0-f63d-4c9c-9fe2-b126e69dc273")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "ESP32-S3-WROOM-2-N32R8V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4681f19-d827-420d-b08b-844fb71d98c2")
 			(effects
 				(font
 					(size 1 1)
@@ -6298,6 +6506,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b820b2ab-7a7a-4ddc-a156-00869b1fe5e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector10")
 		(sheetfile "output_connector.kicad_sch")
@@ -6720,6 +6941,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c7b44d0-704a-4916-b04e-d9d4b4c511e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8837e7f2-1a0d-4493-83fe-c05eaee0905a")
 			(effects
 				(font
 					(size 1 1)
@@ -7168,6 +7402,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0be7ed87-62f6-43ba-b8db-5397c2c06e9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ea705cea-d290-4a34-9690-1e44a6d55244/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector12")
 		(sheetfile "output_connector.kicad_sch")
@@ -7495,6 +7742,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dd76f24-399d-4827-824c-e8c111814451")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7bccec0-8ade-4f15-ba79-42719cbb2b9e")
 		(sheetname "Stammblatt")
@@ -7753,6 +8013,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd00aec8-a278-473b-98dd-78444869ce1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "852ae5b4-6976-43d4-8b03-28d46c32287f")
 			(effects
 				(font
 					(size 1 1)
@@ -8256,6 +8529,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55bb486a-a918-4e83-9ec5-3a3b5837d9ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector14")
@@ -8521,6 +8807,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1.0µF, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30e67150-0260-48b1-87aa-40d2e5eaf834")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9fb00f19-1f2f-4b93-83fd-ca197bcdf0ed")
 		(sheetname "Stammblatt")
@@ -8778,6 +9077,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79e556f8-07ab-417a-88e8-bb4ff979566e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1971c63-8eb7-4ceb-b712-0ae55a874435")
 			(effects
 				(font
 					(size 1 1)
@@ -9108,6 +9420,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e327b39e-df00-486c-bea9-9843e77a0c58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fff828ef-a2d3-4068-a789-66ae7c2d1766")
 			(effects
 				(font
 					(size 1 1)
@@ -9465,6 +9790,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19d9c8ba-068a-47ac-9da8-e2eb6e748aa0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8839ff4c-66de-41d1-912d-200440f31981")
 		(sheetname "Stammblatt")
@@ -9801,6 +10139,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "defa99c3-0671-42ff-96ff-89b0da56d207")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2eb4d036-535f-4678-845a-9b5b92bde5bf")
 			(effects
 				(font
 					(size 1 1)
@@ -10154,6 +10505,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f7b9f56c-05df-4052-9aaa-b300d9247b75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "LTC4365CTS8#TRMPBF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e0a3c20-b16a-44b7-8221-dd8b1fd6321d")
 			(effects
 				(font
 					(size 1 1)
@@ -10616,6 +10980,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51186690-26d6-4448-b844-65a3a5db8334")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0563d19-311c-49e5-96f2-b2a8dad24027/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector3")
 		(sheetfile "output_connector.kicad_sch")
@@ -10943,6 +11320,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82ac5f91-77f6-4090-95df-da57f989d548")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e0563d19-311c-49e5-96f2-b2a8dad24027/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector3")
@@ -11183,6 +11573,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17b408fd-eaca-41b5-870b-1ea35246ccde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7c3eeb36-d40a-42f1-8cc7-f10af67ff6e7")
 		(sheetname "Stammblatt")
@@ -11345,6 +11748,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2b3a7d0-4ce3-4b8f-9bf8-d1e7b4fbb7dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fedc6c9-13b3-4fa0-8a5a-eb3f62c5035d")
 			(effects
 				(font
 					(size 1 1)
@@ -11914,6 +12330,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf82aea5-e9df-4439-b9e5-de2c7294f510")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ea705cea-d290-4a34-9690-1e44a6d55244/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector12")
 		(sheetfile "output_connector.kicad_sch")
@@ -12270,6 +12699,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f33882e-27a9-484a-880c-1c8904d3991b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0a063c8-3c18-41b9-aaab-4e451b397cf0")
 			(effects
 				(font
 					(size 1 1)
@@ -12791,6 +13233,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3427da0c-a222-4655-a865-f78372cc8e17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "ESP32-DevKitC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1dcb435-58ee-4476-9974-5045c1468535")
 			(effects
 				(font
 					(size 1 1)
@@ -14031,6 +14486,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "SML-012P8TT86"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "926163a8-8f82-454e-b77e-7ddacc56c571")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a6ff5e0b-5ba4-4648-b230-356bf8cf22aa")
 		(sheetname "Stammblatt")
@@ -14318,6 +14786,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bbfa07c-f34c-406a-bc1a-ddddc6e1c118")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a1a38348-3825-4f56-9159-34509a3f9307/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector5")
@@ -14576,6 +15057,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b26561c4-1e9f-4e3c-b29f-154c39824b95")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cae325e-187e-495b-a94c-24bec6bd7670")
 			(effects
 				(font
 					(size 1 1)
@@ -15079,6 +15573,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02a32f98-54f8-4081-908a-bde5ab63c2a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector1")
@@ -15415,6 +15922,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fea6cfd8-e74c-4284-bdeb-91b2589d81fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "SX1509QBIULTRT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8ef6aec-82b8-49e3-9aea-217d82b3f270")
 			(effects
 				(font
 					(size 1 1)
@@ -15930,6 +16450,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55a99617-7950-4cb5-a6cc-da62fa9c91f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/1ddd6a17-5527-4980-b291-b645826383d5")
 		(sheetname "OutputConnector14")
@@ -16401,6 +16934,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5314dbf-d104-41dc-af9c-b17c02f42f6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/85c8c8e4-be97-4cf5-b157-8cca93cf29d5")
 		(sheetname "Stammblatt")
@@ -16632,6 +17178,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "742a57d5-adae-4830-b2d6-7e7484ed06db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ca245ef-859e-4f5f-afa3-f86ac8e18fb8")
 			(effects
 				(font
 					(size 1 1)
@@ -16897,6 +17456,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fa2060a1-40f3-4cbf-a003-8802bf9017b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3acc95bc-64ca-488c-8dc0-9207e2e6f9f3")
 			(effects
 				(font
 					(size 1 1)
@@ -17400,6 +17972,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 1206 SMD "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c356819-e134-4b6f-8ae6-0d31b707eb50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da079e00-3e00-44cf-89f4-9978be8ccf48")
 		(sheetname "Stammblatt")
@@ -17665,6 +18250,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0ec341f-491e-401e-aaf6-894c4959cc92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector14")
@@ -17922,6 +18520,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed04e294-b9cd-42ea-9b86-f333431a6fc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e87267c-8d20-44ba-a93e-83f1c3253d5e")
 			(effects
 				(font
 					(size 1 1)
@@ -18271,6 +18882,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6095ab4-76ae-475f-94ee-b6556d730e99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09c828a3-2510-4c24-a29a-d34ea840451a/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector7")
 		(sheetfile "output_connector.kicad_sch")
@@ -18591,6 +19215,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6873bc23-344d-43d7-8b84-16d1be017746")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3f9d2de-e458-46c9-991b-9f173a7576a1")
 			(effects
 				(font
 					(size 1 1)
@@ -19094,6 +19731,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "268539d5-0cd3-4611-bb05-178f2e525da5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector13")
@@ -19334,6 +19984,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07f768af-f1e9-4de7-87b6-6e50aadc2289")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b74ea26a-1851-445c-ab4a-75399fc0e0fc")
 		(sheetname "Stammblatt")
@@ -19547,6 +20210,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4b1a264-6993-4b4f-b6a1-41f957c97a5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fc7d83a8-6d3b-4555-b6b4-ecbe965cfb40")
 		(sheetname "Stammblatt")
@@ -19709,6 +20385,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a7f90e5f-62c0-405c-86bc-c7e074e11f90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc8871f2-7eb6-4780-9a76-767f2a46af13")
 			(effects
 				(font
 					(size 1 1)
@@ -19974,6 +20663,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aec5e9a7-e6eb-4db7-87e6-d6b32653b931")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "536e24cd-2f0e-419d-8a31-a0f3bd80e70c")
 			(effects
 				(font
 					(size 1 1)
@@ -20477,6 +21179,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b26a6102-9da2-44a4-9873-6fd7b9fd58ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector1")
@@ -20742,6 +21457,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "395d22f4-330b-46cf-9453-cf7736e93cba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d449314f-8472-4093-a68b-d5929eeee705/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector4")
@@ -20987,6 +21715,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eaae96fe-3632-43c5-af72-9c32bb3e12b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "510.0kΩ, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8441c68-92bc-424b-98ce-1c17edf9b5a7")
 			(effects
 				(font
 					(size 1 1)
@@ -21337,6 +22078,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7abbe817-351e-4b5e-ab43-863772d322b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d449314f-8472-4093-a68b-d5929eeee705/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector4")
 		(sheetfile "output_connector.kicad_sch")
@@ -21656,6 +22410,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "21bf7620-d8b9-4356-b45b-e91ec1d0b4de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "240d1b01-d963-4306-89f1-3750a44a0e12")
 			(effects
 				(font
 					(size 1 1)
@@ -21993,6 +22760,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f85cd5d2-4049-4caf-a73d-df99de43b3b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09c828a3-2510-4c24-a29a-d34ea840451a/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector7")
 		(sheetfile "output_connector.kicad_sch")
@@ -22323,6 +23103,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f90e2287-4639-42b4-b7be-c8dfebb0c8fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97119875-8bf4-4e65-8b6f-85196dc18899")
 			(effects
 				(font
 					(size 1 1)
@@ -22787,6 +23580,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fdf18ac-c3db-423f-9dec-423e681c1112")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c28cee67-a8f7-405f-8411-890c63afd4c4")
 		(sheetname "Stammblatt")
@@ -23138,6 +23944,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc8741d1-9ec2-4871-a769-5ec56eda0544")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1725656"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a50b8744-2bd7-4b35-9697-c0ddbf3281cc")
 			(effects
 				(font
 					(size 1 1)
@@ -23513,6 +24332,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "471ddbe3-81e6-42b9-897f-4dc75cf50c99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fc0c06a-d301-458f-9760-1c279019dc5e")
 			(effects
 				(font
 					(size 1 1)
@@ -24042,6 +24874,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "CMJ2000 TR PBFREE"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8b37119-4f1b-4eb4-a612-198997f11fe2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* D_*")
 		(path "/c3f6f57d-4b34-455b-9399-a066820fd544")
 		(sheetname "Stammblatt")
@@ -24382,6 +25227,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "438b5c82-4033-44ac-abc7-8309ca8e3141")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "469a47b9-d6f0-42ad-abb6-67799dac7820")
 			(effects
 				(font
 					(size 1 1)
@@ -24885,6 +25743,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "113f6eb8-1f7f-4296-88ed-39d02f1bf8b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector6")
@@ -25142,6 +26013,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b3b25640-3e2c-4d51-bdfe-0655cd522472")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "712b6197-380c-4080-a1c4-750242b49b7c")
 			(effects
 				(font
 					(size 1 1)
@@ -25413,6 +26297,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b863e44-d9bf-477b-a9f1-15148f39c5c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector13")
@@ -25658,6 +26555,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9dcead5c-e3f0-4136-996b-4e34ecbc17ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c76b1c93-1f0a-4007-8a8c-27d7166e4114")
 			(effects
 				(font
 					(size 1 1)
@@ -25989,6 +26899,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f788bd9-c916-4c6e-877b-307ecdcab0e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8ee0c58-b244-4707-a25c-c1c8ca4e158e")
 			(effects
 				(font
 					(size 1 1)
@@ -26359,6 +27282,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ca66956-7146-422a-9262-cb3ea22fc16d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/657b1c20-b0ec-4f6c-99a7-d61bb16e6df4/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector9")
@@ -26603,6 +27539,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42325f00-6d8d-4d83-a77c-9ec38441ca23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "10.0µF, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4601d9d4-3c0b-47d4-8a74-2143f50c038f")
 			(effects
 				(font
 					(size 1 1)
@@ -26952,6 +27901,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d06c3b31-1414-427a-9813-482988126367")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector2")
 		(sheetfile "output_connector.kicad_sch")
@@ -27272,6 +28234,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9bcf450f-c89e-4910-bf22-4908d13bf3e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 1206 SMD "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37190bd1-880f-42af-8335-e571bbd37e11")
 			(effects
 				(font
 					(size 1 1)
@@ -27622,6 +28597,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e67ebf5-60b8-4257-adb8-b061a4572fa2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector16")
 		(sheetfile "output_connector.kicad_sch")
@@ -27917,6 +28905,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f0b41f9-8c10-42ba-aaba-1be7384282c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d585eb78-dc1c-4eaa-a73b-0873b00fcc82")
 			(effects
 				(font
 					(size 1 1)
@@ -28221,6 +29222,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62ce6c55-e8e8-4a8c-84c8-b7e6b6c9ca51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7d36bc6-83eb-4839-a903-22029b3fc235")
 			(effects
 				(font
 					(size 1 1)
@@ -28590,6 +29604,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06da1d33-182c-403f-adb5-f0c3b9dcb3b7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/110cf371-5972-417c-854b-923f2722be73/a3456a44-040f-4492-9bbd-f0d6975e2e1e")
 		(sheetname "IOExpander1")
@@ -28886,6 +29913,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6df6c28-2441-4739-8ce0-0b424cde612e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "PQQ10W-Q24-S3-S"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad651a6b-ea39-496c-8be1-e12068e697f0")
 			(effects
 				(font
 					(size 1 1)
@@ -29253,6 +30293,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "337b26f5-0857-4d98-bc8f-533a8c14ce85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/60aa5264-4085-436b-b87d-c1b572383d75")
 		(sheetname "Stammblatt")
@@ -29401,6 +30454,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23141f98-078f-4054-a88f-3e38420bd237")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" " C45   4.7µF, 0805 SMD "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f177be78-a5f4-4202-a6e7-251f6a57fae1")
 			(effects
 				(font
 					(size 1 1)
@@ -29750,6 +30816,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bebdaf8f-f2d2-4c27-8a3a-249f6e08e814")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector11")
 		(sheetfile "output_connector.kicad_sch")
@@ -30076,6 +31155,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7fee662-17f9-42a9-8240-d38a31a85175")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/58339d0c-d507-4735-b821-60bc10a63c36")
 		(sheetname "IOExpander2")
@@ -30308,6 +31400,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "388f061c-c03b-4fd7-b86c-a6d62b8dade2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "459a59aa-812b-43d2-8070-c8c5ee33ce34")
 			(effects
 				(font
 					(size 1 1)
@@ -30584,6 +31689,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c4175ddc-e4cf-4545-bb8b-6a4b9eda7f41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "SI4214DDY-T1-GE3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c8c9ca6-ccfb-4cca-bf74-1713dd25e803")
 			(effects
 				(font
 					(size 1 1)
@@ -31026,6 +32144,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7410c873-d166-43a1-bfb9-1fbeef0d8c86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector10")
 		(sheetfile "output_connector.kicad_sch")
@@ -31353,6 +32484,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "edfb1b96-9023-4022-a677-106a0af0d13d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector2")
@@ -31611,6 +32755,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd25e49c-3e68-47a6-8337-ec1b7ce3c79c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "027c8f76-86e5-4fc2-989e-d983392a21de")
 			(effects
 				(font
 					(size 1 1)
@@ -32140,6 +33297,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "A6S-3102-PH"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26f153eb-0f89-42c0-b199-9cd353ac4d0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ffad5f14-7e9c-4350-be5b-d5cf9dec56af")
 		(sheetname "Stammblatt")
 		(sheetfile "project.kicad_sch")
@@ -32509,6 +33679,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8628fa7-3cab-47c7-b989-1b9c23c8ffd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4359538d-e0b7-4b09-917d-7a4d38680642")
 		(sheetname "Stammblatt")
@@ -32753,6 +33936,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d64a56cb-724a-4a21-82e0-41364852f78d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea38e5fb-392f-4c26-af61-3fd26efd52cc")
 			(effects
 				(font
 					(size 1 1)
@@ -33096,6 +34292,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "08b72350-b9e0-410d-a528-035194ded6f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0255c7e2-6561-46d9-909b-2960a0a18c6c")
 			(effects
 				(font
 					(size 1 1)
@@ -33462,6 +34671,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79a1e556-b544-4ebd-9835-74ffcc004295")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "TCA9548APWR"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c63705a8-89e1-41fd-8e67-13d11b0fb042")
 			(effects
 				(font
 					(size 1 1)
@@ -33996,6 +35218,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "SML-012P8TT86"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccca2d8e-d08f-42bd-8b15-71dcda825594")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b855f07f-db56-458d-ad01-441c221846b1")
 		(sheetname "Stammblatt")
@@ -34300,6 +35535,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "400846b9-9ead-4fae-ae97-bbb59d19d503")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "CMJ2000 TR PBFREE"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5828333-a5a0-45f5-a8cb-36c024a9f1c7")
 			(effects
 				(font
 					(size 1 1)
@@ -34629,6 +35877,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69a69684-c7f4-4539-84e6-664a49c462fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/aee2e6ea-89f6-4db2-b23c-dcbf3ae56e29")
 		(sheetname "Stammblatt")
@@ -34869,6 +36130,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2555eec-3f4b-49ce-895f-bfc140d32b4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6850560a-801f-44db-8b77-5819e590d5c9")
 			(effects
 				(font
 					(size 1 1)
@@ -35281,6 +36555,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5366474b-bfde-414f-babc-a1d0c96d818e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector6")
 		(sheetfile "output_connector.kicad_sch")
@@ -35574,6 +36861,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2ba0f92f-8261-4002-82d3-7fe1f3844ef4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "56.0Ω, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "223c7f03-aaf5-44c1-b591-51d61a6225e0")
 			(effects
 				(font
 					(size 1 1)
@@ -35923,6 +37223,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "227b5861-71d5-4604-9397-af03b84e498b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d7c0e678-dd1d-45e3-8760-6240a32522d5/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector1")
 		(sheetfile "output_connector.kicad_sch")
@@ -36237,6 +37550,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "40.2kΩ, 1206 SMD "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e48aad3-4cbb-4f2c-a89d-6973b0a12abc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5a22ac7f-e30e-40aa-abf3-8f8e272917a7")
 		(sheetname "Stammblatt")
@@ -36502,6 +37828,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "458ea5a1-f66f-473e-8c79-d43656311e16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector11")
@@ -36742,6 +38081,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "603e1e1f-ded9-4120-a473-cbfc98a271e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/e562ba2f-f240-4778-bada-e87a02c9297b")
 		(sheetname "Stammblatt")
@@ -36973,6 +38325,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4f828ddc-4c7b-4a83-91fc-83b74db95afd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5525090d-c398-4c93-b15d-aa414c8b2b45")
 			(effects
 				(font
 					(size 1 1)
@@ -37245,6 +38610,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e00cf684-772c-4753-973b-5e03bb88ce8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/09c828a3-2510-4c24-a29a-d34ea840451a/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector7")
@@ -37510,6 +38888,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84b31278-40ea-405a-a0af-fe9d49a42db1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4a0dedd9-f801-4a39-9d8c-8f52d22ecd20/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector8")
@@ -37768,6 +39159,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "638e69b9-9ec2-4359-8f2a-9ce19aa78199")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9756f33-d6ac-407c-acd3-665232500f40")
 			(effects
 				(font
 					(size 1 1)
@@ -38246,6 +39650,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "860538fc-c86a-40ad-9433-db3a8d26eeed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/8756baca-1d16-4596-9dd4-e189d75e1ba7")
 		(sheetname "Stammblatt")
@@ -38464,6 +39881,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "88fe9111-7acc-4edb-9a04-6b34207de1b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "0.0Ω, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f47c4e5-84c9-4d44-919d-9c063c3d85c8")
 			(effects
 				(font
 					(size 1 1)
@@ -38768,6 +40198,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5b68a79-a811-40c2-9f88-a985f3a1e146")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1N4148WT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b63ba79e-9853-4a72-bf60-5baebdb8513c")
 			(effects
 				(font
 					(size 1 1)
@@ -39112,6 +40555,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0f59567-c139-4d66-8c03-871cdefba598")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a1a38348-3825-4f56-9159-34509a3f9307/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector5")
@@ -39436,6 +40892,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29cc221a-c7ff-4e4c-be9c-b03e9c7ffdd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0681a260-daf7-4427-87ba-22b593f69617")
 			(effects
 				(font
 					(size 1 1)
@@ -39805,6 +41274,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd2944e2-d66d-4de1-9496-c538a16e0686")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/b1cb5c16-ce96-4db3-bd5a-6b5adc84a333")
 		(sheetname "IOExpander2")
@@ -40062,6 +41544,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a0114d1-da03-4783-ad74-8b4a20ffacc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e72d212e-6e80-46c7-9196-0d3540f2bb92")
 			(effects
 				(font
 					(size 1 1)
@@ -40643,6 +42138,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "SX1509QBIULTRT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a94617ca-2506-4a3b-be78-3a7f2616267f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7699f7d7-7fea-405f-a50b-85c9647861cf/f70e0726-612d-405c-a969-03b497cbb85a")
 		(sheetname "IOExpander2")
 		(sheetfile "ioexpender.kicad_sch")
@@ -41191,6 +42699,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "EVP-3AA02Q"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e0bd4f3-3299-42fc-8294-53aa49ba1723")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b65a64ca-7e61-4f55-84c8-15800a5b4fb5")
 		(sheetname "Stammblatt")
 		(sheetfile "project.kicad_sch")
@@ -41580,6 +43101,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d12a552e-61cc-4724-84ba-5d36733d5488")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector13")
 		(sheetfile "output_connector.kicad_sch")
@@ -41942,6 +43476,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27d7e153-95ef-4135-8c40-f3351d0b0782")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/110cf371-5972-417c-854b-923f2722be73/d463cba1-6b7b-4ab3-b8d8-721c19047ec1")
 		(sheetname "IOExpander1")
@@ -42199,6 +43746,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "24b9ccac-de33-4192-af13-3663b4b887e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8e0ac8a-de30-43a0-8c3e-cf7b706e1caf")
 			(effects
 				(font
 					(size 1 1)
@@ -42702,6 +44262,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "067e225a-b7cd-4650-a03c-881adecaa14b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/87e0d4fd-ee8a-4bc4-81b4-220338edfc20/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector16")
@@ -42960,6 +44533,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e5a46c16-9d22-4910-81d6-d909d3ddbe72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "981de52f-2fd2-4a88-9be2-24f460549f60")
 			(effects
 				(font
 					(size 1 1)
@@ -43231,6 +44817,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4efacf2-0a71-46a2-b006-ed030f3e70c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/95a57c27-ed03-4938-8ecb-fbb289f2c40b")
 		(sheetname "Stammblatt")
@@ -43488,6 +45087,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a3cfda6f-8a3b-4599-9375-38cb1adb88c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73b1ea89-50b5-4e4e-8d07-deba29cf8bee")
 			(effects
 				(font
 					(size 1 1)
@@ -43991,6 +45603,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0185f46f-cba4-415c-af1f-d642d2e1d829")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector10")
@@ -44256,6 +45881,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f1e1385-49c6-495a-b29b-626aca2fbcea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector15")
@@ -44489,6 +46127,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7711a95e-6435-4d30-8838-fad9a3b5c92c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb3572ec-ac7c-41fb-a3c0-feb3bb9e8a02")
 			(effects
 				(font
 					(size 1 1)
@@ -44812,6 +46463,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd83eea2-07e0-49b0-80e1-5bc694113b02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6963e450-d8b2-4663-8538-a93325ae6e45/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector14")
 		(sheetfile "output_connector.kicad_sch")
@@ -45126,6 +46790,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a761ead1-61c5-43bd-bde2-f677a081e2b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/742b3abc-db8d-4178-acea-405038943eec")
 		(sheetname "Stammblatt")
@@ -45339,7 +47016,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "Polarized Capacitor, 47.0uF, 35V, D6.3xL7.7 SMD"
+		(property "Manufacturer_Part_Number" "FZ47UF35V90RV0124"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45384,6 +47061,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f05db50a-d507-4b76-b481-bb8778cfe12c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "FZ47UF35V90RV0124"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c407766b-e2ab-4135-abb5-ace5b6d8a42f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "KNSCHA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fc3f0a8-25fe-41cb-baa6-263f85924854")
 			(effects
 				(font
 					(size 1 1)
@@ -45965,6 +47668,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "DRV8871DDA"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10dd7b24-768f-4aa4-ad12-ced4c023ba5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7bb54a12-63e4-40c2-87e3-22c670838c4a/5b0a3138-47fc-46c1-834d-d9bd19d22170")
 		(sheetname "OutputConnector13")
 		(sheetfile "output_connector.kicad_sch")
@@ -46325,6 +48041,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b9d45fc-e143-4353-9107-b453551b9af5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "EVP-3AA02Q"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6705741d-f48e-4fdf-90c8-935b07c689a1")
 			(effects
 				(font
 					(size 1 1)
@@ -46721,6 +48450,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66e73eef-dca6-4f3f-8f9a-c4712a7ca4bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/185bf370-02d6-4634-acaa-15da9241b8cf/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector2")
 		(sheetfile "output_connector.kicad_sch")
@@ -47084,6 +48826,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1efb3b96-5ab3-4c67-9915-b082429867e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/58296131-5d13-4f0f-aa82-9a7fb8e20501/1d0b4ae3-ee32-4616-b38c-5ae5590e9c96")
 		(sheetname "OutputConnector6")
@@ -47329,6 +49084,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ba05fbf-27ca-41b1-b323-8ef65820b04f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26775268-fa2d-4e7b-bd6b-be933f21f07c")
 			(effects
 				(font
 					(size 1 1)
@@ -47660,6 +49428,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29d722f7-56ed-4e87-b4f8-0b421a69bb22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1aa44f51-6639-420f-830f-a65c2c8351b3")
 			(effects
 				(font
 					(size 1 1)
@@ -48017,6 +49798,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "10.0µF, 1206 SMD "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa1ed594-9133-46a9-9fb0-6e7d1d121a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fff91765-75ab-48f0-b185-5e1309baa4d2")
 		(sheetname "Stammblatt")
@@ -48257,6 +50051,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e6d9772-b1e7-4829-816c-ac0b2fce5b89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/05854810-8aca-4350-888a-ff39c8b6f7d9")
 		(sheetname "Stammblatt")
@@ -48488,6 +50295,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "43cb4335-b1d7-4f9e-804f-17a423f75a2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cded3066-8597-44f3-bd19-613e1334c45e")
 			(effects
 				(font
 					(size 1 1)
@@ -48760,6 +50580,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dccd03d6-6dca-4cbf-aeeb-1b050357e5f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c7e103d6-5b1b-4436-858f-f578325c1cd8/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector11")
@@ -49025,6 +50858,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cced9885-5b85-4212-a2fe-c7e41e87caef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/50846de6-e5bf-4d3d-8e6e-663f31181efd/ab94914c-f70e-425f-bc50-c863f933fdee")
 		(sheetname "OutputConnector10")
@@ -49265,6 +51111,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40e1b442-fc11-43da-9f98-3d2a74906414")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/eda36e2d-fa59-4363-acf0-6a76cb0a82b0")
 		(sheetname "Stammblatt")
@@ -49493,6 +51352,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4bb51e65-a716-427b-853f-3f4f47cb4444")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a95acd7-8fe2-46ae-ba7f-d778987af919")
 			(effects
 				(font
 					(size 1 1)
@@ -49929,6 +51801,19 @@
 				)
 			)
 		)
+		(property "AISLER_MPN" "1053131103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf65d7cf-cdf4-4a0f-b22e-5b435faaa0c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bd629dc-cb58-48b5-8189-f1d1c23ca516/e0dbb753-0574-46ee-aeba-d7b407981f3e")
 		(sheetname "OutputConnector15")
 		(sheetfile "output_connector.kicad_sch")
@@ -50285,6 +52170,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba07818d-2cc2-4fbf-bab5-72f3871921aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AISLER_MPN" "30.0kΩ, 1206 SMD "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41ee66cf-ffad-4d55-93a9-2e6faa36bb2e")
 			(effects
 				(font
 					(size 1 1)

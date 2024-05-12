@@ -6,7 +6,7 @@ Control unit for analog model trains, based on ESPHome. A Home Assistant instanc
 It comes in three variants, but all variants are the same boards. Only some components are not placed.
 
 * Primary node with ESP32-S3-Wroom-2
-* Primary node with ESP32-Devkit
+* Primary node with ESP32-Devkit (can also be used as sub node with 3,3V power supply and protection)
 * Sub node
 
 ![3D render of PCB](doc/assets/pcb-3d.png)

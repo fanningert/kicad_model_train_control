@@ -1770,6 +1770,15 @@
 				(hide yes)
 			)
 		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
+			(at 135.89 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7cb61518-8ba6-4afc-99bb-2bf5ad7278c0")
 		)
@@ -1872,6 +1881,15 @@
 			)
 		)
 		(property "LCSC# Alt1" ""
+			(at 52.07 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AISLER_MPN" "100.0nF, 0805 SMD"
 			(at 52.07 81.28 0)
 			(effects
 				(font
@@ -1990,6 +2008,15 @@
 				(hide yes)
 			)
 		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
+			(at 85.09 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a896b81-eb59-42d5-907f-983edb20fc43")
 		)
@@ -2092,6 +2119,15 @@
 			)
 		)
 		(property "LCSC# Alt1" ""
+			(at 95.25 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AISLER_MPN" "10.0kΩ, 1206 SMD "
 			(at 95.25 33.02 0)
 			(effects
 				(font
@@ -2262,6 +2298,15 @@
 			)
 		)
 		(property "LCSC# Alt1" ""
+			(at 72.39 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "AISLER_MPN" "SX1509QBIULTRT"
 			(at 72.39 67.31 0)
 			(effects
 				(font

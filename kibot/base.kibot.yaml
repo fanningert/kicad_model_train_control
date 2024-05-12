@@ -113,6 +113,8 @@ outputs:
           name: 'LCSC-Key Alternatives'
         - field: 'Mouser Part Number'
           name: 'Mouser-Key'
+        - field: 'AISLER_MPN'
+          name: 'AISLER MPN'
         - Footprint
         - field: Description
           name: Description
