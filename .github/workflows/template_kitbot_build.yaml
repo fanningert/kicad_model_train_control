@@ -6,6 +6,9 @@ on:
       pcb-dir-prefix:
         required: true
         type: string
+      panelize:
+        required: true
+        type: string
         
 jobs:
   ERC:

@@ -23,10 +23,10 @@ jobs:
         panelize: [4_5]
         include:
           - target: core
-            panelize: 4_5
+            panelize: 1_2
         exclude:
           - target: core
-            panelize: 1_2
+            panelize: 4_5
     uses: ./.github/workflows/template_kitbot_build.yaml
     with:
       pcb-dir-prefix: ${{ matrix.target }}
