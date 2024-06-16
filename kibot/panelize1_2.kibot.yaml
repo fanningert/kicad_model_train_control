@@ -49,8 +49,8 @@ outputs:
           type: 'annotation'
       - layout:
           type: 'grid'
-          cols: 5
-          rows: 4
+          cols: 1
+          rows: 2
           space: '2mm'
           hbackbone: '3mm'
           vbackbone: '3mm'
