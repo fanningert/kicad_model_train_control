@@ -105,15 +105,15 @@ jobs:
         board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
         verbose: 0
         skip: erc,drc
-    - name: "Generate 3D images of panelized PCB"
-      uses: INTI-CMNB/KiBot@v2_k8
-      with:
-        config: kibot/3d.kibot.yaml
-        dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
-        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
-        board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
-        verbose: 0
-        skip: erc,drc
+#    - name: "Generate 3D images of panelized PCB"
+#      uses: INTI-CMNB/KiBot@v2_k8
+#      with:
+#        config: kibot/3d.kibot.yaml
+#        dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
+#        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+#        board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
+#        verbose: 0
+#        skip: erc,drc
     - name: "Generate production files of panelized PCB"
       uses: INTI-CMNB/KiBot@v2_k8
       with:
@@ -123,6 +123,9 @@ jobs:
         board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
         verbose: 0
         skip: erc,drc
+    - name: Removing unnecessary files
+      run: |
+          rm -rf *.pcb3d
     - name: Prepare files
       run: |
         sudo chown -R runner:runner .
