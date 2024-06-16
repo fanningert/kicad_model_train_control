@@ -19,7 +19,17 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        target: [core,i2cmultiplexer,ioexpander,pcb_vpdummy]
+        target: [core]
     uses: ./.github/workflows/template_kitbot_build.yaml
     with:
       pcb-dir-prefix: ${{ matrix.target }}
+      panelize: '1_2'
+  call-workflow-passing-data:
+    strategy:
+      max-parallel: 1
+      matrix:
+        target: [i2cmultiplexer,ioexpander,pcb_vpdummy]
+    uses: ./.github/workflows/template_kitbot_build.yaml
+    with:
+      pcb-dir-prefix: ${{ matrix.target }}
+      panelize: '4_5'

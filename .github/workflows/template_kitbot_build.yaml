@@ -96,7 +96,7 @@ jobs:
     - name: "Generate files of panelized PCB"
       uses: INTI-CMNB/KiBot@v2_k8
       with:
-        config: kibot/panelize.base.kibot.yaml
+        config: kibot/panelize${{ inputs.panelize }}.base.kibot.yaml
         dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
         schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
         board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
