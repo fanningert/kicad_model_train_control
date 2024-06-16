@@ -20,12 +20,12 @@ jobs:
       max-parallel: 1
       matrix:
         target: [core,i2cmultiplexer,ioexpander]
+        panelize: [4_5]
         include:
           - target: core
             panelize: 4_5
-          - target: i2cmultiplexer
-            panelize: 1_2
-          - target: ioexpander
+        exclude:
+          - target: core
             panelize: 1_2
     uses: ./.github/workflows/template_kitbot_build.yaml
     with:
