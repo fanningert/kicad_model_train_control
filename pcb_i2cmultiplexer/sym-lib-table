@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TCA9548APWR")(type "KiCad")(uri "${KIPRJMOD}/library/TCA9548APWR.kicad_sym")(options "")(descr ""))
+)

@@ -2,6 +2,9 @@ kibot:
   version: 1
   imported_global_has_less_priority: true
 
+global:
+  field_lcsc_part: 'LCSC#'
+
 preflight:
   erc: false
   drc: false
@@ -17,26 +20,10 @@ preflight:
     - name: 'date'
       command: 'date --iso-8601=minutes'
 
-variants:
-  - name: 'PrimaryNodeESP32S3'
-    comment: 'Primary node with ESP32-S3'
-    type: kibom
-    file_id: _PrimaryNodeESP32S3
-    variant: PrimaryNodeESP32S3
-  - name: 'PrimaryNodeESP32Devkit'
-    comment: 'Primary node with ESP32-DevKit'
-    type: kibom
-    file_id: _PrimaryNodeESP32Devkit
-    variant: PrimaryNodeESP32Devkit
-  - name: 'SubNode'
-    comment: 'Full board'
-    type: kibom
-    file_id: _SubNode
-    variant: SubNode
-
 import:
-  - file: JLCPCB_stencil_with_THT
-  - file: PCBWay_stencil
-  - file: Elecrow_stencil
-  - file: FusionPCB_stencil
-  - file: P-Ban_stencil
+  - file: FabGeneric.kitbot.yaml
+  - file: FabJLCPCB.kibot.yaml
+  - file: FabPCBWay.yaml
+  - file: FabElecrow.yaml
+  - file: FabFusionPCB.yaml
+  - file: FabPBan.yaml

@@ -26,6 +26,14 @@ jobs:
           schema: 'pcb_core/project.kicad_sch'
           board: 'pcb_core/project.kicad_pcb'
           verbose: 0
+      - name: Generate fabrication - Production
+        uses: INTI-CMNB/KiBot@v2_k8
+        with:
+          config: kibot/panelize.kibot.yaml
+          dir: pcb_core/Fabrication
+          schema: 'pcb_core/project.kicad_sch'
+          board: 'pcb_core/project.kicad_pcb'
+          verbose: 0
       - name: Retrieve results
         if: ${{ always() }}
         uses: actions/upload-artifact@v4

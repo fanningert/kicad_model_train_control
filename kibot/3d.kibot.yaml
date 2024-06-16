@@ -1,0 +1,69 @@
+kibot:
+  version: 1
+
+global:
+  # We want the revision added to the names for this project
+  output: '%f-%i_%r.%x'
+  pcb_material: 'FR4'
+  solder_mask_color: 'green'
+  silk_screen_color: 'white'
+  pcb_finish: 'ENIG'
+  # This will undo the `set_text_variables` when we run it locally
+  restore_project: true
+  # We will use a value externally formatted
+  time_reformat: false
+  field_lcsc_part: 'LCSC#'
+
+preflight:
+  erc: true
+  drc: true
+  check_zone_fills: true
+  set_text_variables:
+    # The revision will be the short git hash
+    # We use ${git_hash} for the REV field in the worksheet (frame)
+    - name: 'git_hash'
+      command: 'git log -1 --format="%h" $KIBOT_PCB_NAME'
+      before: 'Git:'
+    # Coherent date and time for the schematic and PCB
+    # This will be the time stamp of the files generation, not the commit times
+    # We use `${date}` for the time field in the worksheet (frame)
+    - name: 'date'
+      command: 'date --iso-8601=minutes'
+
+filters:
+ - name: 'exclude_any'
+   type: 'generic'
+   comment: 'Exclude logos, testpoints, fiducials and power'
+   exclude_any:
+     - column: Reference
+       regex: '^(G|#|TP|F).*'
+
+outputs:
+#  - name: 3D_top_view
+#    comment: "3D render from top"
+#    type: render_3d
+#    dir: 3D
+#    options:
+#      rotate_x: 3
+#      rotate_z: 3
+#      ray_tracing: true
+#      width: 1920
+#      height: 1080
+      
+  - name: 3D_top_view_HQ
+    comment: "3D render from top (High Quality)"
+    type: blender_export
+    dir: 3D
+    options:
+      render_options:
+        transparent_background: true
+        samples: 10
+        resolution_x: 1920
+        resolution_y: 1080
+      point_of_view:
+        rotate_x: 30
+        rotate_z: -20
+      light:
+        type: 'SUN'
+      outputs:
+        - type: render

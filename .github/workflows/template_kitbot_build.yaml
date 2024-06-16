@@ -1,0 +1,131 @@
+name: KitBot - Template for build
+
+on:
+  workflow_call:
+    inputs:
+      pcb-dir-prefix:
+        required: true
+        type: string
+        
+jobs:
+  ERC:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run ERC
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        dir: Generated
+        skip: drc
+        targets: __NONE__
+    - name: Retrieve results
+      uses: actions/upload-artifact@v4
+      with:
+        name: ERC_${{ inputs.pcb-dir-prefix }}_Output
+        path: Generated
+        retention-days: 1
+        
+  DRC:
+    runs-on: ubuntu-latest
+    needs: ERC
+    steps:
+    - uses: actions/checkout@v4
+    - name: Run DRC
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        dir: Generated
+        skip: erc
+        targets: __NONE__
+    - name: Retrieve results
+      uses: actions/upload-artifact@v4
+      with:
+        name: DRC_${{ inputs.pcb-dir-prefix }}_Output
+        path: Generated
+        retention-days: 1
+        
+  Fabrication:
+    name: "Build PCB files"
+    runs-on: ubuntu-latest
+    needs: [ERC, DRC]
+    steps:
+    - uses: actions/checkout@v4
+    - name: "Generate files of single PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/base.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Generate 3D images of single PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/3d.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Generate production files of single PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/production.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}/production
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Panelize PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/panelize.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Generate files of panelized PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/panelize.base.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Generate 3D images of panelized PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/3d.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: "Generate production files of panelized PCB"
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: kibot/production.kibot.yaml
+        dir: pcb_${{ inputs.pcb-dir-prefix }}/production_panelize
+        schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
+        board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
+        verbose: 0
+        skip: erc,drc
+    - name: Prepare files
+      run: |
+        sudo chown -R runner:runner .
+    - name: upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: fabrication_${{ inputs.pcb-dir-prefix }}
+        path: pcb_${{ inputs.pcb-dir-prefix }}
+        retention-days: 1

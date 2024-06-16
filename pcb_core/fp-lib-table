@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "PCM_Espressif")(type "KiCad")(uri "${KIPRJMOD}/library/espressif/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "library")(type "KiCad")(uri "${KIPRJMOD}/library")(options "")(descr ""))
+  (lib (name "cust_pcb")(type "KiCad")(uri "${KIPRJMOD}/library/cust_pcb.pretty")(options "")(descr ""))
 )
