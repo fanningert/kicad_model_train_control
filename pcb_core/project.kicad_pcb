@@ -9023,7 +9023,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "3fef9013-9f73-4c34-b9b9-0b3c965ea227")
-		(at 157.48 39.878 -90)
+		(at 157.48 40.386 -90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T7"
 			(at 0 -2 90)
@@ -9129,7 +9129,7 @@
 			(uuid "74a416fa-2959-4849-9a20-a6476735e022")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "abed6812-fe87-4d46-8b9a-878f32644db5")
 			(effects
@@ -14643,7 +14643,7 @@
 			(uuid "2f996480-1bce-4c40-a31a-f8ef76fc6b47")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "9a4ba311-a853-41a5-b016-b073fce21f48")
 			(effects
@@ -17024,7 +17024,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "62a08746-eb53-40de-b0ed-a09374d24bed")
-		(at 60.96 39.878 -90)
+		(at 60.96 40.386 -90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T6"
 			(at 0 -2 90)
@@ -17130,7 +17130,7 @@
 			(uuid "965b1947-3adb-461f-97ef-ef6081162cc7")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "5d838e11-c233-4477-90d7-0b8023797e67")
 			(effects
@@ -19729,7 +19729,7 @@
 		(at 261.112 86.36 180)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T5"
-			(at 0 -2 360)
+			(at 0 -2 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b3de5c7a-b30b-49e5-be74-ac5239f179a0")
@@ -19741,7 +19741,7 @@
 			)
 		)
 		(property "Value" "Tab"
-			(at -2.75 -1 360)
+			(at -2.75 -1 0)
 			(layer "Dwgs.User")
 			(uuid "a2421cc7-3383-4e66-9409-5a05b5bca5e6")
 			(effects
@@ -19752,7 +19752,7 @@
 			)
 		)
 		(property "Footprint" "PCM_kikit:Tab"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ffb9fa4a-a0f0-46ae-8b7e-2aaf12baf25f")
@@ -19764,7 +19764,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "11a274c5-618c-4411-bb8a-1acd32bb2d00")
@@ -19776,7 +19776,7 @@
 			)
 		)
 		(property "Description" "KiKit tab annotations"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6787407c-aca2-4c5e-8381-00246135a4ef")
@@ -21104,7 +21104,7 @@
 			(uuid "f2f70c05-1728-413a-8603-4d3af314ce47")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "72878bed-27bb-497f-8a75-85801d1388d7")
 			(effects
@@ -26250,7 +26250,7 @@
 			(uuid "f9170875-8725-46d0-95ec-f604d207371b")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "8562edc2-c5d8-4209-b66f-39300efadc45")
 			(effects
@@ -38143,7 +38143,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "ea3b3339-dee1-40ae-a418-6a720a964d44")
-		(at 247.904 39.878 -90)
+		(at 247.904 40.386 -90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T8"
 			(at 0 -2 90)
@@ -38249,7 +38249,7 @@
 			(uuid "da05d6e8-f881-4eb0-9b63-1b0cd49f356b")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "1fe215c9-5c35-467c-91f1-14f24a60f0c3")
 			(effects
@@ -42063,17 +42063,6 @@
 		(layer "Edge.Cuts")
 		(uuid "21fb7c83-baab-4856-a40d-a36906f2fadc")
 	)
-	(gr_arc
-		(start 248.412 101.346)
-		(mid 248.040026 102.244025)
-		(end 247.142001 102.615999)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "3bea688b-ddb7-4e87-8251-926f0a19c632")
-	)
 	(gr_rect
 		(start 258.318 127.508)
 		(end 259.842 130.048)
@@ -42095,8 +42084,19 @@
 		(layer "Edge.Cuts")
 		(uuid "73fbd8b4-b409-4847-8fa8-2b9d8c3db5ec")
 	)
+	(gr_arc
+		(start 248.412 101.616)
+		(mid 248.119107 102.323107)
+		(end 247.412 102.616)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "802a3701-d6fa-4195-9c9e-19b825d8ce64")
+	)
 	(gr_line
-		(start 247.65 104.14)
+		(start 247.69 104.14)
 		(end 203.454 104.14)
 		(stroke
 			(width 0.05)
@@ -42149,7 +42149,7 @@
 	)
 	(gr_line
 		(start 248.412 73.66)
-		(end 248.412 101.346)
+		(end 248.412 101.616)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -42169,7 +42169,7 @@
 	)
 	(gr_line
 		(start 203.454 102.616)
-		(end 247.142001 102.615999)
+		(end 247.412 102.616)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -42177,26 +42177,26 @@
 		(layer "Edge.Cuts")
 		(uuid "d8642306-055c-4ecf-b0a4-0b4516ae4e75")
 	)
-	(gr_arc
-		(start 250.19 101.6)
-		(mid 249.446051 103.396051)
-		(end 247.65 104.14)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "dc5b41e4-39bd-4985-bba8-7fe7afb52720")
-	)
 	(gr_line
 		(start 250.19 73.66)
-		(end 250.19 101.6)
+		(end 250.19 101.64)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "f2f752a1-0194-472d-98a4-ea0ed65f8386")
+	)
+	(gr_arc
+		(start 250.19 101.64)
+		(mid 249.457767 103.407767)
+		(end 247.69 104.14)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f9a1a497-f271-47c6-b8d9-2991d8509e16")
 	)
 	(gr_line
 		(start 48.278051 43.452051)
@@ -53264,8 +53264,7 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 156.972 73.152) (xy 156.318477 73.152) (xy 156.251438 73.132315) (xy 156.21 73.084493) (xy 156.21 58.511486)
-				(xy 156.227185 58.452961) (xy 156.265224 58.42) (xy 156.972 58.42)
+				(xy 156.972 73.152) (xy 156.21 73.152) (xy 156.21 58.42) (xy 156.972 58.42)
 			)
 		)
 	)
@@ -53826,8 +53825,7 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 204.724 73.152) (xy 204.070477 73.152) (xy 204.003438 73.132315) (xy 203.962 73.084493) (xy 203.962 58.511486)
-				(xy 203.979185 58.452961) (xy 204.017224 58.42) (xy 204.724 58.42)
+				(xy 204.724 73.152) (xy 203.962 73.152) (xy 203.962 58.42) (xy 204.724 58.42)
 			)
 		)
 	)
@@ -54659,8 +54657,7 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 97.282 73.152) (xy 96.628477 73.152) (xy 96.561438 73.132315) (xy 96.52 73.084493) (xy 96.52 58.511486)
-				(xy 96.537185 58.452961) (xy 96.575224 58.42) (xy 97.282 58.42)
+				(xy 97.282 73.152) (xy 96.52 73.152) (xy 96.52 58.42) (xy 97.282 58.42)
 			)
 		)
 	)
@@ -58287,10 +58284,10 @@
 		)
 		(polygon
 			(pts
-				(xy 58.928 68.58) (xy 58.928 73.152) (xy 250.19 73.152) (xy 250.19 102.108) (xy 247.904 104.14)
-				(xy 215.646 104.14) (xy 215.646 115.062) (xy 208.28 122.428) (xy 205.994 122.428) (xy 205.994 124.46)
-				(xy 215.646 124.46) (xy 225.806 124.46) (xy 225.806 114.808) (xy 226.06 114.554) (xy 255.778 114.554)
-				(xy 255.778 68.58)
+				(xy 58.928 68.58) (xy 58.928 73.152) (xy 250.19 73.152) (xy 250.19 102.108) (xy 249.936 102.743)
+				(xy 249.428 103.378) (xy 248.666 103.886) (xy 247.904 104.14) (xy 215.646 104.14) (xy 215.646 115.062)
+				(xy 208.28 122.428) (xy 205.994 122.428) (xy 205.994 124.46) (xy 215.646 124.46) (xy 225.806 124.46)
+				(xy 225.806 114.808) (xy 226.06 114.554) (xy 255.778 114.554) (xy 255.778 68.58)
 			)
 		)
 		(filled_polygon
