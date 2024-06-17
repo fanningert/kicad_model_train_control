@@ -26,6 +26,8 @@ jobs:
             panelize: 5_4
           - name: ioexpander
             panelize: 5_4
+          - name: vpdummy
+            panelize: 5_4
           - name: esp32dev
             panelize: 3_2
     uses: ./.github/workflows/template_kitbot_build.yaml
