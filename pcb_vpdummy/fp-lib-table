@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Castellated_Holes")(type "KiCad")(uri "${KIPRJMOD}/library/Castellated_Holes.pretty")(options "")(descr ""))
+)
