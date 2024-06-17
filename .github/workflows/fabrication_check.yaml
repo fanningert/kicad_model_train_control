@@ -4,15 +4,15 @@ on:
   push:
     branches: 
       - main
-    paths:
-      - 'kibot/**.*'
-      - 'pcb_*/**.*' 
+#    paths:
+#      - 'kibot/**.*'
+#      - 'pcb_*/**.*' 
   pull_request:
     branches: 
       - main
-    paths:
-      - 'kibot/**.*'
-      - 'pcb_*/**.*' 
+#    paths:
+#      - 'kibot/**.*'
+#      - 'pcb_*/**.*' 
 
 jobs:
   call-workflow-passing-data:
