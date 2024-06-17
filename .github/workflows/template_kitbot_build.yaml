@@ -103,7 +103,7 @@ jobs:
         dir: pcb_${{ inputs.pcb-dir-prefix }}/panelize
         schema: 'pcb_${{ inputs.pcb-dir-prefix }}/project.kicad_sch'
         board: 'pcb_${{ inputs.pcb-dir-prefix }}/panelize/project-panel.kicad_pcb'
-        verbose: 0
+        verbose: 3
         skip: erc,drc
 #    - name: "Generate 3D images of panelized PCB"
 #      uses: INTI-CMNB/KiBot@v2_k8
