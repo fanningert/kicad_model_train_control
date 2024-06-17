@@ -4,15 +4,15 @@ on:
   push:
     branches: 
       - main
-#    paths:
-#      - 'kibot/**.*'
-#      - 'pcb_*/**.*' 
+    paths:
+      - 'kibot/**.*'
+      - 'pcb_*/**.*' 
   pull_request:
     branches: 
       - main
-#    paths:
-#      - 'kibot/**.*'
-#      - 'pcb_*/**.*' 
+    paths:
+      - 'kibot/**.*'
+      - 'pcb_*/**.*' 
 
 jobs:
   call-workflow-passing-data:
@@ -27,7 +27,7 @@ jobs:
           - name: ioexpander
             panelize: 5_4
           - name: esp32dev
-            panelize: 5_4
+            panelize: 3_2
     uses: ./.github/workflows/template_kitbot_build.yaml
     with:
       pcb-dir-prefix: ${{ matrix.target.name }}
