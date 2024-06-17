@@ -391,7 +391,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "402300c7-6a98-4194-ac46-ba9578d75315")
-		(at 92.964 39.624 -90)
+		(at 92.456 39.624 -90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T2"
 			(at 0 -2 90)
@@ -497,7 +497,7 @@
 			(uuid "af5c1bac-e7f9-4cc3-847b-d17c73fd9c39")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "52f5a564-d0dc-48d6-a4bd-f33dda784d88")
 			(effects
@@ -511,7 +511,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "40aee78a-e2ec-4dfc-9c3e-1983a67562d8")
-		(at 77.47 39.624 -90)
+		(at 77.978 39.624 -90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T1"
 			(at 0 -2 90)
@@ -617,7 +617,7 @@
 			(uuid "defdcabd-f8ec-48ff-b109-1f829675d5d5")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "682318f4-2af6-4496-8627-78bf93b303fb")
 			(effects
@@ -1141,7 +1141,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "8d50f7b7-0075-42f2-b9de-1b9d4479d5f8")
-		(at 77.47 56.134 90)
+		(at 77.978 56.134 90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T3"
 			(at 0 -2 90)
@@ -1247,7 +1247,7 @@
 			(uuid "2de1053e-1758-47a2-ba82-60ef6819993d")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "197c36fd-6372-427b-9ccc-68a3911332e7")
 			(effects
@@ -1567,7 +1567,7 @@
 	(footprint "PCM_kikit:Tab"
 		(layer "F.Cu")
 		(uuid "e6d318c2-1949-4a17-8e80-a3134495859f")
-		(at 92.964 56.154 90)
+		(at 92.456 56.154 90)
 		(descr "A symbol representing annotation for tab placement")
 		(property "Reference" "T4"
 			(at 0 -2 90)
@@ -1673,7 +1673,7 @@
 			(uuid "f8e6d094-4973-4c7c-a0a4-9b44fb3cfb24")
 		)
 		(fp_text user "KIKIT: width: 3mm"
-			(at -5.5 0 360)
+			(at -5.5 0 0)
 			(layer "Dwgs.User")
 			(uuid "591384ba-e2b0-4c22-af6c-78528d867715")
 			(effects
