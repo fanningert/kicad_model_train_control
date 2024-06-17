@@ -3164,7 +3164,7 @@
 			(layer "Dwgs.User")
 			(uuid "47012b44-bd7e-4d35-bbbe-a3f1a69482e7")
 		)
-		(fp_text user "KIKIT: width: 2.54mm"
+		(fp_text user "KIKIT: width: 2mm"
 			(at -5.5 0 90)
 			(layer "Dwgs.User")
 			(uuid "28340d83-3eb6-44a6-9796-4920b73435de")
@@ -3830,7 +3830,7 @@
 			(layer "Dwgs.User")
 			(uuid "5ed57d85-9190-4d3f-8809-2e52d980fb37")
 		)
-		(fp_text user "KIKIT: width: 2.54mm"
+		(fp_text user "KIKIT: width: 2mm"
 			(at -5.5 0 90)
 			(layer "Dwgs.User")
 			(uuid "43836944-43f4-48b5-bef5-30fa6b033f55")
