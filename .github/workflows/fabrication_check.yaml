@@ -26,6 +26,8 @@ jobs:
             panelize: 5_4
           - name: ioexpander
             panelize: 5_4
+          - name: esp32dev
+            panelize: 5_4
     uses: ./.github/workflows/template_kitbot_build.yaml
     with:
       pcb-dir-prefix: ${{ matrix.target.name }}
