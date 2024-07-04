@@ -56,8 +56,8 @@ outputs:
           vbackbone: '3mm'
       - cuts:
           type: 'mousebites'
-          drill: '0.3mm'
-          spacing: '0.5mm'
+          drill: '0.5mm'
+          spacing: '0.3mm'
           offset: '0mm'
           prolong: '0.5mm'
       - post:
