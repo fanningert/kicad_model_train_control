@@ -1,0 +1,24 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  port_no: "1"
+  voltage_multi: 1.0
+  name: "h${hub_no}b${board_no}p${port_no}_signal"
+
+packages:
+  signal: !include
+    file: mtc_ha_switch.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      port_no: ${port_no}
+      voltage_multi: ${voltage_multi}
+
+binary_sensor:
+  - id: !extend h${hub_no}b${board_no}p${port_no}_switch_state
+    name: "${name} State"
+
+switch:
+  - id: !extend h${hub_no}b${board_no}p${port_no}_switch
+    name: "${name}"
+    icon: "mdi:railroad-light"

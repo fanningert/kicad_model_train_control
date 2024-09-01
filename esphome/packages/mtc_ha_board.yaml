@@ -1,0 +1,182 @@
+# h1b1p1
+# h = hub, b = board, p = Board Port
+
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  i2c_address: "0x70"
+
+i2c:
+  - id: i2c0
+    sda: 18
+    scl: 19
+    scan: true
+    frequency: 100kHz
+
+packages:
+  tca9548: !include
+    file: mtc_tca9548.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      i2c_id: i2c0
+      i2c_address: ${i2c_address}
+
+  pca9685_01: !include
+    file: mtc_pca9685.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+
+  pca9685_02: !include
+    file: mtc_pca9685.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+
+  hbridge_01: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "14"
+      io2: "15"
+      port_no: "01"
+  hbridge_02: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "12"
+      io2: "13"
+      port_no: "02"
+  hbridge_03: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "9"
+      io2: "8"
+      port_no: "03"
+  hbridge_04: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "11"
+      io2: "10"
+      port_no: "04"
+  hbridge_05: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "6"
+      io2: "7"
+      port_no: "05"
+  hbridge_06: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "4"
+      io2: "5"
+      port_no: "06"
+  hbridge_07: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "2"
+      io2: "3"
+      port_no: "07"
+  hbridge_08: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "1"
+      io1: "0"
+      io2: "1"
+      port_no: "08"
+  hbridge_09: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "14"
+      io2: "15"
+      port_no: "09"
+  hbridge_10: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "12"
+      io2: "13"
+      port_no: "10"
+  hbridge_11: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "10"
+      io2: "11"
+      port_no: "11"
+  hbridge_12: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "8"
+      io2: "9"
+      port_no: "12"
+  hbridge_13: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "1"
+      io2: "0"
+      port_no: "13"
+  hbridge_14: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "3"
+      io2: "2"
+      port_no: "14"
+  hbridge_15: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "5"
+      io2: "4"
+      port_no: "15"
+  hbridge_16: !include
+    file: mtc_hbridge.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      mpc_no: "0"
+      io1: "7"
+      io2: "6"
+      port_no: "16"

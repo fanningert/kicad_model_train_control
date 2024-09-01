@@ -1,0 +1,66 @@
+# 2 State Yield
+
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  port_no: "1"
+  voltage_multi: 1.0
+  name: "h${hub_no}b${board_no}p${port_no}_yield"
+  delay: 500ms
+
+esphome:
+    on_boot:
+        priority: 600
+        then:
+            - binary_sensor.template.publish:
+                id: h${hub_no}b${board_no}p${port_no}_yield_state
+                state: ON
+            - button.press: h${hub_no}b${board_no}p${port_no}_yield
+
+packages:
+  yield: !include
+    file: mtc_hbridge_voltage.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      port_no: ${port_no}
+      voltage_multi: ${voltage_multi}
+
+binary_sensor:
+  - platform: template
+    name: ${name} State
+    id: h${hub_no}b${board_no}p${port_no}_yield_state
+    entity_category: 'DIAGNOSTIC'
+
+button:
+  - platform: template
+    id: h${hub_no}b${board_no}p${port_no}_yield
+    name: "${name}"
+    icon: mdi:electric-switch
+    on_press:
+      then:
+        if:
+          condition:
+            binary_sensor.is_on: h${hub_no}b${board_no}p${port_no}_yield_state
+          then:
+            - fan.turn_on: 
+                id: h${hub_no}b${board_no}p${port_no}_voltage
+                speed: 100
+                direction: reverse
+            - delay: ${delay}
+            - fan.turn_off: 
+                id: h${hub_no}b${board_no}p${port_no}_voltage
+            - binary_sensor.template.publish:
+                id: h${hub_no}b${board_no}p${port_no}_yield_state
+                state: OFF
+          else:
+            - fan.turn_on: 
+                id: h${hub_no}b${board_no}p${port_no}_voltage
+                speed: 100
+                direction: forward
+            - delay: ${delay}
+            - fan.turn_off: 
+                id: h${hub_no}b${board_no}p${port_no}_voltage
+            - binary_sensor.template.publish:
+                id: h${hub_no}b${board_no}p${port_no}_yield_state
+                state: ON

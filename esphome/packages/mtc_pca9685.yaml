@@ -1,0 +1,79 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  mpc_no: "1"
+  ioexp_no: "1"
+  i2c_address: '0x40'
+  ioexp_freq: '1000'
+
+pca9685:
+  - id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    frequency: ${ioexp_freq}
+    i2c_id: h${hub_no}b${board_no}m${mpc_no}
+    address: ${i2c_address}
+
+output:
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 0
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_0
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 1
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_1
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 2
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_2
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 3
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_3
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 4
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_4
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 5
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_5
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 6
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_6
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 7
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_7
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 8
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_8
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 9
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_9
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 10
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_10
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 11
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_11
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 12
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_12
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 13
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_13
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 14
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_14
+  - platform: pca9685
+    pca9685_id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}
+    channel: 15
+    id: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_15

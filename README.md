@@ -34,23 +34,7 @@ flowchart LR
 ## Supported szenarios
 
 - Power line
-- Train Switch
+- Yield
+- Generic Switch
 - Signal
-- Light
 - Uncoupler
-
-## ESPHome
-
-### Template
-
-### Variants
-
-#### Power line
-
-#### Train Switch
-
-#### Signal
-
-#### Light
-
-#### Uncoupler

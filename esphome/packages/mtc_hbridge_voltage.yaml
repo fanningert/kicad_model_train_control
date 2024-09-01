@@ -1,0 +1,66 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  port_no: "1"
+  voltage_multi: 1.0
+
+number:
+  - platform: template
+    id: h${hub_no}b${board_no}p${port_no}_voltage_multi
+    min_value: 0
+    max_value: 1
+    step: 0.01
+    initial_value: ${voltage_multi}
+    optimistic: true
+    internal: true
+
+fan:
+  - platform: template
+    id: h${hub_no}b${board_no}p${port_no}_voltage
+    has_direction: true
+    speed_count: 100
+    restore_mode: NO_RESTORE
+    internal: true
+    on_turn_on:
+      - lambda: |-
+          float l_voltage_multi = id(h${hub_no}b${board_no}p${port_no}_voltage_multi).state;
+          float l_current_speed = id(h${hub_no}b${board_no}p${port_no}_voltage).speed;
+          float calc_speed = ( l_current_speed * l_voltage_multi );
+          ESP_LOGD("custom", "TURN_ON: %.01f %.01f %.01f", l_voltage_multi, l_current_speed, calc_speed);
+          auto call = id(h${hub_no}b${board_no}p${port_no}).turn_on();
+          call.set_speed( calc_speed );
+          if (id(h${hub_no}b${board_no}p${port_no}).direction == FanDirection::FORWARD) {
+            call.set_direction(FanDirection::FORWARD);
+          } else {
+            call.set_direction(FanDirection::REVERSE);
+          }
+          call.perform();
+    on_turn_off:
+      - lambda: |-
+          auto call = id(h${hub_no}b${board_no}p${port_no}).turn_off();
+          call.set_speed( 0 );
+          call.perform();
+    on_direction_set:
+      - lambda: |-
+          auto call = id(h${hub_no}b${board_no}p${port_no}).turn_on();
+          if (id(h${hub_no}b${board_no}p${port_no}_voltage).direction == FanDirection::FORWARD) {
+            call.set_direction(FanDirection::FORWARD);
+          } else {
+            call.set_direction(FanDirection::REVERSE);
+          }
+          call.perform();
+    on_speed_set:
+      - lambda: |-
+          float l_voltage_multi = id(h${hub_no}b${board_no}p${port_no}_voltage_multi).state;
+          //float l_current_speed = id(h${hub_no}b${board_no}p${port_no}_voltage).speed;
+          float l_current_speed = x;
+          float calc_speed = ( l_current_speed * l_voltage_multi );
+          ESP_LOGD("custom", "SPEED: %.01f %.01f %.01f", l_voltage_multi, l_current_speed, calc_speed);
+          auto call = id(h${hub_no}b${board_no}p${port_no}).turn_on();
+          call.set_speed( calc_speed );
+          if (id(h${hub_no}b${board_no}p${port_no}_voltage).direction == FanDirection::FORWARD) {
+            call.set_direction(FanDirection::FORWARD);
+          } else {
+            call.set_direction(FanDirection::REVERSE);
+          }
+          call.perform();

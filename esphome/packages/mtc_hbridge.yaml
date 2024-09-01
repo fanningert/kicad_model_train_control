@@ -1,0 +1,18 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  mpc_no: "1"
+  ioexp_no: "1"
+  io1: "0"
+  io2: "1"
+  port_no: "1"
+
+fan:
+  - platform: hbridge
+    id: h${hub_no}b${board_no}p${port_no}
+    #name: "h${hub_no}b${board_no}p${port_no}"
+    pin_a: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_${io1}
+    pin_b: h${hub_no}b${board_no}m${mpc_no}i${ioexp_no}_${io2}
+    decay_mode: FAST
+    restore_mode: NO_RESTORE
+    internal: true

@@ -1,0 +1,56 @@
+# 2 State Switch
+
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  port_no: "1"
+  voltage_multi: 1.0
+  name: "h${hub_no}b${board_no}p${port_no}_switch"
+
+esphome:
+    on_boot:
+        priority: 600
+        then:
+            - binary_sensor.template.publish:
+                id: h${hub_no}b${board_no}p${port_no}_switch_state
+                state: OFF
+            - switch.turn_off: h${hub_no}b${board_no}p${port_no}_switch
+
+packages:
+  switch: !include
+    file: mtc_hbridge_voltage.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      port_no: ${port_no}
+      voltage_multi: ${voltage_multi}
+
+binary_sensor:
+  - platform: template
+    name: ${name} State
+    id: h${hub_no}b${board_no}p${port_no}_switch_state
+    entity_category: 'DIAGNOSTIC'
+
+switch:
+  - platform: template
+    id: h${hub_no}b${board_no}p${port_no}_switch
+    name: ${name}
+    lambda: |-
+      if (id(h${hub_no}b${board_no}p${port_no}_switch_state).state) {
+        return true;
+      } else {
+        return false;
+      }
+    turn_on_action:
+        - fan.turn_on: 
+            id: h${hub_no}b${board_no}p${port_no}_voltage
+            speed: 100
+            direction: forward
+        - binary_sensor.template.publish:
+            id: h${hub_no}b${board_no}p${port_no}_switch_state
+            state: ON
+    turn_off_action:
+        - fan.turn_off: h${hub_no}b${board_no}p${port_no}_voltage
+        - binary_sensor.template.publish:
+            id: h${hub_no}b${board_no}p${port_no}_switch_state
+            state: OFF

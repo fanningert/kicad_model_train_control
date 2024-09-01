@@ -1,0 +1,21 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  port_no: "1"
+  voltage_multi: 1.0
+  name: "h${hub_no}b${board_no}p${port_no}_powerline"
+
+packages:
+  power_line: !include
+    file: mtc_hbridge_voltage.yaml
+    vars:
+      hub_no: ${hub_no}
+      board_no: ${board_no}
+      port_no: ${port_no}
+      voltage_multi: ${voltage_multi}
+
+fan:
+  - id: !extend h${hub_no}b${board_no}p${port_no}_voltage
+    name: "${name}"
+    icon: "mdi:train"
+    internal: false

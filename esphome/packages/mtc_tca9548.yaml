@@ -1,0 +1,15 @@
+defaults:
+  hub_no: "1"
+  board_no: "1"
+  i2c_id: i2c0
+  i2c_address: '0x70'
+
+tca9548a:
+  - address: ${i2c_address}
+    id: h${hub_no}b${board_no}
+    i2c_id: ${i2c_id}
+    channels:
+      - bus_id: h${hub_no}b${board_no}m0
+        channel: 0
+      - bus_id: h${hub_no}b${board_no}m1
+        channel: 3

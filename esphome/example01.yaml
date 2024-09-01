@@ -1,9 +1,15 @@
 # convert to packages: https://esphome.io/guides/configuration-types.html?highlight=packages#packages
-# hbridge modes: power line (IN1, IN2), yield (IN1, IN2, GND), signal (IN1, GND), light (IN1, GND) or switch light (IN1, IN2, GND)
+
+substitutions:
+  devicename: hrmtraincontrol01
+  friendly_name: "MTrainControl01"
+  node_name: htrain01
+  hub_no: "1"
+  voltage_multi: "0.58"
 
 esphome:
-  name: example01
-  friendly_name: example01
+  name: ${devicename}
+  friendly_name: ${friendly_name}
 
 esp32:
   board: esp32dev
@@ -22,49 +28,53 @@ ota:
   password: "xxxx"
 
 captive_portal:
-
-i2c:
-  - id: i2c0
-    sda: 18
-    scl: 19
-    scan: true
-
+  
 packages:
   wifi: !include packages/wifi.yaml
-  pack01: !include
-    file: packages/mtrain_sx1509.yaml
+  wifi_sensor: !include packages/wifi_sensor.yaml
+  board1: !include
+    file: packages/mtc_ha_board.yaml
     vars:
-      hub_no: "1"
-      i2C_id: i2c0
-      i2c_address: 0x3E
-  power_line01: !include
-    file: packages/mtrain_power_line.yaml
+      hub_no: ${hub_no}
+      board_no: 1
+      i2c_address: "0x70"
+
+  train01: !include
+    file: packages/mtc_ha_power_line.yaml
     vars:
-      name: "Power Line 01"
-      hub_no: 1
-      hbridge_no: 1
-  power_line02: !include
-    file: packages/mtrain_power_line.yaml
+      hub_no: ${hub_no}
+      board_no: "1"
+      port_no: "01"
+      voltage_multi: ${voltage_multi}
+
+  yield01: !include
+    file: packages/mtc_ha_yield.yaml
     vars:
-      name: "Power Line 02"
-      hub_no: 1
-      hbridge_no: 2
-  track_switch03: !include
-    file: packages/mtrain_track_switch_2way.yaml
+      hub_no: ${hub_no}
+      board_no: "1"
+      port_no: "02"
+      voltage_multi: ${voltage_multi}
+
+  switch01: !include
+    file: packages/mtc_ha_switch.yaml
     vars:
-      name: "Track Switch 01"
-      hub_no: 1
-      hbridge_no: 3
-      
-  pack01: !include
-    file: packages/mtrain_sx1509.yaml
+      hub_no: ${hub_no}
+      board_no: "1"
+      port_no: "03"
+      voltage_multi: ${voltage_multi}
+
+  signal01: !include
+    file: packages/mtc_ha_signal.yaml
     vars:
-      hub_no: "2"
-      i2C_id: i2c0
-      i2c_address: 0x3F
-  power_line01: !include
-    file: packages/mtrain_power_line.yaml
+      hub_no: ${hub_no}
+      board_no: "1"
+      port_no: "04"
+      voltage_multi: ${voltage_multi}
+
+  decoupler01: !include
+    file: packages/mtc_ha_decoupler.yaml
     vars:
-      name: "Power Line 01"
-      hub_no: 2
-      hbridge_no: 1
+      hub_no: ${hub_no}
+      board_no: "1"
+      port_no: "05"
+      voltage_multi: ${voltage_multi}
